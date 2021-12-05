@@ -1,4 +1,5 @@
 import json
+import re
 
 import cssutils
 import requests
@@ -7,6 +8,16 @@ from bs4.element import Tag
 from flask import Flask
 
 app = Flask(__name__)
+
+
+def to_text(element) -> str:
+    text = ''
+    for elem in element.recursiveChildGenerator():
+        if isinstance(elem, str):
+            text += elem.strip()
+        elif elem.name == 'br':
+            text += '\n'
+    return text
 
 
 def parse_post(msg: Tag) -> dict:
@@ -41,7 +52,7 @@ def parse_post(msg: Tag) -> dict:
 
     text = msg.select_one('.js-message_text')
     if text is not None:
-        post['text'] = text.get_text()
+        post['text'] = re.sub(re.compile('<(?!br)(.*?)>'), '', str(text)).replace('<br/>', '\n')
 
     info = msg.select_one('.tgme_widget_message_info')
     if info is not None:
@@ -50,14 +61,9 @@ def parse_post(msg: Tag) -> dict:
         if views is not None:
             post['views'] = views.text
 
-    imgs = msg.select_one('.tgme_widget_message_grouped')
-    if imgs is not None:
-        images = []
-        for img in imgs.select('.js-message_photo'):
-            images.append({
-                'href': img.attrs['href'],
-                'url': get_bg_image(img.attrs['style'])
-            })
+    imgs = msg.select('.tgme_widget_message_photo_wrap')
+    if len(imgs) != 0:
+        images = [{'href': i.attrs['href'], 'url': get_bg_image(i.attrs['style'])} for i in imgs]
         post['images'] = images
 
     return post
