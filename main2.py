@@ -96,7 +96,25 @@ def update():
 
 @app.route('/')
 def root():
+    return "Hello World"
+
+
+@app.route('/posts.json')
+def posts():
     return json.dumps(posts, indent=1)
+
+
+@app.route('/update')
+def update_route():
+    update()
+    return "Updated"
+
+
+@app.after_request
+def after_request(response):
+    header = response.headers
+    header['Access-Control-Allow-Origin'] = '*'
+    return response
 
 
 if __name__ == '__main__':
