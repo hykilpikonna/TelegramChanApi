@@ -11,3 +11,7 @@ This repo uses GitHub Pages and GitHub Actions to create an json API for a Teleg
 5. Your channel json will be hosted at https://<username>.github.io/TelegramChanApi/posts.json
 
 (The GitHub actions script will update the JSON once every two hours)
+
+## Example
+
+https://hykilpikonna.github.io/TelegramChanApi/posts.json
