@@ -14,4 +14,4 @@ This repo uses GitHub Pages and GitHub Actions to create an json API for a Teleg
 
 ## Example
 
-https://hykilpikonna.github.io/TelegramChanApi/posts.json
+https://telegram-api.hydev.org/posts.json
