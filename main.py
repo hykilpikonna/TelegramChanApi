@@ -141,4 +141,4 @@ if __name__ == '__main__':
     threading.Thread(target=thread_func).start()
 
     # Start app
-    app.run()
+    app.run(port=13845)
