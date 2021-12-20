@@ -92,4 +92,5 @@ def get_all_posts(channel: str):
         more = [e for e in s.select('.tme_messages_more') if 'data-before' in e.attrs]
         print(f'{len(new)} additional posts parsed (Total {len(posts)})')
 
+    return posts
 
