@@ -23,11 +23,12 @@ jobs:
       run: |
         set -xe
         python -VV
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+        python -m pip install beautifulsoup4 cssutils requests
     
     - name: Run Generator
       run: |
         pushd src
+        ls -lah
         python github_actions.py
         popd
     
