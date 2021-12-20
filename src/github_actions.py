@@ -15,7 +15,7 @@ if __name__ == '__main__':
     posts = get_all_posts(channel)
 
     # Write file
-    path = Path(os.path.abspath(__file__)).parent.joinpath('../generated')
+    path = Path(os.path.abspath(__file__)).parent.joinpath('../docs')
     path.mkdir(exist_ok=True)
     with open(path.joinpath('posts.json'), 'w', encoding='utf-8') as f:
         json.dump(posts, f, indent=1, ensure_ascii=False)
