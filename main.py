@@ -1,16 +1,9 @@
-import json
 import re
-import threading
-import time
 
 import cssutils
 import requests
-import schedule
 from bs4 import BeautifulSoup
 from bs4.element import Tag
-from flask import Flask
-
-app = Flask(__name__)
 
 
 def to_text(element) -> str:
@@ -82,12 +75,7 @@ def get_bg_image(css: str) -> str:
         .replace('url(', '').replace(')', '')
 
 
-posts = []
-
-
-def update():
-    global posts
-
+def get_all_posts(channel: str):
     print('Updating...')
 
     s = BeautifulSoup(requests.get(f'https://t.me/s/{channel}').text, 'html.parser')
@@ -105,40 +93,3 @@ def update():
         print(f'{len(new)} additional posts parsed (Total {len(posts)})')
 
 
-@app.route('/')
-def root():
-    return "Hello World"
-
-
-@app.route('/posts.json')
-def posts():
-    return json.dumps(posts, indent=1, ensure_ascii=False)
-
-
-@app.route('/update')
-def update_route():
-    update()
-    return "Updated"
-
-
-@app.after_request
-def after_request(response):
-    header = response.headers
-    header['Access-Control-Allow-Origin'] = '*'
-    return response
-
-
-if __name__ == '__main__':
-    channel = 'hykilp'
-    update()
-
-    # Auto update every hour
-    def thread_func():
-        while True:
-            schedule.run_pending()
-            time.sleep(2)
-    schedule.every().hour.do(update)
-    threading.Thread(target=thread_func).start()
-
-    # Start app
-    app.run(port=13845)
