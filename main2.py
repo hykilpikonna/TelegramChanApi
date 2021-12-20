@@ -1,8 +1,11 @@
 import json
 import re
+import threading
+import time
 
 import cssutils
 import requests
+import schedule
 from bs4 import BeautifulSoup
 from bs4.element import Tag
 from flask import Flask
@@ -85,6 +88,8 @@ posts = []
 def update():
     global posts
 
+    print('Updating...')
+
     s = BeautifulSoup(requests.get(f'https://t.me/s/{channel}').text, 'html.parser')
     posts = parse_posts(s)
 
@@ -107,7 +112,7 @@ def root():
 
 @app.route('/posts.json')
 def posts():
-    return json.dumps(posts, indent=1)
+    return json.dumps(posts, indent=1, ensure_ascii=False)
 
 
 @app.route('/update')
@@ -126,4 +131,14 @@ def after_request(response):
 if __name__ == '__main__':
     channel = 'hykilp'
     update()
+
+    # Auto update every hour
+    def thread_func():
+        while True:
+            schedule.run_pending()
+            time.sleep(2)
+    schedule.every().hour.do(update)
+    threading.Thread(target=thread_func).start()
+
+    # Start app
     app.run()
