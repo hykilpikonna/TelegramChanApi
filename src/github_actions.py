@@ -22,7 +22,7 @@ def get_image(url: str, name: str) -> str:
     :return: Localized url
     """
     # Add file extension
-    extension = url.split('.')[-1]
+    extension = url.split('.')[-1].split('?')[0]
     if len(extension) > 5:
         extension = 'jpg'
     name += '.' + extension
@@ -75,6 +75,9 @@ if __name__ == '__main__':
             for img in p['images']:
                 image_id = img['href'].split('/')[-1].split('?')[0]
                 img['url'] = get_image(img['url'], image_id.zfill(4))
+
+        if 'video' in p:
+            p['video']['src'] = get_image(p['video']['src'], p['id'].zfill(4) + '-video')
 
     # Write file
     with open(path.joinpath('posts.json'), 'w', encoding='utf-8') as f:
