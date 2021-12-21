@@ -20,7 +20,20 @@ jobs:
         ls -lah
         mkdir ../temp
         cp src/* ../temp
-        git switch --orphan gh-pages
+        
+        # Check if branch exists
+        if ! git show-branch remotes/origin/gh-pages; then
+          # Create new branch if not exists
+          echo "Creating branch"
+          git switch --orphan gh-pages
+        
+        else
+          # Checkout remote branch if exists
+          echo "Checking out remote branch"
+          git switch gh-pages
+        
+        fi
+        
         ls -lah
         ls -lah ..
         ls -lah ../temp
@@ -41,7 +54,8 @@ jobs:
         cp ../temp/* src/
         pushd src
         ls -lah
-        python github_actions.py
+        echo 'test' > test.txt
+        # python github_actions.py "../"
         popd
         rm -rf src/
     
@@ -55,6 +69,7 @@ jobs:
         default_author: github_actions
         
         branch: gh-pages
+        branch_mode: create
 
         # The message for the commit.
         # Default: 'Commit from GitHub Actions (name of the workflow)'
