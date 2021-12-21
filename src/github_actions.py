@@ -42,7 +42,7 @@ def get_image(url: str, name: str) -> str:
         with open(assets.joinpath(name), 'wb') as f:
             f.write(img_data)
 
-    return '/assets/' + name
+    return f'{cname}/assets/' + name
 
 
 if __name__ == '__main__':
@@ -53,8 +53,16 @@ if __name__ == '__main__':
     print(f'Args: {args}')
 
     # Create path
-    path = Path(os.path.abspath(__file__)).parent.joinpath(args[0] if len(args) > 0 else '../docs')
+    src_path = path = Path(os.path.abspath(__file__)).parent
+    path = src_path.joinpath(args[0] if len(args) > 0 else '../docs')
     path.mkdir(exist_ok=True)
+
+    # Check cname
+    cname = ''
+    cname_path = src_path.joinpath('../CNAME')
+    if os.path.isfile(cname_path):
+        with open(cname_path, 'r', encoding='utf-8') as f:
+            cname = 'https://' + f.read().strip()
 
     # Download images
     for p in posts:
