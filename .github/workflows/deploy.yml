@@ -20,7 +20,22 @@ jobs:
         ls -lah
         mkdir ../temp
         cp src/* ../temp
-        git switch --orphan gh-pages
+        
+        # Check if branch exists
+        git show-branch remotes/origin/gh-pages
+        ret=$?
+        echo "Branch check return code: $ret"
+        
+        # Create new branch if not exists
+        if [ $ret -ne 0 ]; then
+          echo "Creating branch"
+          git switch --orphan gh-pages
+        
+        # Checkout remote branch if exists
+        else
+          echo "Checking out remote branch"
+          git switch gh-pages
+        
         ls -lah
         ls -lah ..
         ls -lah ../temp
@@ -41,7 +56,8 @@ jobs:
         cp ../temp/* src/
         pushd src
         ls -lah
-        python github_actions.py "../"
+        echo 'test' > test.txt
+        # python github_actions.py "../"
         popd
         rm -rf src/
     
