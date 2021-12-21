@@ -53,16 +53,16 @@ if __name__ == '__main__':
     path.mkdir(exist_ok=True)
 
     # Download images
-    for p in posts:
-        for k in ['reply', 'video']:
-            if k in p:
-                if 'thumb' in p[k]:
-                    p[k]['thumb'] = get_image(p[k]['thumb'], p['id'].zfill(4) + f'-{k}-thumb')
-
-        if 'images' in p:
-            for img in p['images']:
-                image_id = img['href'].split('/')[-1].split('?')[0]
-                img['url'] = get_image(img['url'], image_id.zfill(4))
+    # for p in posts:
+    #     for k in ['reply', 'video']:
+    #         if k in p:
+    #             if 'thumb' in p[k]:
+    #                 p[k]['thumb'] = get_image(p[k]['thumb'], p['id'].zfill(4) + f'-{k}-thumb')
+    #
+    #     if 'images' in p:
+    #         for img in p['images']:
+    #             image_id = img['href'].split('/')[-1].split('?')[0]
+    #             img['url'] = get_image(img['url'], image_id.zfill(4))
 
     # Write file
     with open(path.joinpath('posts.json'), 'w', encoding='utf-8') as f:
