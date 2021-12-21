@@ -22,19 +22,17 @@ jobs:
         cp src/* ../temp
         
         # Check if branch exists
-        git show-branch remotes/origin/gh-pages
-        ret=$?
-        echo "Branch check return code: $ret"
-        
-        # Create new branch if not exists
-        if [ $ret -ne 0 ]; then
+        if ! git show-branch remotes/origin/gh-pages; then
+          # Create new branch if not exists
           echo "Creating branch"
           git switch --orphan gh-pages
         
-        # Checkout remote branch if exists
         else
+          # Checkout remote branch if exists
           echo "Checking out remote branch"
           git switch gh-pages
+        
+        fi
         
         ls -lah
         ls -lah ..
