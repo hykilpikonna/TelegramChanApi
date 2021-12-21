@@ -20,7 +20,7 @@ jobs:
         ls -lah
         mkdir ../temp
         cp src/* ../temp
-        git switch -c gh-pages
+        git switch --orphan gh-pages
         ls -lah
         ls -lah ..
         ls -lah ../temp
