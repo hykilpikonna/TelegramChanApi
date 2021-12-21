@@ -41,7 +41,7 @@ jobs:
         cp ../temp/* src/
         pushd src
         ls -lah
-        python github_actions.py
+        python github_actions.py "../"
         popd
         rm -rf src/
     
