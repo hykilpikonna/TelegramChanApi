@@ -54,7 +54,7 @@ jobs:
         cp ../temp/* src/
         pushd src
         ls -lah
-        echo 'test' > test.txt
+        echo 'test' > ../test.txt
         # python github_actions.py "../"
         popd
         rm -rf src/
