@@ -22,7 +22,7 @@ jobs:
         cp src/* ../temp
         
         # Check if branch exists
-        if ! git show-branch remotes/origin/gh-pages; then
+        if ! git fetch --no-tags --depth=1 origin gh-pages; then
           # Create new branch if not exists
           echo "Creating branch"
           git switch --orphan gh-pages
