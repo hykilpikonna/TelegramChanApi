@@ -59,7 +59,7 @@ if __name__ == '__main__':
 
     # Check cname
     cname = ''
-    cname_path = src_path.joinpath('../CNAME')
+    cname_path = path.joinpath('CNAME')
     if os.path.isfile(cname_path):
         with open(cname_path, 'r', encoding='utf-8') as f:
             cname = 'https://' + f.read().strip()
