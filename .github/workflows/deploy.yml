@@ -53,8 +53,6 @@ jobs:
         # - github_actions -> github-actions <email associated with the github logo>
         # Default: github_actor
         default_author: github_actions
-        
-        branch: gh-pages
 
         # The message for the commit.
         # Default: 'Commit from GitHub Actions (name of the workflow)'
