@@ -2259,7 +2259,7 @@
   },
   "text": "放假了！！！\n想想这一个月想做什么w",
   "date": "2021-12-18T01:41:00+00:00",
-  "views": "8"
+  "views": "9"
  },
  {
   "id": "407",
@@ -2284,5 +2284,11 @@
   "text": "做了用 GitHub Actions 把这个频道的内容转成 JSON API 的脚本w\nhttps://github.com/hykilpikonna/TelegramChanApi",
   "date": "2021-12-20T19:49:14+00:00",
   "views": "6"
+ },
+ {
+  "id": "411",
+  "text": "好有趣的广告w\nhttps://youtu.be/fnNW2hr886w",
+  "date": "2021-12-21T02:20:54+00:00",
+  "views": "3"
  }
 ]
