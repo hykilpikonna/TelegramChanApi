@@ -22,7 +22,7 @@ jobs:
         cp src/* ../temp
         
         # Check if branch exists
-        if ! git show-branch remotes/origin/gh-pages; then
+        if ! git fetch --no-tags --depth=1 origin gh-pages; then
           # Create new branch if not exists
           echo "Creating branch"
           git switch --orphan gh-pages
@@ -54,8 +54,7 @@ jobs:
         cp ../temp/* src/
         pushd src
         ls -lah
-        echo 'test' > test.txt
-        # python github_actions.py "../"
+        python github_actions.py "../"
         popd
         rm -rf src/
     
@@ -73,4 +72,4 @@ jobs:
 
         # The message for the commit.
         # Default: 'Commit from GitHub Actions (name of the workflow)'
-        message: '[U] Generate json'
+        message: '[U] Update channel content'
