@@ -45,7 +45,7 @@
   "id": "11",
   "text": "学长陪我去打了 Pfizer，好耶w",
   "date": "2021-09-02T15:34:23+00:00",
-  "views": "17",
+  "views": "18",
   "images": [
    {
     "href": "https://t.me/hykilp/11",
@@ -1993,7 +1993,7 @@
   "id": "373",
   "text": "这个搭配好棒w\n炒饭+酱油+蛋黄酱+番茄酱+海鲜酱",
   "date": "2021-12-08T19:24:27+00:00",
-  "views": "13",
+  "views": "14",
   "images": [
    {
     "href": "https://t.me/hykilp/373",
@@ -2312,6 +2312,22 @@
    {
     "href": "https://t.me/hykilp/413",
     "url": "https://telegram-api.hydev.org/assets/0413.jpg"
+   }
+  ]
+ },
+ {
+  "id": "415",
+  "text": "Zotero 好好用！\n所有看过的文献和相关链接都能整理到同一个地方了w",
+  "date": "2021-12-24T21:47:17+00:00",
+  "views": "1",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/415?single",
+    "url": "https://telegram-api.hydev.org/assets/0415.jpg"
+   },
+   {
+    "href": "https://t.me/hykilp/416?single",
+    "url": "https://telegram-api.hydev.org/assets/0416.jpg"
    }
   ]
  }
