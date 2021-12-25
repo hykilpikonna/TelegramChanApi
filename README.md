@@ -15,3 +15,7 @@ This repo uses GitHub Pages and GitHub Actions to create an json API for a Teleg
 ## Example
 
 https://telegram-api.hydev.org/posts.json
+
+# Zotero API Localization
+
+Additionally, this repo can be used to localize your Zotero publications. Just go to Settings > Secrets and put your Zotero user id into a secret named ZOTERO_USERID.
