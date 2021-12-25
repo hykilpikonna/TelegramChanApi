@@ -82,6 +82,14 @@ def get_style_dict(tag: Tag) -> dict[str, str]:
     d = {**get_css(tag)}
     if 'background-image' in d:
         d.pop('background-image')
+    for k in d:
+        try:
+            d[k] = int(d[k])
+        except ValueError:
+            try:
+                d[k] = int(d[k][:-2])
+            except ValueError:
+                pass
     return d
 
 
