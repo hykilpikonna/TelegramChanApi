@@ -2021,8 +2021,8 @@
   "id": "208",
   "video": {
    "thumb": "https://telegram-api.hydev.org/assets/0208-video-thumb.jpg",
-   "duration": "0:12",
-   "src": "https://telegram-api.hydev.org/assets/0208-video.mp4"
+   "src": "https://telegram-api.hydev.org/assets/0208-video.mp4",
+   "duration": "0:12"
   },
   "text": "每次听到 iOS 键盘打字声都觉得好有节奏感！\n\n来随便打打w",
   "date": "2021-11-10T03:02:34+00:00",
@@ -2951,8 +2951,8 @@
   "id": "311",
   "video": {
    "thumb": "https://telegram-api.hydev.org/assets/0311-video-thumb.jpg",
-   "duration": "0:19",
-   "src": "https://telegram-api.hydev.org/assets/0311-video.mp4"
+   "src": "https://telegram-api.hydev.org/assets/0311-video.mp4",
+   "duration": "0:19"
   },
   "text": "用 IP 连 teamviewer 好流畅，可惜音质不太行（x\n\n（其实这个虚拟机开起来就是为了看 bilibili 的，区域解锁脚本 iOS 不能用",
   "date": "2021-11-29T04:53:04+00:00",
@@ -3262,8 +3262,8 @@
   },
   "video": {
    "thumb": "https://telegram-api.hydev.org/assets/0358-video-thumb.jpg",
-   "duration": "0:18",
-   "src": "https://telegram-api.hydev.org/assets/0358-video.mov"
+   "src": "https://telegram-api.hydev.org/assets/0358-video.mov",
+   "duration": "0:18"
   },
   "text": "好难 😭",
   "date": "2021-12-04T19:16:42+00:00",
@@ -3283,8 +3283,8 @@
   },
   "video": {
    "thumb": "https://telegram-api.hydev.org/assets/0360-video-thumb.jpg",
-   "duration": "0:04",
-   "src": "https://telegram-api.hydev.org/assets/0360-video.mov"
+   "src": "https://telegram-api.hydev.org/assets/0360-video.mov",
+   "duration": "0:04"
   },
   "text": "书签动画w",
   "date": "2021-12-05T00:21:51+00:00",
@@ -3349,8 +3349,8 @@
   "id": "366",
   "video": {
    "thumb": "https://telegram-api.hydev.org/assets/0366-video-thumb.jpg",
-   "duration": "0:04",
-   "src": "https://telegram-api.hydev.org/assets/0366-video.mov"
+   "src": "https://telegram-api.hydev.org/assets/0366-video.mov",
+   "duration": "0:04"
   },
   "text": "Three.js 好棒！！！\n决定了！我要做动画设... \n...好像不太行，只是用线条建一个方块就要好多数学 🥲",
   "date": "2021-12-07T05:00:25+00:00",
@@ -3392,8 +3392,8 @@
   "id": "369",
   "video": {
    "thumb": "https://telegram-api.hydev.org/assets/0369-video-thumb.jpg",
-   "duration": "0:08",
-   "src": "https://telegram-api.hydev.org/assets/0369-video.mp4"
+   "src": "https://telegram-api.hydev.org/assets/0369-video.mp4",
+   "duration": "0:08"
   },
   "text": "Immersive Garden 工作室好厉害w\n（Source: https://immersive-g.com/wishes-2017/",
   "date": "2021-12-07T19:39:53+00:00",
@@ -3488,8 +3488,8 @@
   },
   "video": {
    "thumb": "https://telegram-api.hydev.org/assets/0378-video-thumb.jpg",
-   "duration": "0:27",
-   "src": "https://telegram-api.hydev.org/assets/0378-video.mp4"
+   "src": "https://telegram-api.hydev.org/assets/0378-video.mp4",
+   "duration": "0:27"
   },
   "text": "完美了！\n这是不是历史上第一个色板这么方便还可拖动的 H5 颜色选择器ww （你别\n（设计借鉴于 Procreate",
   "date": "2021-12-11T14:29:54+00:00",
@@ -3888,7 +3888,7 @@
   "id": "413",
   "text": "抽完血之后的快乐ww\n过了多少年还是好喜欢麦香鱼",
   "date": "2021-12-23T20:04:17+00:00",
-  "views": "7",
+  "views": "8",
   "images": [
    {
     "href": "https://t.me/hykilp/413",
@@ -3939,6 +3939,16 @@
   "id": "417",
   "text": "《Merry Christmas Mr. Lawrence - FYI》\nhttps://music.163.com/song?id=1361336637",
   "date": "2021-12-25T09:57:47+00:00",
-  "views": "5"
+  "views": "6"
+ },
+ {
+  "id": "418",
+  "video": {
+   "thumb": "https://telegram-api.hydev.org/assets/0418-video-thumb.jpg",
+   "src": "https://telegram-api.hydev.org/assets/0418-video.mp4"
+  },
+  "text": "关于页面差不多写完啦w\n把今年写的研究报告全都发布上去了hhh\n哈哈哈为什么圣诞节我在写代码",
+  "date": "2021-12-25T19:43:48+00:00",
+  "views": "4"
  }
 ]
