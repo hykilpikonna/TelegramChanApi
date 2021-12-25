@@ -68,7 +68,7 @@ jobs:
         
     - name: Profile Readme Download
       env:
-        REPO_NAME: ${{ github.event.repository.name }}
+        REPO_NAME: ${{ github.repository }}
       run: |
         echo "$REPO_NAME"
         USER=$(python -c "print('${REPO_NAME}'.split('/')[0])")
