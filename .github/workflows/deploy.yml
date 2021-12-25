@@ -65,6 +65,16 @@ jobs:
         curl "https://api.zotero.org/users/${ZOTERO}/publications/items?linkwrap=1&order=date&sort=desc&start=0&include=data&limit=100" > zotero.json
         ls -lah
         
+    - name: Profile Readme Download
+      env:
+        USER: ${{ github.event.pull_request.head.repo.owner.login }}
+      run: |
+        echo "$USER"
+        if ! curl "https://raw.githubusercontent.com/${USER}/${USER}/main/README.md" > profile-readme.md; then
+          echo "Failed to download readme."
+        fi
+        ls -lah
+        
     - uses: EndBug/add-and-commit@v7
       with:
         # Determines the way the action fills missing author name and email. Three options are available:
