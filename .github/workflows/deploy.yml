@@ -62,7 +62,7 @@ jobs:
         ZOTERO: ${{ secrets.ZOTERO_USERID }}
       if: "${{ env.ZOTERO != '' }}"
       run: |
-        curl "https://api.zotero.org/users/${ZOTERO}/publications/items?linkwrap=1&order=date&sort=desc&start=0&include=data&limit=100" --output "zotero.json"
+        curl "https://api.zotero.org/users/${ZOTERO}/publications/items?linkwrap=1&order=date&sort=desc&start=0&include=data&limit=100" > zotero.json
         ls -lah
         
     - uses: EndBug/add-and-commit@v7
