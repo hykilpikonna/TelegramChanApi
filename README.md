@@ -14,7 +14,7 @@ This repo uses GitHub Pages and GitHub Actions to create an json API for a Teleg
 
 ## Example
 
-https://telegram-api.hydev.org/posts.json
+https://profile-api.hydev.org/posts.json
 
 # Zotero API Localization
 
