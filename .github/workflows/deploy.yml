@@ -62,15 +62,19 @@ jobs:
         ZOTERO: ${{ secrets.ZOTERO_USERID }}
       if: "${{ env.ZOTERO != '' }}"
       run: |
-        curl "https://api.zotero.org/users/${ZOTERO}/publications/items?linkwrap=1&order=date&sort=desc&start=0&include=data&limit=100" > zotero.json
+        rm -rf zotero.json
+        curl -L "https://api.zotero.org/users/${ZOTERO}/publications/items?linkwrap=1&order=date&sort=desc&start=0&include=data&limit=100" --output zotero.json
         ls -lah
         
     - name: Profile Readme Download
       env:
-        USER: ${{ github.event.pull_request.head.repo.owner.login }}
+        REPO_NAME: ${{ github.event.repository.name }}
       run: |
+        echo "$REPO_NAME"
+        USER=$(python -c "print('${REPO_NAME}'.split('/')[0])")
         echo "$USER"
-        if ! curl "https://raw.githubusercontent.com/${USER}/${USER}/main/README.md" > profile-readme.md; then
+        rm -rf profile-readme.md
+        if ! curl -L "https://raw.githubusercontent.com/${USER}/${USER}/main/README.md" --output profile-readme.md; then
           echo "Failed to download readme."
         fi
         ls -lah
