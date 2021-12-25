@@ -38,6 +38,9 @@ def parse_post(msg: Tag) -> dict:
         vid = {'thumb': get_bg_image(video.select_one('.tgme_widget_message_video_thumb')),
                'duration': video.select_one('.message_video_duration').text.strip(),
                'src': video.select_one('.tgme_widget_message_video').attrs['src']}
+        dur = video.select_one('.message_video_duration')
+        if dur is not None:
+            vid['duration'] = dur.text.strip()
         post['video'] = vid
 
     text = msg.select_one('.js-message_text')
