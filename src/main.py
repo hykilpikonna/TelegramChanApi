@@ -17,33 +17,27 @@ def to_text(element) -> str:
 
 
 def parse_post(msg: Tag) -> dict:
-    post = {}
-    # post['data-post'] = msg.attrs['data-post']
-    post['id'] = msg.attrs['data-post'].split('/')[-1]
-    # post['data_view'] = msg.attrs['data-view']
+    post = {'id': msg.attrs['data-post'].split('/')[-1]}
     if 'service_message' in msg.attrs['class']:
         post['type'] = 'service'
 
     reply = msg.select_one('.tgme_widget_message_reply')
     if reply is not None:
-        rep = {}
-        rep['url'] = reply.attrs['href']
+        rep = {'url': reply.attrs['href']}
         text = reply.select_one('.tgme_widget_message_metatext')
         if text is None:
             text = reply.select_one('.tgme_widget_message_text')
         rep['text'] = text.text
         tmp = reply.select_one('.tgme_widget_message_reply_thumb')
         if tmp is not None:
-            rep['thumb'] = get_bg_image(tmp.attrs['style'])
+            rep['thumb'] = get_bg_image(tmp)
         post['reply'] = rep
 
     video = msg.select_one('.tgme_widget_message_video_player')
     if video is not None:
-        vid = {}
-        thumb = video.select_one('.tgme_widget_message_video_thumb').attrs['style']
-        vid['thumb'] = get_bg_image(thumb)
-        vid['duration'] = video.select_one('.message_video_duration').text.strip()
-        vid['src'] = video.select_one('.tgme_widget_message_video').attrs['src']
+        vid = {'thumb': get_bg_image(video.select_one('.tgme_widget_message_video_thumb')),
+               'duration': video.select_one('.message_video_duration').text.strip(),
+               'src': video.select_one('.tgme_widget_message_video').attrs['src']}
         post['video'] = vid
 
     text = msg.select_one('.js-message_text')
@@ -59,8 +53,13 @@ def parse_post(msg: Tag) -> dict:
 
     imgs = msg.select('.tgme_widget_message_photo_wrap')
     if len(imgs) != 0:
-        images = [{'href': i.attrs['href'], 'url': get_bg_image(i.attrs['style'])} for i in imgs]
+        images = [{'href': i.attrs['href'], 'url': get_bg_image(i), 'style': get_style_dict(i)}
+                  for i in imgs]
         post['images'] = images
+
+    img_group = msg.select_one('.tgme_widget_message_grouped_layer')
+    if img_group:
+        post['img_group_style'] = get_style_dict(img_group)
 
     return post
 
@@ -70,9 +69,20 @@ def parse_posts(s: BeautifulSoup) -> list[dict]:
     return [parse_post(msg) for msg in msgs]
 
 
-def get_bg_image(css: str) -> str:
-    return cssutils.parseStyle(css)['background-image']\
+def get_css(tag: Tag):
+    return cssutils.parseStyle(tag.attrs['style'])
+
+
+def get_bg_image(tag: Tag) -> str:
+    return get_css(tag)['background-image']\
         .replace('url(', '').replace(')', '')
+
+
+def get_style_dict(tag: Tag) -> dict[str, str]:
+    d = {**get_css(tag)}
+    if 'background-image' in d:
+        d.pop('background-image')
+    return d
 
 
 def get_all_posts(channel: str):
