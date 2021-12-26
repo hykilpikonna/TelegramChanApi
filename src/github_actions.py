@@ -38,9 +38,13 @@ def get_image(url: str, name: str) -> str:
         print(f'Downloading image {name}...')
 
         # Download image
-        img_data = requests.get(url).content
+        img_data = requests.get(url)
+        for _ in range(3):
+            if not img_data.ok:
+                img_data = requests.get(url)
+            
         with open(assets.joinpath(name), 'wb') as f:
-            f.write(img_data)
+            f.write(img_data.content)
 
     return f'{cname}/assets/' + name
 
