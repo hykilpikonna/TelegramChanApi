@@ -4735,6 +4735,42 @@
   "id": "476",
   "text": "这个可视化做的好厉害w\nhttps://pudding.cool/2018/02/waveforms/",
   "date": "2022-02-07T19:53:49+00:00",
-  "views": "3"
+  "views": "6"
+ },
+ {
+  "id": "477",
+  "text": "给聊聊升了内存（8G+8G → 32G+8G）\n\n没想到没有 Dual Channel 对读写速度影响这么大... 不过好像内存速度也没有那么重要w",
+  "date": "2022-02-08T02:11:10+00:00",
+  "views": "5",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/477?single",
+    "url": "https://profile-api.hydev.org/assets/0477.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 107,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/478?single",
+    "url": "https://profile-api.hydev.org/assets/0478.jpg",
+    "style": {
+     "left": 0,
+     "top": 109,
+     "width": 453,
+     "height": "108.175px",
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 217
+  }
  }
 ]
