@@ -4888,5 +4888,41 @@
   "text": "把手指泡在水里一天会发生什么",
   "date": "2022-02-09T18:59:58+00:00",
   "views": "7"
+ },
+ {
+  "id": "489",
+  "text": "...这也太随便了（\n\n学校 Psych CAS 登录页面 SSL TLS 版本太低，之前 IT 部门让我们绕过 HTTPS 访问。现在浏览器更新之后 TLS 1.0 被完全禁用了，IT 部门的回应居然是让学生下载火狐去配置里手动把 TLS 支持改回 1.0...\n\nhttps://uoft.service-now.com/utm_iits?id=kb_article_view&amp;sys_kb_id=735bdd8a1ba58d50e50fdbd8cc4bcb49",
+  "date": "2022-02-11T01:39:51+00:00",
+  "views": "2",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/489?single",
+    "url": "https://profile-api.hydev.org/assets/0489.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/490?single",
+    "url": "https://profile-api.hydev.org/assets/0490.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
+  }
  }
 ]
