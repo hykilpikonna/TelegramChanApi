@@ -36,7 +36,7 @@
   "id": "10",
   "text": "HyDEV 开发组可以恢复啦，好耶w",
   "date": "2021-09-02T13:21:57+00:00",
-  "views": "17",
+  "views": "18",
   "images": [
    {
     "href": "https://t.me/hykilp/10",
@@ -5049,5 +5049,16 @@
    "width": 453,
    "height": 604
   }
+ },
+ {
+  "id": "502",
+  "video": {
+   "thumb": "https://profile-api.hydev.org/assets/0502-video-thumb.jpg",
+   "src": "https://profile-api.hydev.org/assets/0502-video.mp4",
+   "duration": "0:17"
+  },
+  "text": "拿到 IIDX 手台当然要用转盘玩太鼓ww",
+  "date": "2022-02-15T00:08:50+00:00",
+  "views": "6"
  }
 ]
