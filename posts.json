@@ -5532,5 +5532,46 @@
     }
    }
   ]
+ },
+ {
+  "id": "540",
+  "reply": {
+   "url": "https://t.me/hykilp/539",
+   "text": "写了给 Bestbuy 显卡计算价格增长和性价比的油猴脚本，果然现在还有货的都比原价贵了好多... 接下来写监听库存的 bot  安装链接：GreasyFork",
+   "thumb": "https://profile-api.hydev.org/assets/0540-reply-thumb.jpg"
+  },
+  "text": "写完了补货通知 bot，每五秒检测一次，但是每次都是过一分钟就被抢完了... 手还是太慢，接下来要写一个自动下单 bot 了\n\n多伦多的朋友们想试试手速的话也可以加这个频道：@toronto_bestbuy_gpu",
+  "date": "2022-03-01T20:08:06+00:00",
+  "views": "4",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/540?single",
+    "url": "https://profile-api.hydev.org/assets/0540.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 225,
+     "height": 450,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/541?single",
+    "url": "https://profile-api.hydev.org/assets/0541.jpg",
+    "style": {
+     "left": 227,
+     "top": 0,
+     "width": 226,
+     "height": 450,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 450
+  }
  }
 ]
