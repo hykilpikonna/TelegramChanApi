@@ -5542,7 +5542,7 @@
   },
   "text": "写完了补货通知 bot，每五秒检测一次，但是每次都是过一分钟就被抢完了... 手还是太慢，接下来要写一个自动下单 bot 了\n\n多伦多的朋友们想试试手速的话也可以加这个频道：@toronto_bestbuy_gpu",
   "date": "2022-03-01T20:08:06+00:00",
-  "views": "5",
+  "views": "6",
   "images": [
    {
     "href": "https://t.me/hykilp/540?single",
@@ -5572,6 +5572,57 @@
   "img_group_style": {
    "width": 453,
    "height": 450
+  }
+ },
+ {
+  "id": "542",
+  "text": "穿太多热出汗了，大冬天吃冰淇淋w\n\n（不过这个冻了半年冻出冰渣的冰棒棒也并不好吃... 想吃软软的千层雪！",
+  "date": "2022-03-02T00:40:49+00:00",
+  "views": "5",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/542",
+    "url": "https://profile-api.hydev.org/assets/0542.jpg",
+    "style": {
+     "width": 600
+    }
+   }
+  ]
+ },
+ {
+  "id": "543",
+  "text": "…and you just type whatever I say without thinking…",
+  "date": "2022-03-02T02:26:52+00:00",
+  "views": "3",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/543?single",
+    "url": "https://profile-api.hydev.org/assets/0543.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/544?single",
+    "url": "https://profile-api.hydev.org/assets/0544.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
   }
  }
 ]
