@@ -39,13 +39,14 @@ I also love cats =^･-･^=
 ### 🌱 Projects I'm currently working on <!--{ collapseSection() }-->
 
 * `20%` A personal home page / blog
-* `20%` A speech gender recognition bot based on ML
-* `10%` A RottenTomatoes filter
+* `50%` A speech gender recognition algorithm based on ML and statistical analysis of fundamental frequency and formants.
+* `40%` A transgender voice training app.
+* ~~`10%` A RottenTomatoes filter~~
 * `10%` A spaced-repetition vocabulary memorization program optimized for Japanese language study - [NyaaMemo](https://github.com/hykilpikonna/AnkiNG).
 
 ### 🌲 Completed projects <!--{ collapseSection() }-->
 
-I mostly publish my projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx).
+I published most my projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), previously a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx) before we broke up last year. Currently, I publish my projects to this personal account.
 There is a list of my significant completed projects with English descriptions on my [About-Me website](https://me.hydev.org).
 But here is a brief list of my projects with their statistics:
 
