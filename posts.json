@@ -6204,7 +6204,7 @@
   "id": "587",
   "text": "还有 43 天放假！",
   "date": "2022-03-15T02:18:38+00:00",
-  "views": "12",
+  "views": "13",
   "images": [
    {
     "href": "https://t.me/hykilp/587?single",
@@ -6241,5 +6241,20 @@
   "type": "service",
   "text": "小桂桂的回忆录 📒 pinned a photo",
   "date": "2022-03-15T02:18:46+00:00"
+ },
+ {
+  "id": "590",
+  "text": "人生第一次全良！！\n（虽然是 Normal★5",
+  "date": "2022-03-16T04:54:03+00:00",
+  "views": "9",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/590",
+    "url": "https://profile-api.hydev.org/assets/0590.jpg",
+    "style": {
+     "width": 800
+    }
+   }
+  ]
  }
 ]
