@@ -36,7 +36,7 @@
   "id": "10",
   "text": "HyDEV 开发组可以恢复啦，好耶w",
   "date": "2021-09-02T13:21:57+00:00",
-  "views": "19",
+  "views": "20",
   "images": [
    {
     "href": "https://t.me/hykilp/10",
@@ -6246,7 +6246,7 @@
   "id": "590",
   "text": "人生第一次全良！！\n（虽然是 Normal★5",
   "date": "2022-03-16T04:54:03+00:00",
-  "views": "11",
+  "views": "12",
   "images": [
    {
     "href": "https://t.me/hykilp/590",
@@ -6261,7 +6261,7 @@
   "id": "591",
   "text": "加拿大鹅！\n第一次在加拿大看到加拿大鹅！\n（虽然之前在麻省到处都是hhhh",
   "date": "2022-03-17T00:27:31+00:00",
-  "views": "13",
+  "views": "17",
   "images": [
    {
     "href": "https://t.me/hykilp/591",
@@ -6271,5 +6271,41 @@
     }
    }
   ]
+ },
+ {
+  "id": "592",
+  "text": "这篇论文尝试解决浮点运算精度问题，比如 π + 1e16 - 1e16 的时候精度会溢出，二进制下取整输出了 4。他们的解决方案是输出一个精度范围，会输出同样数字的最小和最大实际值\n\n...等等，但是上面那个运算他们输出的范围是 [3.5 - 5.0]... π 在 3.5 - 5.0 里面么？？\n\n(╯‵□′)╯︵┻━┻",
+  "date": "2022-03-17T04:49:26+00:00",
+  "views": "8",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/592?single",
+    "url": "https://profile-api.hydev.org/assets/0592.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 136,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/593?single",
+    "url": "https://profile-api.hydev.org/assets/0593.jpg",
+    "style": {
+     "left": 0,
+     "top": 138,
+     "width": 453,
+     "height": "136.62614px",
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 274
+  }
  }
 ]
