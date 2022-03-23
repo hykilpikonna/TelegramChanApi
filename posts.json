@@ -6431,7 +6431,7 @@
   "id": "603",
   "text": "第一台服务器拼好啦w\n她的名字叫 HyDEV Aster！\n\n2696v3 性能果然没让我失望，默认超频已经能超过 i7-12700f 了哇（虽然这个主板也不太可能手动超频了）不过不算显卡的话只花了 ￥2355 还是好赚\n\n系统还没配好... 就不做了！睡大觉ww",
   "date": "2022-03-19T07:17:49+00:00",
-  "views": "19",
+  "views": "20",
   "images": [
    {
     "href": "https://t.me/hykilp/603?single",
@@ -6521,7 +6521,7 @@
   "id": "610",
   "text": "第二台服务器也拼好啦！\n起名叫 HyDEV Daisy！\n\n今天第一次手动装 Arch Linux 花了超级超级久... 安装过程真的好劝退（\n\n明天再配其他的好啦，还需要配 ssh，vnc，samba，vgpu，还有独立 IP 穿透...（所以为什么我给服务器装完系统第一件事是配桌面环境和中文输入法",
   "date": "2022-03-22T08:25:52+00:00",
-  "views": "13",
+  "views": "14",
   "images": [
    {
     "href": "https://t.me/hykilp/610?single",
@@ -6574,7 +6574,7 @@
   },
   "text": "每次看到加拿大鹅都是一对一对的w 😯",
   "date": "2022-03-22T19:36:43+00:00",
-  "views": "12",
+  "views": "13",
   "images": [
    {
     "href": "https://t.me/hykilp/613?single",
@@ -6622,7 +6622,7 @@
   "id": "616",
   "text": "今天的云好漂亮w",
   "date": "2022-03-23T02:18:34+00:00",
-  "views": "9",
+  "views": "10",
   "images": [
    {
     "href": "https://t.me/hykilp/616?single",
@@ -6652,6 +6652,59 @@
   "img_group_style": {
    "width": 453,
    "height": 604
+  }
+ },
+ {
+  "id": "618",
+  "reply": {
+   "url": "https://t.me/hykilp/607",
+   "text": "💢 讨厌光污染呜呜呜  然后查了下发现这两个灯都是不能用软件关的... 所以我为什么买了一个透明的机箱 😭",
+   "thumb": "https://profile-api.hydev.org/assets/0618-reply-thumb.jpg"
+  },
+  "text": "用粘土胶解决了光污染hhhh",
+  "date": "2022-03-23T06:40:15+00:00",
+  "views": "5",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/618?single",
+    "url": "https://profile-api.hydev.org/assets/0618.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 397,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/619?single",
+    "url": "https://profile-api.hydev.org/assets/0619.jpg",
+    "style": {
+     "left": 0,
+     "top": 399,
+     "width": 225,
+     "height": 169,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/620?single",
+    "url": "https://profile-api.hydev.org/assets/0620.jpg",
+    "style": {
+     "left": 227,
+     "top": 399,
+     "width": 226,
+     "height": 169,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 568
   }
  }
 ]
