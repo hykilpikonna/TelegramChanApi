@@ -6862,11 +6862,26 @@
   "id": "636",
   "text": "愚人节 StackOverflow 出了一个 3D 眼镜滤镜，但是并不能真正用 3D 眼镜看（\n\n把 CSS 里面 text-shadow 红蓝调换一下，加上 color: transparent 来去掉原本黑色的字之后就能用 3D 眼镜看了hhh",
   "date": "2022-04-01T20:37:50+00:00",
-  "views": "7",
+  "views": "9",
   "images": [
    {
     "href": "https://t.me/hykilp/636",
     "url": "https://profile-api.hydev.org/assets/0636.jpg",
+    "style": {
+     "width": 600
+    }
+   }
+  ]
+ },
+ {
+  "id": "637",
+  "text": "居然多伦多在地铁站里就能免费打疫苗了哇",
+  "date": "2022-04-01T22:09:39+00:00",
+  "views": "6",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/637",
+    "url": "https://profile-api.hydev.org/assets/0637.jpg",
     "style": {
      "width": 600
     }
