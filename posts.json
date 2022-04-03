@@ -6907,7 +6907,7 @@
   "id": "639",
   "text": "猜猜哪个工具重采样音频最快：\nA. SoX: 一个专门处理音频的 CLI 库\nB: FFmpeg: 一个处理音视频的 CLI 库\nC: MPlayer: 一个... 视频播放器？\n\n答案是 C, MPlayer 最快 🌚",
   "date": "2022-04-02T16:12:07+00:00",
-  "views": "10",
+  "views": "11",
   "images": [
    {
     "href": "https://t.me/hykilp/639",
