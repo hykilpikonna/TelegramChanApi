@@ -6989,7 +6989,7 @@
   "id": "645",
   "text": "“如何备份 Linux 系统设置”\n\ncd /etc\ngit init\ngit push\ncd ~\ngit init\ngit push\n\n备份完了 👍🏼",
   "date": "2022-04-05T01:47:22+00:00",
-  "views": "7",
+  "views": "11",
   "images": [
    {
     "href": "https://t.me/hykilp/645",
