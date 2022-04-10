@@ -6431,7 +6431,7 @@
   "id": "603",
   "text": "第一台服务器拼好啦w\n她的名字叫 HyDEV Aster！\n\n2696v3 性能果然没让我失望，默认超频已经能超过 i7-12700f 了哇（虽然这个主板也不太可能手动超频了）不过不算显卡的话只花了 ￥2355 还是好赚\n\n系统还没配好... 就不做了！睡大觉ww",
   "date": "2022-03-19T07:17:49+00:00",
-  "views": "23",
+  "views": "24",
   "images": [
    {
     "href": "https://t.me/hykilp/603?single",
@@ -6521,7 +6521,7 @@
   "id": "610",
   "text": "第二台服务器也拼好啦！\n起名叫 HyDEV Daisy！\n\n今天第一次手动装 Arch Linux 花了超级超级久... 安装过程真的好劝退（\n\n明天再配其他的好啦，还需要配 ssh，vnc，samba，vgpu，还有独立 IP 穿透...（所以为什么我给服务器装完系统第一件事是配桌面环境和中文输入法",
   "date": "2022-03-22T08:25:52+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/610?single",
@@ -7221,7 +7221,7 @@
   "id": "663",
   "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: pip install hyfetch \n(python &gt; 3.9)\n\n源码 （欢迎贡献！",
   "date": "2022-04-10T10:52:04+00:00",
-  "views": "63",
+  "views": "65",
   "images": [
    {
     "href": "https://t.me/hykilp/663?single",
