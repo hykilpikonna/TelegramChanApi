@@ -7165,12 +7165,12 @@
   "id": "656",
   "text": "结课啦！\n然后下午一下子睡了 5h，睡到头疼hhhh",
   "date": "2022-04-08T02:45:19+00:00",
-  "views": "24"
+  "views": "25"
  },
  {
   "id": "658",
   "date": "2022-04-08T21:14:04+00:00",
-  "views": "24",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/658",
@@ -7190,13 +7190,13 @@
   },
   "text": "这套真的好适合聊聊\n聊聊也是过期 JK 了ww",
   "date": "2022-04-08T21:14:17+00:00",
-  "views": "24"
+  "views": "26"
  },
  {
   "id": "660",
   "text": "电脑桌变成了聊聊的模玩工作室w",
   "date": "2022-04-09T03:41:39+00:00",
-  "views": "25",
+  "views": "26",
   "img_group_style": {
    "width": 453,
    "height": 0
@@ -7206,7 +7206,7 @@
   "id": "662",
   "text": "好特别的四轮自行车w",
   "date": "2022-04-10T02:06:06+00:00",
-  "views": "25",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/662",
@@ -7221,7 +7221,7 @@
   "id": "663",
   "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: pip install hyfetch \n(python &gt; 3.7)\n\n源码 （欢迎贡献！",
   "date": "2022-04-10T10:52:04+00:00",
-  "views": "77",
+  "views": "79",
   "images": [
    {
     "href": "https://t.me/hykilp/663?single",
@@ -7269,13 +7269,13 @@
   "id": "666",
   "text": "天亮了！（哭",
   "date": "2022-04-10T11:00:44+00:00",
-  "views": "18"
+  "views": "20"
  },
  {
   "id": "667",
   "text": "我居然真的重写了一个分布式计算的轮子...\n\n居然真的做到了差不多是 Linear Scaling！三台服务器总共 GPU 跑分加起来大概是这台的 4.1 倍，运行时间也缩短了 3.7 倍，只有 9.7% 的 overhead",
   "date": "2022-04-11T20:49:14+00:00",
-  "views": "9",
+  "views": "14",
   "images": [
    {
     "href": "https://t.me/hykilp/667?single",
@@ -7305,6 +7305,42 @@
   "img_group_style": {
    "width": 453,
    "height": 279
+  }
+ },
+ {
+  "id": "669",
+  "text": "开始健康饮食",
+  "date": "2022-04-11T22:48:16+00:00",
+  "views": "10",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/669?single",
+    "url": "https://profile-api.hydev.org/assets/0669.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/670?single",
+    "url": "https://profile-api.hydev.org/assets/0670.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
   }
  }
 ]
