@@ -7523,7 +7523,7 @@
   "id": "682",
   "text": "聊聊期末项目需要爬 Github Issue 的 Comment 和 Timeline。爬虫跑起来之后发现，即使有八个帐号的 token 池，还是要 9h 才能跑完... 计算出一共需要爬 &gt;540675 个请求，一个帐号要爬 4.5 天\n\n然后发现一个 GraphQL 请求可以代替 201 个 RestAPI 请求 🌚\n\n这样即使只有一个帐号也只需要爬 1.07h 了，白写了那个 thread-safe 还会自动计请求数的 token 池呜呜（",
   "date": "2022-04-17T13:19:44+00:00",
-  "views": "20",
+  "views": "21",
   "images": [
    {
     "href": "https://t.me/hykilp/682?single",
@@ -7559,7 +7559,7 @@
   "id": "684",
   "text": "恭喜我 &gt;24h 没睡，聊聊的作业我终于有希望写完了\n\n接下来一天里还要补完一整年没听的微积分... 没人能救我了",
   "date": "2022-04-17T16:09:03+00:00",
-  "views": "14",
+  "views": "15",
   "images": [
    {
     "href": "https://t.me/hykilp/684",
