@@ -6198,13 +6198,13 @@
   },
   "text": "上周五，下午五点去了警察局，处理诈骗的人四点半就下班了。今天四点又去了一次，那个人在，然后跟我说上报这个肯定半个小时报不完，让我明天再来？？？\n\n加拿大人真的好懒hhh",
   "date": "2022-03-14T23:59:32+00:00",
-  "views": "25"
+  "views": "26"
  },
  {
   "id": "587",
   "text": "还有 43 天放假！",
   "date": "2022-03-15T02:18:38+00:00",
-  "views": "24",
+  "views": "25",
   "images": [
    {
     "href": "https://t.me/hykilp/587?single",
@@ -6246,7 +6246,7 @@
   "id": "590",
   "text": "人生第一次全良！！\n（虽然是 Normal★5",
   "date": "2022-03-16T04:54:03+00:00",
-  "views": "23",
+  "views": "24",
   "images": [
    {
     "href": "https://t.me/hykilp/590",
@@ -7221,7 +7221,7 @@
   "id": "663",
   "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: pip install hyfetch \n(python &gt; 3.7)\n\n源码 （欢迎贡献！",
   "date": "2022-04-10T10:52:04+00:00",
-  "views": "153",
+  "views": "154",
   "images": [
    {
     "href": "https://t.me/hykilp/663?single",
@@ -7523,7 +7523,7 @@
   "id": "682",
   "text": "聊聊期末项目需要爬 Github Issue 的 Comment 和 Timeline。爬虫跑起来之后发现，即使有八个帐号的 token 池，还是要 9h 才能跑完... 计算出一共需要爬 &gt;540675 个请求，一个帐号要爬 4.5 天\n\n然后发现一个 GraphQL 请求可以代替 201 个 RestAPI 请求 🌚\n\n这样即使只有一个帐号也只需要爬 1.07h 了，白写了那个 thread-safe 还会自动计请求数的 token 池呜呜（",
   "date": "2022-04-17T13:19:44+00:00",
-  "views": "16",
+  "views": "20",
   "images": [
    {
     "href": "https://t.me/hykilp/682?single",
@@ -7559,7 +7559,7 @@
   "id": "684",
   "text": "恭喜我 &gt;24h 没睡，聊聊的作业我终于有希望写完了\n\n接下来一天里还要补完一整年没听的微积分... 没人能救我了",
   "date": "2022-04-17T16:09:03+00:00",
-  "views": "4",
+  "views": "14",
   "images": [
    {
     "href": "https://t.me/hykilp/684",
