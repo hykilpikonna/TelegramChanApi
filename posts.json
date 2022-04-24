@@ -7744,7 +7744,7 @@
   "id": "696",
   "text": "哭了... 考试前一天发现买的教科书四月 18 到期了，现在买只能再花 $89 买一年 😭\n\n现在终于懂了“正版的受害者”是什么意思",
   "date": "2022-04-23T05:08:05+00:00",
-  "views": "17",
+  "views": "19",
   "images": [
    {
     "href": "https://t.me/hykilp/696",
@@ -7754,5 +7754,41 @@
     }
    }
   ]
+ },
+ {
+  "id": "697",
+  "text": "试试把汤和面分开煮w",
+  "date": "2022-04-24T04:03:38+00:00",
+  "views": "12",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/697?single",
+    "url": "https://profile-api.hydev.org/assets/0697.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 335,
+     "height": 251,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/698?single",
+    "url": "https://profile-api.hydev.org/assets/0698.jpg",
+    "style": {
+     "left": 337,
+     "top": 0,
+     "width": 116,
+     "height": 251,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 251
+  }
  }
 ]
