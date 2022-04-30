@@ -7902,7 +7902,7 @@
   "id": "706",
   "text": "终于全都考完啦\n\n...然而还有一堆之前推到考试后做的乱七八糟的事情",
   "date": "2022-04-28T05:46:58+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/706",
@@ -7917,7 +7917,7 @@
   "id": "707",
   "text": "准备从宿舍搬出去啦w\n\n关机关机，纪念一下 58 天的 uptime 就此归零",
   "date": "2022-04-28T16:59:47+00:00",
-  "views": "19",
+  "views": "20",
   "images": [
    {
     "href": "https://t.me/hykilp/707",
@@ -7936,6 +7936,66 @@
   },
   "text": "Nvidia f**k me\n\n不过真的，到现在用 Arch Linux 遇到的问题比黑苹果多太多了",
   "date": "2022-04-29T08:46:37+00:00",
-  "views": "14"
+  "views": "16"
+ },
+ {
+  "id": "709",
+  "text": "极限搬家\n左手推自行车，右手推小推车 😭",
+  "date": "2022-04-30T00:34:45+00:00",
+  "views": "6",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/709?single",
+    "url": "https://profile-api.hydev.org/assets/0709.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 339,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/710?single",
+    "url": "https://profile-api.hydev.org/assets/0710.jpg",
+    "style": {
+     "left": 0,
+     "top": 341,
+     "width": 149,
+     "height": 112,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/711?single",
+    "url": "https://profile-api.hydev.org/assets/0711.jpg",
+    "style": {
+     "left": 151,
+     "top": 341,
+     "width": 152,
+     "height": 112,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/712?single",
+    "url": "https://profile-api.hydev.org/assets/0712.jpg",
+    "style": {
+     "left": 305,
+     "top": 341,
+     "width": 148,
+     "height": 112,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 453
+  }
  }
 ]
