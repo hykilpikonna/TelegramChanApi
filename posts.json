@@ -7857,7 +7857,7 @@
   "id": "703",
   "text": "人生第一次给 nixos 打包w\n\nnixos 的学习曲线真的好深... 从安装 nixos 到开完 PR 一共用了 5h",
   "date": "2022-04-25T20:01:26+00:00",
-  "views": "41",
+  "views": "42",
   "images": [
    {
     "href": "https://t.me/hykilp/703",
@@ -7942,7 +7942,7 @@
   "id": "709",
   "text": "极限搬家\n左手推自行车，右手推小推车 😭",
   "date": "2022-04-30T00:34:45+00:00",
-  "views": "13",
+  "views": "15",
   "images": [
    {
     "href": "https://t.me/hykilp/709?single",
@@ -7997,5 +7997,20 @@
    "width": 453,
    "height": 453
   }
+ },
+ {
+  "id": "713",
+  "reply": {
+   "url": "https://t.me/hykilp/708",
+   "text": "Nvidia f**k me  不过真的，到现在用 Arch Linux 遇到的问题比黑苹果多太多了",
+   "thumb": "https://profile-api.hydev.org/assets/0713-reply-thumb.jpg"
+  },
+  "video": {
+   "thumb": "https://profile-api.hydev.org/assets/0713-video-thumb.jpg",
+   "src": "https://profile-api.hydev.org/assets/0713-video.mp4"
+  },
+  "text": "还有 30 min 就 due 的时候出问题就不好玩了啊啊 （╯‵□′）╯︵┴─┴",
+  "date": "2022-04-30T03:30:02+00:00",
+  "views": "8"
  }
 ]
