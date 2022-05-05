@@ -8184,7 +8184,7 @@
   "id": "724",
   "text": "终于从腾讯企业邮箱迁移到了 Microsoft 365\n\n真的好麻烦... 步骤大概是这样：\n1. 免费注册 Office 365\n2. 去腾讯设置界面把 IMAP 同步限制设置成“收取[全部]的邮件”\n3. Outlook Windows 同时登录旧邮箱和新邮箱的 @&lt;org&gt;.onmicrosoft.com 别名\n4. Outlook 客户端旧账号设置 &gt; Email &gt; Keep mail offline for 设置成 All\n5. Outlook 右上角点 Send/Receive All Folders（这个会跑很久很久很久）\n6. Outlook 左上角 File &gt; Open &amp; Export &gt; Import/Export &gt; Export to a file &gt; Outlook Data File (.pst) &gt; 选择旧邮箱 &gt; Include subfolders &gt; Next &gt; 填一个路径导出\n7. Outlook 左上角 File &gt; Open &amp; Export &gt; Import/Export &gt; Import from another program or file &gt; Outlook Data File (.pst) &gt; 选择之前导出的路径\n8. 导入完成之后等同步，同步完之后我发现我的 sent message 并没有被放进 sent messages 文件夹...\n9. 在新邮箱内搜索 from:&lt;旧邮箱&gt;，把所有的结果移动到新邮箱的 sent messages\n10. 等新邮箱同步完之后移除两个邮箱\n11. 去 MS 365 管理设置新邮箱的域名\n12. Outlook 重新添加域名邮箱（这个时候新邮箱应该和旧邮箱地址一样了）\n\n完成！接下来等一天看看自动续订能不能用就好啦——",
   "date": "2022-05-05T03:16:37+00:00",
-  "views": "13",
+  "views": "14",
   "images": [
    {
     "href": "https://t.me/hykilp/724",
