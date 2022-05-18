@@ -9230,7 +9230,7 @@
   "id": "791",
   "text": "屏幕太高了，摄像头摆在上面下面都不好看... 结果粘在左边还挺好的 🌚",
   "date": "2022-05-18T15:16:07+00:00",
-  "views": "10",
+  "views": "11",
   "images": [
    {
     "href": "https://t.me/hykilp/791",
@@ -9245,7 +9245,7 @@
   "id": "792",
   "text": "bedrock linux 入群要求”提交 neofetch 保证非 snap/flatpak 实现三种包管理“\n\n好，我用 Windows 实现了 🤪",
   "date": "2022-05-18T18:49:09+00:00",
-  "views": "7",
+  "views": "9",
   "images": [
    {
     "href": "https://t.me/hykilp/792?single",
@@ -9281,6 +9281,21 @@
   "id": "794",
   "text": "提交neofetch保证非snap/flatpak实现3种包管理,否则移除",
   "date": "2022-05-18T18:49:15+00:00",
-  "views": "7"
+  "views": "9"
+ },
+ {
+  "id": "795",
+  "text": "HyFetch now supports Windows!\n\n（用 git bash 强行加支持hhh",
+  "date": "2022-05-18T20:18:56+00:00",
+  "views": "7",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/795",
+    "url": "https://profile-api.hydev.org/assets/0795.jpg",
+    "style": {
+     "width": 607
+    }
+   }
+  ]
  }
 ]
