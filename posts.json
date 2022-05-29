@@ -9626,7 +9626,7 @@
   "id": "818",
   "text": "看看 Purolator 是怎么解决最后一公里配送问题的：让客户坐地铁来回两小时去取快递（",
   "date": "2022-05-25T20:51:57+00:00",
-  "views": "17",
+  "views": "18",
   "images": [
    {
     "href": "https://t.me/hykilp/818?single",
@@ -9810,19 +9810,49 @@
   },
   "text": "写了一个黑苹果 OC Kext 包管理器 ocpm！\n以后再也不用手动找更新了！\n\n...虽然目前只实现了更新功能，整个仓库只有 13 个包（欢迎贡献！\n\n明早再发布吧。呜呜为什么我总是突然想到什么就写到凌晨四五点... 上次的 HyFetch 也是（",
   "date": "2022-05-28T08:39:06+00:00",
-  "views": "14"
+  "views": "16"
  },
  {
   "id": "833",
   "text": "发烧了...",
   "date": "2022-05-28T20:23:09+00:00",
-  "views": "8",
+  "views": "14",
   "images": [
    {
     "href": "https://t.me/hykilp/833",
     "url": "https://profile-api.hydev.org/assets/0833.jpg",
     "style": {
      "width": 600
+    }
+   }
+  ]
+ },
+ {
+  "id": "834",
+  "text": "呜",
+  "date": "2022-05-29T01:06:08+00:00",
+  "views": "11",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/834",
+    "url": "https://profile-api.hydev.org/assets/0834.jpg",
+    "style": {
+     "width": 600
+    }
+   }
+  ]
+ },
+ {
+  "id": "835",
+  "text": "呜呜 居然真的是 COVID",
+  "date": "2022-05-29T03:10:02+00:00",
+  "views": "6",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/835",
+    "url": "https://profile-api.hydev.org/assets/0835.jpg",
+    "style": {
+     "width": 800
     }
    }
   ]
