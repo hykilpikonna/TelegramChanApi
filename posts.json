@@ -2512,7 +2512,7 @@
   "id": "417",
   "text": "《Merry Christmas Mr. Lawrence - FYI》\nhttps://music.163.com/song?id=1361336637",
   "date": "2021-12-25T09:57:47+00:00",
-  "views": "49"
+  "views": "50"
  },
  {
   "id": "418",
@@ -3308,7 +3308,7 @@
   "id": "476",
   "text": "这个可视化做的好厉害w\nhttps://pudding.cool/2018/02/waveforms/",
   "date": "2022-02-07T19:53:49+00:00",
-  "views": "35"
+  "views": "36"
  },
  {
   "id": "477",
@@ -6755,7 +6755,7 @@
   "id": "724",
   "text": "终于从腾讯企业邮箱迁移到了 Microsoft 365\n\n真的好麻烦... 步骤大概是这样：\n1. 免费注册 Office 365\n2. 去腾讯设置界面把 IMAP 同步限制设置成“收取[全部]的邮件”\n3. Outlook Windows 同时登录旧邮箱和新邮箱的 @&lt;org&gt;.onmicrosoft.com 别名\n4. Outlook 客户端旧账号设置 &gt; Email &gt; Keep mail offline for 设置成 All\n5. Outlook 右上角点 Send/Receive All Folders（这个会跑很久很久很久）\n6. Outlook 左上角 File &gt; Open &amp; Export &gt; Import/Export &gt; Export to a file &gt; Outlook Data File (.pst) &gt; 选择旧邮箱 &gt; Include subfolders &gt; Next &gt; 填一个路径导出\n7. Outlook 左上角 File &gt; Open &amp; Export &gt; Import/Export &gt; Import from another program or file &gt; Outlook Data File (.pst) &gt; 选择之前导出的路径\n8. 导入完成之后等同步，同步完之后我发现我的 sent message 并没有被放进 sent messages 文件夹...\n9. 在新邮箱内搜索 from:&lt;旧邮箱&gt;，把所有的结果移动到新邮箱的 sent messages\n10. 等新邮箱同步完之后移除两个邮箱\n11. 去 MS 365 管理设置新邮箱的域名\n12. Outlook 重新添加域名邮箱（这个时候新邮箱应该和旧邮箱地址一样了）\n\n完成！接下来等一天看看自动续订能不能用就好啦——",
   "date": "2022-05-05T03:16:37+00:00",
-  "views": "35",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/724",
@@ -7619,19 +7619,19 @@
   "id": "778",
   "text": "好想 overdose 冰淇淋",
   "date": "2022-05-14T14:26:32+00:00",
-  "views": "25"
+  "views": "26"
  },
  {
   "id": "779",
   "text": "去地铁站的路上看到一辆车在等两只小鹅慢悠悠地过马路，好可爱w",
   "date": "2022-05-15T18:28:03+00:00",
-  "views": "26"
+  "views": "27"
  },
  {
   "id": "780",
   "text": "挂人了，这个频道第一次挂人。\n\n表哥读研要毕业，交稿 deadline 已经过了，答辩都结束了，他什么都没有写，怕不能毕业就从父母那边找过来让我来帮他写... 多亏了你现在我快要忙到没时间睡觉了💢",
   "date": "2022-05-16T08:49:51+00:00",
-  "views": "27",
+  "views": "28",
   "images": [
    {
     "href": "https://t.me/hykilp/780",
@@ -7646,7 +7646,7 @@
   "id": "781",
   "text": "孜然梅头肉炒芹菜！\n\n（本来想做孜然羊肉但是羊肉不环保换成猪肉了hhhh",
   "date": "2022-05-17T02:04:10+00:00",
-  "views": "25",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/781",
@@ -7661,7 +7661,7 @@
   "id": "782",
   "text": "这个不是樱花哦，是苹果属的垂丝海棠。好想等到秋天摘一个果子尝尝w（虽然据说不是很好吃",
   "date": "2022-05-17T15:35:29+00:00",
-  "views": "24",
+  "views": "25",
   "images": [
    {
     "href": "https://t.me/hykilp/782?single",
@@ -7721,7 +7721,7 @@
   "id": "786",
   "text": "蜗牛！",
   "date": "2022-05-18T00:24:39+00:00",
-  "views": "23",
+  "views": "24",
   "images": [
    {
     "href": "https://t.me/hykilp/786",
@@ -7741,7 +7741,7 @@
   },
   "text": "早上六点了，晚安",
   "date": "2022-05-18T10:46:59+00:00",
-  "views": "22",
+  "views": "23",
   "images": [
    {
     "href": "https://t.me/hykilp/787?single",
@@ -7801,7 +7801,7 @@
   "id": "791",
   "text": "屏幕太高了，摄像头摆在上面下面都不好看... 结果粘在左边还挺好的 🌚",
   "date": "2022-05-18T15:16:07+00:00",
-  "views": "23",
+  "views": "24",
   "images": [
    {
     "href": "https://t.me/hykilp/791",
@@ -7816,7 +7816,7 @@
   "id": "792",
   "text": "bedrock linux 入群要求”提交 neofetch 保证非 snap/flatpak 实现三种包管理“\n\n好，我用 Windows 实现了 🤪",
   "date": "2022-05-18T18:49:09+00:00",
-  "views": "31",
+  "views": "32",
   "images": [
    {
     "href": "https://t.me/hykilp/792?single",
@@ -7852,13 +7852,13 @@
   "id": "794",
   "text": "提交neofetch保证非snap/flatpak实现3种包管理,否则移除",
   "date": "2022-05-18T18:49:15+00:00",
-  "views": "24"
+  "views": "25"
  },
  {
   "id": "795",
   "text": "HyFetch now supports Windows!\n\n（用 git bash 强行加支持hhh",
   "date": "2022-05-18T20:18:56+00:00",
-  "views": "25",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/795",
@@ -7873,7 +7873,7 @@
   "id": "796",
   "text": "哭哭",
   "date": "2022-05-19T14:37:22+00:00",
-  "views": "24",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/796",
@@ -7888,13 +7888,13 @@
   "id": "797",
   "text": "在银行又遇到了一根手指打字的人，看着好心急 😭",
   "date": "2022-05-19T20:23:09+00:00",
-  "views": "22"
+  "views": "24"
  },
  {
   "id": "798",
   "text": "今天真的累死了... 不过租房的事情终于办完啦。昨天晚上中介和我说房东已经收到一个 offer 了，让我如果想要这间房的话早上十点必须提交 rental application，肝到凌晨两点半把所有材料肝完交上去。\n\n早上十点又收集了很多东西比如护照学生卡什么的补上了，中介写完正式的 agreement draft 之后我们赶快签名，十一点半发给房东中介。然后我赶快去银行把之前投的 GIC 取出来（结果因为存期太短没有利息），刚出来就收到了房东中介打电话过来，说房东想和我们 zoom 聊，因为房主想从这两个 offer 里面选一个。十分钟里赶快跑回家收拾房间摆摄像头，聊了一会应该表现得挺好的，房东也是中国人，他们也说了一下规则比如不能养猫猫什么的。\n\n挂掉之后补完聊聊的助教合同和我的 bank statement 之后摊在床上了，刚睡着就收到房东电话说房主决定租给我们了，签了 agreement，要在 24h 内付完款不然作废。赶快去银行开 draft，分行说他们太小了开不了，坐二十分钟地铁去另一个分行。\n\n开 draft 的时候发现之前被骗的那 $850 还算在总资产里面，所以虽然看起来钱够但是其实可用的存款还缺 $790。赶快让聊聊转给我 $790（聊聊卡里正好只剩这么多了，好幸运）但是 etransfer 把我的邮箱临时封了，可能因为最近 etransfer 收了太多次吧。然后聊聊去 rbc ATM 取纸币，取不出来。去她的 CIBC ATM，结果谷歌地图上标的 ATM 并不存在，看评论里其他人也找不到。等 etransfer 撤回之后去 TD ATM 取出来了，赶快跑回 rbc 开 draft，开完四点半，bmo 五点关门，赶快跑过去 deposit draft...\n\n然后一切都结束了，回家之后还要签文件... 累死了，不过好幸运，钱正好够，付完之后我们两个人加起来卡里只剩 $14，只要上个月多花 $14 就只能让另一个人租走了...",
   "date": "2022-05-20T01:36:35+00:00",
-  "views": "26",
+  "views": "28",
   "images": [
    {
     "href": "https://t.me/hykilp/798",
@@ -7914,19 +7914,19 @@
   },
   "text": "之后还要看看怎样买租户保险、电费账号、开光纤网... 代办又多了 😭",
   "date": "2022-05-20T01:46:06+00:00",
-  "views": "25"
+  "views": "27"
  },
  {
   "id": "800",
   "text": "入坑模拟人生4，捏完脸我习惯性地按了一下 Ctrl + S 🌚",
   "date": "2022-05-20T06:06:02+00:00",
-  "views": "26"
+  "views": "28"
  },
  {
   "id": "801",
   "text": "看到海鸥在这里一动不动，像是迷路了的样子...\n\n喂点薯条w",
   "date": "2022-05-20T22:12:18+00:00",
-  "views": "25",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/801?single",
@@ -7962,7 +7962,7 @@
   "id": "803",
   "text": "好耶，下雨了w",
   "date": "2022-05-21T16:58:35+00:00",
-  "views": "23",
+  "views": "24",
   "images": [
    {
     "href": "https://t.me/hykilp/803",
@@ -7982,13 +7982,13 @@
   },
   "text": "灯一闪一闪的... 电脑接的插座有电涌保护所以没事。不过想想可能真的要买一个 UPS 了",
   "date": "2022-05-21T17:23:42+00:00",
-  "views": "24"
+  "views": "26"
  },
  {
   "id": "805",
   "text": "入住之前要办的电费、保险、光纤也全都办完啦，租房的文件夹里一共有 32 个文件 🥲",
   "date": "2022-05-21T23:53:26+00:00",
-  "views": "25",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/805?single",
@@ -8024,7 +8024,7 @@
   "id": "807",
   "text": "不知道 850 sqft 用不用组 mesh…\n\n光纤好像在门口那里",
   "date": "2022-05-22T02:41:36+00:00",
-  "views": "23",
+  "views": "25",
   "images": [
    {
     "href": "https://t.me/hykilp/807",
@@ -8039,7 +8039,7 @@
   "id": "809",
   "text": "还原了以前 ACGN 社团的小兔兔💖",
   "date": "2022-05-22T04:43:42+00:00",
-  "views": "24",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/809?single",
@@ -8075,7 +8075,7 @@
   "id": "811",
   "text": "呜呜 酒精含量高的朗姆好辣呀，超小口试试直接喝，结果没咽进去吐掉了（x\n\n还是 2:1 对着白桃味 calpis 好喝，调了之后 13% 的样子w",
   "date": "2022-05-22T07:05:37+00:00",
-  "views": "25",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/811",
@@ -8095,7 +8095,7 @@
   },
   "text": "头好晕... 今天准备得太差了，让酒精吸收得更快的几个因素几乎全都中了\n\n没吃饭 ✅\n摄入速度更快/浓度更高 ✅\n开心比伤心吸收更快 ✅（因为伤心的时候会减少胃的供血\n女孩比男孩吸收更快 ✅\n体重轻 ✅",
   "date": "2022-05-22T07:23:46+00:00",
-  "views": "26"
+  "views": "28"
  },
  {
   "id": "813",
@@ -8106,7 +8106,7 @@
   },
   "text": "这两天降温，供暖停了，空调冷风还关不掉，所以我们又要在 18℃的房间里过几天了（",
   "date": "2022-05-23T15:43:19+00:00",
-  "views": "24",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/813",
@@ -8121,7 +8121,7 @@
   "id": "814",
   "text": "味噌猪骨拉面w",
   "date": "2022-05-23T16:35:04+00:00",
-  "views": "25",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/814",
@@ -8141,7 +8141,7 @@
   },
   "text": "用吹风机取暖 🌚",
   "date": "2022-05-23T17:47:21+00:00",
-  "views": "25",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/815",
@@ -8161,7 +8161,7 @@
   },
   "text": "烧水、开烤箱取暖w\n\n今早宿舍管理员过来教我们怎么把吹冷风的空调关掉，答案是关电闸 🌚",
   "date": "2022-05-24T21:25:32+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/816?single",
@@ -8197,7 +8197,7 @@
   "id": "818",
   "text": "看看 Purolator 是怎么解决最后一公里配送问题的：让客户坐地铁来回两小时去取快递（",
   "date": "2022-05-25T20:51:57+00:00",
-  "views": "20",
+  "views": "21",
   "images": [
    {
     "href": "https://t.me/hykilp/818?single",
@@ -8233,7 +8233,7 @@
   "id": "820",
   "text": "昨天在雏的大豪斯后院看到的超可爱小小松鼠w",
   "date": "2022-05-25T21:51:11+00:00",
-  "views": "19",
+  "views": "20",
   "images": [
    {
     "href": "https://t.me/hykilp/820?single",
@@ -8293,7 +8293,7 @@
   "id": "824",
   "text": "写了一键切换 git SSH/HTTP remote 的脚本w",
   "date": "2022-05-26T07:35:25+00:00",
-  "views": "18",
+  "views": "20",
   "images": [
    {
     "href": "https://t.me/hykilp/824",
@@ -8308,7 +8308,7 @@
   "id": "825",
   "text": "有虾的海鲜拉面w",
   "date": "2022-05-27T01:33:46+00:00",
-  "views": "18",
+  "views": "20",
   "images": [
    {
     "href": "https://t.me/hykilp/825",
@@ -8469,5 +8469,20 @@
   "text": "还有三天就到安省大选了，我连候选派对有哪些都不知道... 会不会是一直没有投票权让我变得政治冷感了",
   "date": "2022-05-30T07:47:07+00:00",
   "views": "12"
+ },
+ {
+  "id": "842",
+  "text": "换了光标\n\n找了一圈还是小豆泥最可爱w\nsource",
+  "date": "2022-05-30T19:29:58+00:00",
+  "views": "5",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/842",
+    "url": "https://profile-api.hydev.org/assets/0842.jpg",
+    "style": {
+     "width": 800
+    }
+   }
+  ]
  }
 ]
