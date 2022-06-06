@@ -9980,7 +9980,7 @@
   "id": "849",
   "text": "因为搬家，以下服务器暂时下线：\n- @voice_tools_bot （和 beta\n- HyDEV Minecraft 服务器\n- tex.hydev.org\n\n（大概三天内会恢复",
   "date": "2022-06-02T00:58:12+00:00",
-  "views": "89"
+  "views": "90"
  },
  {
   "id": "850",
@@ -10159,7 +10159,7 @@
   "id": "863",
   "text": "懒得扔快递纸板了，扣回桌子上w",
   "date": "2022-06-05T02:47:45+00:00",
-  "views": "18",
+  "views": "19",
   "images": [
    {
     "href": "https://t.me/hykilp/863?single",
@@ -10243,7 +10243,7 @@
   "id": "869",
   "text": "HyFetch on Android TV",
   "date": "2022-06-05T20:41:57+00:00",
-  "views": "8",
+  "views": "14",
   "images": [
    {
     "href": "https://t.me/hykilp/869",
@@ -10253,5 +10253,65 @@
     }
    }
   ]
+ },
+ {
+  "id": "870",
+  "text": "去 Costco 的路上看到好多海鸥在打架 qwq",
+  "date": "2022-06-06T00:27:47+00:00",
+  "views": "5",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/870?single",
+    "url": "https://profile-api.hydev.org/assets/0870.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 339,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/871?single",
+    "url": "https://profile-api.hydev.org/assets/0871.jpg",
+    "style": {
+     "left": 0,
+     "top": 341,
+     "width": 149,
+     "height": 112,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/872?single",
+    "url": "https://profile-api.hydev.org/assets/0872.jpg",
+    "style": {
+     "left": 151,
+     "top": 341,
+     "width": 152,
+     "height": 112,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/873?single",
+    "url": "https://profile-api.hydev.org/assets/0873.jpg",
+    "style": {
+     "left": 305,
+     "top": 341,
+     "width": 148,
+     "height": 112,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 453
+  }
  }
 ]
