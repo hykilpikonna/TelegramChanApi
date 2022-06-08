@@ -10098,7 +10098,7 @@
   "id": "858",
   "text": "和聊聊和雏一起拼宜家拼到凌晨... 不过差不多拼好啦w\n\n但是因为我还是阳性，所以不能和聊聊一起睡大床，只能和这堆宜家垃圾纸盒一起睡还没摆好的沙发（x",
   "date": "2022-06-04T06:40:59+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/858?single",
@@ -10134,7 +10134,7 @@
   "id": "860",
   "text": "？",
   "date": "2022-06-04T22:43:45+00:00",
-  "views": "20",
+  "views": "21",
   "images": [
    {
     "href": "https://t.me/hykilp/860",
@@ -10149,7 +10149,7 @@
   "id": "861",
   "text": "发现了死在水池边的可爱虫虫",
   "date": "2022-06-05T00:49:17+00:00",
-  "views": "21",
+  "views": "22",
   "img_group_style": {
    "width": 453,
    "height": 0
@@ -10159,7 +10159,7 @@
   "id": "863",
   "text": "懒得扔快递纸板了，扣回桌子上w",
   "date": "2022-06-05T02:47:45+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/863?single",
@@ -10195,7 +10195,7 @@
   "id": "866",
   "text": "刚把汉堡肉饼放到微波炉里解冻，然后想起来面包还没有拿过来...\n\n即兴把肉饼切碎回锅，浇上昨天土豆泥剩下的 gravy，出乎意料的超好吃！",
   "date": "2022-06-05T03:34:28+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/866?single",
@@ -10258,7 +10258,7 @@
   "id": "870",
   "text": "去 Costco 的路上看到好多海鸥在打架 qwq",
   "date": "2022-06-06T00:27:47+00:00",
-  "views": "15",
+  "views": "17",
   "images": [
    {
     "href": "https://t.me/hykilp/870?single",
@@ -10322,6 +10322,42 @@
   },
   "text": "好耶，是智能灯泡！",
   "date": "2022-06-06T03:50:27+00:00",
-  "views": "13"
+  "views": "16"
+ },
+ {
+  "id": "876",
+  "text": "发现这个路由器带 USB 3.0 和 type C 口哇，接上就能自动开 SMB，好厉害\n\n可以一边在路由器上下种子一边在电视上看番了！",
+  "date": "2022-06-08T04:26:49+00:00",
+  "views": "27",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/876?single",
+    "url": "https://profile-api.hydev.org/assets/0876.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/877?single",
+    "url": "https://profile-api.hydev.org/assets/0877.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
+  }
  }
 ]
