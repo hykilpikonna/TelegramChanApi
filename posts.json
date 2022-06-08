@@ -10258,7 +10258,7 @@
   "id": "870",
   "text": "去 Costco 的路上看到好多海鸥在打架 qwq",
   "date": "2022-06-06T00:27:47+00:00",
-  "views": "17",
+  "views": "19",
   "images": [
    {
     "href": "https://t.me/hykilp/870?single",
@@ -10322,13 +10322,13 @@
   },
   "text": "好耶，是智能灯泡！",
   "date": "2022-06-06T03:50:27+00:00",
-  "views": "16"
+  "views": "18"
  },
  {
   "id": "876",
   "text": "发现这个路由器带 USB 3.0 和 type C 口哇，接上就能自动开 SMB，好厉害\n\n可以一边在路由器上下种子一边在电视上看番了！",
   "date": "2022-06-08T04:26:49+00:00",
-  "views": "33",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/876?single",
@@ -10359,5 +10359,20 @@
    "width": 453,
    "height": 604
   }
+ },
+ {
+  "id": "878",
+  "text": "可爱毛毛虫w",
+  "date": "2022-06-08T18:26:21+00:00",
+  "views": "7",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/878",
+    "url": "https://profile-api.hydev.org/assets/0878.jpg",
+    "style": {
+     "width": 600
+    }
+   }
+  ]
  }
 ]
