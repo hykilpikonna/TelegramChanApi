@@ -10322,7 +10322,7 @@
   },
   "text": "好耶，是智能灯泡！",
   "date": "2022-06-06T03:50:27+00:00",
-  "views": "21"
+  "views": "22"
  },
  {
   "id": "876",
@@ -10380,5 +10380,20 @@
   "text": "http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
   "date": "2022-06-08T21:55:35+00:00",
   "views": "15"
+ },
+ {
+  "id": "880",
+  "text": "有数不清的事情堆在代办里但是什么都不想做...",
+  "date": "2022-06-09T16:33:09+00:00",
+  "views": "10"
+ },
+ {
+  "id": "881",
+  "video": {
+   "thumb": "https://profile-api.hydev.org/assets/0881-video-thumb.jpg",
+   "src": "https://profile-api.hydev.org/assets/0881-video.mp4"
+  },
+  "date": "2022-06-09T16:33:43+00:00",
+  "views": "10"
  }
 ]
