@@ -10243,7 +10243,7 @@
   "id": "869",
   "text": "HyFetch on Android TV",
   "date": "2022-06-05T20:41:57+00:00",
-  "views": "22",
+  "views": "23",
   "images": [
    {
     "href": "https://t.me/hykilp/869",
@@ -10395,5 +10395,20 @@
   },
   "date": "2022-06-09T16:33:43+00:00",
   "views": "12"
+ },
+ {
+  "id": "882",
+  "text": "装柜子不小心把木板压断了...",
+  "date": "2022-06-10T06:11:01+00:00",
+  "views": "1",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/882",
+    "url": "https://profile-api.hydev.org/assets/0882.jpg",
+    "style": {
+     "width": 800
+    }
+   }
+  ]
  }
 ]
