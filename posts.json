@@ -10756,5 +10756,53 @@
   "text": "我好缺常识呜呜... 一直以为加油站上贴的油价 209/L 单位是 $，刚才认真算了一下每公里要花 $18，还想说怎么这么贵... 聊聊也只是感叹了一下\n\n然后和朋友聊到这件事才知道原来油价那个单位是 ¢，每公里只要花 $0.18 🌚",
   "date": "2022-06-16T08:24:59+00:00",
   "views": "14"
+ },
+ {
+  "id": "908",
+  "text": "第一次用 YorkU Lab 的电脑\n\n是 CentOS 7，内核 3.10 🌚\n\n想哪天带一个黑苹果启动盘过来试试能不能在这上面 boot macOS",
+  "date": "2022-06-16T17:11:09+00:00",
+  "views": "9",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/908?single",
+    "url": "https://profile-api.hydev.org/assets/0908.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 339,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/909?single",
+    "url": "https://profile-api.hydev.org/assets/0909.jpg",
+    "style": {
+     "left": 0,
+     "top": 341,
+     "width": 225,
+     "height": 169,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/910?single",
+    "url": "https://profile-api.hydev.org/assets/0910.jpg",
+    "style": {
+     "left": 227,
+     "top": 341,
+     "width": 226,
+     "height": 169,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 510
+  }
  }
 ]
