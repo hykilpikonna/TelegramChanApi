@@ -10761,7 +10761,7 @@
   "id": "908",
   "text": "第一次用 YorkU Lab 的电脑\n\n是 CentOS 7，内核 3.10 🌚\n\n想哪天带一个黑苹果启动盘过来试试能不能在这上面 boot macOS",
   "date": "2022-06-16T17:11:09+00:00",
-  "views": "16",
+  "views": "17",
   "images": [
    {
     "href": "https://t.me/hykilp/908?single",
@@ -10809,7 +10809,7 @@
   "id": "911",
   "text": "出来下大雨，淋了一身\n\n每次出门都想不起来要看天气预报...",
   "date": "2022-06-16T20:05:07+00:00",
-  "views": "15",
+  "views": "16",
   "images": [
    {
     "href": "https://t.me/hykilp/911?single",
@@ -10845,7 +10845,7 @@
   "id": "913",
   "text": "第一次去 Yorkdale 商场，看到了铺满视野的彩虹旗，买了一个香薰机w",
   "date": "2022-06-17T21:52:38+00:00",
-  "views": "10",
+  "views": "13",
   "images": [
    {
     "href": "https://t.me/hykilp/913?single",
@@ -10893,7 +10893,7 @@
   "id": "916",
   "text": "路上还看到了草地里的一架小飞机，盖在平房上面的天文望远镜，还有吃着喇叭花花蜜的小蚂蚁w",
   "date": "2022-06-17T22:04:54+00:00",
-  "views": "10",
+  "views": "13",
   "images": [
    {
     "href": "https://t.me/hykilp/916?single",
@@ -10935,6 +10935,42 @@
   "img_group_style": {
    "width": 453,
    "height": 511
+  }
+ },
+ {
+  "id": "919",
+  "text": "鸡肉炒面！",
+  "date": "2022-06-18T03:45:24+00:00",
+  "views": "7",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/919?single",
+    "url": "https://profile-api.hydev.org/assets/0919.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/920?single",
+    "url": "https://profile-api.hydev.org/assets/0920.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
   }
  }
 ]
