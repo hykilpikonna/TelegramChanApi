@@ -11097,13 +11097,13 @@
   "id": "930",
   "text": "不想写作业...\n\n想画猫猫，想完善 HyFetch，想重构声音机器人，想练吉他，想征服世界，但是想到还有做不完的作业就什么都不想做了...",
   "date": "2022-06-19T18:57:22+00:00",
-  "views": "17"
+  "views": "18"
  },
  {
   "id": "931",
   "text": "把北洋旗加到这些 pride flag 里面毫无维和hhhh",
   "date": "2022-06-19T21:13:06+00:00",
-  "views": "17",
+  "views": "19",
   "images": [
    {
     "href": "https://t.me/hykilp/931",
@@ -11118,7 +11118,7 @@
   "id": "932",
   "text": "HyFetch 加入了选颜色布局的功能！",
   "date": "2022-06-20T01:16:42+00:00",
-  "views": "12",
+  "views": "15",
   "images": [
    {
     "href": "https://t.me/hykilp/932",
@@ -11128,5 +11128,16 @@
     }
    }
   ]
+ },
+ {
+  "id": "933",
+  "video": {
+   "thumb": "https://profile-api.hydev.org/assets/0933-video-thumb.jpg",
+   "src": "https://profile-api.hydev.org/assets/0933-video.mp4",
+   "duration": "0:29"
+  },
+  "text": "终于能把前奏弹下来了w",
+  "date": "2022-06-20T17:53:32+00:00",
+  "views": "9"
  }
 ]
