@@ -7221,7 +7221,7 @@
   "id": "663",
   "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: pip install hyfetch \n(python &gt; 3.7)\n\n源码 （欢迎贡献！",
   "date": "2022-04-10T10:52:04+00:00",
-  "views": "276",
+  "views": "277",
   "images": [
    {
     "href": "https://t.me/hykilp/663?single",
@@ -10991,7 +10991,7 @@
  {
   "id": "922",
   "date": "2022-06-19T03:30:07+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/922",
@@ -11006,7 +11006,7 @@
   "id": "923",
   "text": "凌晨零点半聊聊还没有回来，半小时前在线也不接电话，好担心...",
   "date": "2022-06-19T04:42:12+00:00",
-  "views": "22"
+  "views": "23"
  },
  {
   "id": "924",
@@ -11016,13 +11016,13 @@
   },
   "text": "原来是在坐地铁，吓死了",
   "date": "2022-06-19T04:47:31+00:00",
-  "views": "20"
+  "views": "21"
  },
  {
   "id": "925",
   "text": "用 Adobe Ai 画了一个 debian 挂钟w\n\n大家觉得哪个设计更好看呢？打算去淘宝定制出来",
   "date": "2022-06-19T06:28:19+00:00",
-  "views": "41",
+  "views": "42",
   "images": [
    {
     "href": "https://t.me/hykilp/925?single",
@@ -11057,13 +11057,13 @@
  {
   "id": "927",
   "date": "2022-06-19T06:30:21+00:00",
-  "views": "42"
+  "views": "43"
  },
  {
   "id": "928",
   "text": "中和一下，24 个刻度的呢？",
   "date": "2022-06-19T06:44:59+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/928",
@@ -11082,7 +11082,7 @@
   },
   "text": "...还是发到 blog 上好了",
   "date": "2022-06-19T16:38:21+00:00",
-  "views": "17",
+  "views": "18",
   "images": [
    {
     "href": "https://t.me/hykilp/929",
@@ -11097,17 +11097,32 @@
   "id": "930",
   "text": "不想写作业...\n\n想画猫猫，想完善 HyFetch，想重构声音机器人，想练吉他，想征服世界，但是想到还有做不完的作业就什么都不想做了...",
   "date": "2022-06-19T18:57:22+00:00",
-  "views": "14"
+  "views": "16"
  },
  {
   "id": "931",
   "text": "把北洋旗加到这些 pride flag 里面毫无维和hhhh",
   "date": "2022-06-19T21:13:06+00:00",
-  "views": "12",
+  "views": "14",
   "images": [
    {
     "href": "https://t.me/hykilp/931",
     "url": "https://profile-api.hydev.org/assets/0931.jpg",
+    "style": {
+     "width": 800
+    }
+   }
+  ]
+ },
+ {
+  "id": "932",
+  "text": "HyFetch 加入了选颜色布局的功能！",
+  "date": "2022-06-20T01:16:42+00:00",
+  "views": "8",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/932",
+    "url": "https://profile-api.hydev.org/assets/0932.jpg",
     "style": {
      "width": 800
     }
