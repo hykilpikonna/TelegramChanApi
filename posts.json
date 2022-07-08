@@ -8184,7 +8184,7 @@
   "id": "724",
   "text": "终于从腾讯企业邮箱迁移到了 Microsoft 365\n\n真的好麻烦... 步骤大概是这样：\n1. 免费注册 Office 365\n2. 去腾讯设置界面把 IMAP 同步限制设置成“收取[全部]的邮件”\n3. Outlook Windows 同时登录旧邮箱和新邮箱的 @&lt;org&gt;.onmicrosoft.com 别名\n4. Outlook 客户端旧账号设置 &gt; Email &gt; Keep mail offline for 设置成 All\n5. Outlook 右上角点 Send/Receive All Folders（这个会跑很久很久很久）\n6. Outlook 左上角 File &gt; Open &amp; Export &gt; Import/Export &gt; Export to a file &gt; Outlook Data File (.pst) &gt; 选择旧邮箱 &gt; Include subfolders &gt; Next &gt; 填一个路径导出\n7. Outlook 左上角 File &gt; Open &amp; Export &gt; Import/Export &gt; Import from another program or file &gt; Outlook Data File (.pst) &gt; 选择之前导出的路径\n8. 导入完成之后等同步，同步完之后我发现我的 sent message 并没有被放进 sent messages 文件夹...\n9. 在新邮箱内搜索 from:&lt;旧邮箱&gt;，把所有的结果移动到新邮箱的 sent messages\n10. 等新邮箱同步完之后移除两个邮箱\n11. 去 MS 365 管理设置新邮箱的域名\n12. Outlook 重新添加域名邮箱（这个时候新邮箱应该和旧邮箱地址一样了）\n\n完成！接下来等一天看看自动续订能不能用就好啦——",
   "date": "2022-05-05T03:16:37+00:00",
-  "views": "49",
+  "views": "50",
   "images": [
    {
     "href": "https://t.me/hykilp/724",
@@ -9800,7 +9800,7 @@
   "id": "830",
   "text": "呜呜我也想和猫猫一起住在湖边（fwd source",
   "date": "2022-05-27T23:22:45+00:00",
-  "views": "37"
+  "views": "38"
  },
  {
   "id": "832",
@@ -9974,13 +9974,13 @@
   "id": "848",
   "text": "翻翻小时候用天桥上的十元耳机在随身听上天天单曲循环的中文歌w\n\nhttps://youtube.com/playlist?list=PLy60zL33iueoXijYR5alagnhOI5t37qcl",
   "date": "2022-06-01T16:38:06+00:00",
-  "views": "47"
+  "views": "48"
  },
  {
   "id": "849",
   "text": "因为搬家，以下服务器暂时下线：\n- @voice_tools_bot （和 beta\n- HyDEV Minecraft 服务器\n- tex.hydev.org\n\n（大概三天内会恢复",
   "date": "2022-06-02T00:58:12+00:00",
-  "views": "124"
+  "views": "125"
  },
  {
   "id": "850",
@@ -10379,7 +10379,7 @@
   "id": "879",
   "text": "http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
   "date": "2022-06-08T21:55:35+00:00",
-  "views": "36"
+  "views": "37"
  },
  {
   "id": "880",
@@ -11186,7 +11186,7 @@
   "id": "938",
   "text": "这次是聊聊给我做的提拉米苏！味道好棒w",
   "date": "2022-06-23T05:12:08+00:00",
-  "views": "41",
+  "views": "43",
   "images": [
    {
     "href": "https://t.me/hykilp/938?single",
@@ -11366,19 +11366,19 @@
   "id": "950",
   "text": "桂桂自控能力真的好差... 昨天入坑塞尔达旷野之息结果从早上十二点玩到了凌晨五点，明明还有教授布置的研究工作要做",
   "date": "2022-06-30T17:21:50+00:00",
-  "views": "57"
+  "views": "58"
  },
  {
   "id": "951",
   "text": "看屏幕太久了眼睛有点疼... 让聊聊帮忙滴了眼药水！\n\n第一次滴眼药水好害怕，让聊聊有点不耐烦",
   "date": "2022-07-02T05:38:56+00:00",
-  "views": "43"
+  "views": "44"
  },
  {
   "id": "954",
   "text": "ArchLinux 镜像好快！\n60 MB/s 还没反应过来就下好了",
   "date": "2022-07-05T00:01:08+00:00",
-  "views": "33",
+  "views": "34",
   "images": [
    {
     "href": "https://t.me/hykilp/954",
@@ -11393,7 +11393,7 @@
   "id": "955",
   "text": "旷野之息通关了！\n\n...只打了三个神兽去试试打最终 Boss，居然真的打赢了！\n\n结尾 roll credits 的时候还看到解锁了之后一直没打的神庙hhh",
   "date": "2022-07-05T04:53:09+00:00",
-  "views": "31",
+  "views": "32",
   "images": [
    {
     "href": "https://t.me/hykilp/955?single",
@@ -11441,7 +11441,7 @@
   "id": "958",
   "text": "成功了！！！！！\n\n在 X99 服务器 CPU E5-2696v3 上配好了黑苹果！",
   "date": "2022-07-05T05:27:17+00:00",
-  "views": "118",
+  "views": "121",
   "images": [
    {
     "href": "https://t.me/hykilp/958",
@@ -11500,7 +11500,7 @@
  {
   "id": "964",
   "date": "2022-07-08T01:51:15+00:00",
-  "views": "19",
+  "views": "21",
   "images": [
    {
     "href": "https://t.me/hykilp/964?single",
@@ -11531,5 +11531,20 @@
    "width": 453,
    "height": 604
   }
+ },
+ {
+  "id": "966",
+  "text": "天亮了！\n\n每次通宵都能看到好漂亮的日出w",
+  "date": "2022-07-08T09:58:04+00:00",
+  "views": "9",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/966",
+    "url": "https://profile-api.hydev.org/assets/0966.jpg",
+    "style": {
+     "width": 800
+    }
+   }
+  ]
  }
 ]
