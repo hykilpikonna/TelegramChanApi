@@ -11690,7 +11690,7 @@
   "id": "976",
   "text": "又到了年度的排课地狱",
   "date": "2022-07-11T22:42:56+00:00",
-  "views": "20",
+  "views": "21",
   "images": [
    {
     "href": "https://t.me/hykilp/976?single",
@@ -11726,7 +11726,7 @@
   "id": "978",
   "text": "发现 Zotero iOS 安装需要最低 iOS 14.7... 我因为越狱留在 14.4 安装不上\n\n拆包把版本限制改成 14.0 然后重新假签名用 appsync + appinst 安装发现打开的时候闪退\n\n结果拉源码下来用 Xcode 重新给 iOS 14.0 编译了... 这台黑苹果工作站第一次把 E5 36 核占满",
   "date": "2022-07-12T02:28:46+00:00",
-  "views": "16",
+  "views": "17",
   "images": [
    {
     "href": "https://t.me/hykilp/978?single",
