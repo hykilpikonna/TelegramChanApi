@@ -11726,7 +11726,7 @@
   "id": "978",
   "text": "发现 Zotero iOS 安装需要最低 iOS 14.7... 我因为越狱留在 14.4 安装不上\n\n拆包把版本限制改成 14.0 然后重新假签名用 appsync + appinst 安装发现打开的时候闪退\n\n结果拉源码下来用 Xcode 重新给 iOS 14.0 编译了... 这台黑苹果工作站第一次把 E5 36 核占满",
   "date": "2022-07-12T02:28:46+00:00",
-  "views": "21",
+  "views": "23",
   "images": [
    {
     "href": "https://t.me/hykilp/978?single",
@@ -11756,6 +11756,54 @@
   "img_group_style": {
    "width": 453,
    "height": 87
+  }
+ },
+ {
+  "id": "980",
+  "text": "土豆炒青椒和肉片炒芹菜！\n\n今天发现如果买肉块手动切成肉片，然后用酱油和淀粉抓扮一下再炒的话会比买里脊肉丝直接炒口感好很多诶",
+  "date": "2022-07-13T01:28:13+00:00",
+  "views": "13",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/980?single",
+    "url": "https://profile-api.hydev.org/assets/0980.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 339,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/981?single",
+    "url": "https://profile-api.hydev.org/assets/0981.jpg",
+    "style": {
+     "left": 0,
+     "top": 341,
+     "width": 225,
+     "height": 169,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/982?single",
+    "url": "https://profile-api.hydev.org/assets/0982.jpg",
+    "style": {
+     "left": 227,
+     "top": 341,
+     "width": 226,
+     "height": 169,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 510
   }
  }
 ]
