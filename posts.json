@@ -11652,7 +11652,7 @@
  {
   "id": "983",
   "date": "2022-07-13T19:14:38+00:00",
-  "views": "26",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/983?single",
@@ -11704,12 +11704,12 @@
   },
   "text": "大猫猫撸小猫猫（？",
   "date": "2022-07-14T03:06:44+00:00",
-  "views": "24"
+  "views": "26"
  },
  {
   "id": "987",
   "date": "2022-07-14T03:49:18+00:00",
-  "views": "23",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/987?single",
@@ -11750,7 +11750,7 @@
   },
   "text": "又到了年度的拼手速抢课地狱",
   "date": "2022-07-14T15:33:02+00:00",
-  "views": "19",
+  "views": "21",
   "images": [
    {
     "href": "https://t.me/hykilp/989",
@@ -11770,7 +11770,7 @@
   },
   "text": "好耶！今年想选的全都选上了！有一门课我选上的时候只剩 8 个位置",
   "date": "2022-07-14T16:19:00+00:00",
-  "views": "17",
+  "views": "19",
   "images": [
    {
     "href": "https://t.me/hykilp/990",
@@ -11780,5 +11780,15 @@
     }
    }
   ]
+ },
+ {
+  "id": "991",
+  "video": {
+   "thumb": "https://profile-api.hydev.org/assets/0991-video-thumb.jpg",
+   "src": "https://profile-api.hydev.org/assets/0991-video.mp4"
+  },
+  "text": "发现旷野之息村里的狗狗会追自己的尾巴，还会吃我丢下的肉肉 qwq\n\n好可爱！可惜不能养",
+  "date": "2022-07-17T04:43:46+00:00",
+  "views": "15"
  }
 ]
