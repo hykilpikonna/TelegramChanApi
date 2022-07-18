@@ -4176,7 +4176,7 @@
  {
   "id": "442",
   "date": "2022-01-12T15:03:29+00:00",
-  "views": "53",
+  "views": "54",
   "images": [
    {
     "href": "https://t.me/hykilp/442?single",
@@ -11570,7 +11570,7 @@
  {
   "id": "978",
   "date": "2022-07-12T02:28:46+00:00",
-  "views": "35",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/978?single",
@@ -11605,7 +11605,7 @@
  {
   "id": "980",
   "date": "2022-07-13T01:28:13+00:00",
-  "views": "31",
+  "views": "32",
   "images": [
    {
     "href": "https://t.me/hykilp/980?single",
@@ -11770,7 +11770,7 @@
   },
   "text": "好耶！今年想选的全都选上了！有一门课我选上的时候只剩 8 个位置",
   "date": "2022-07-14T16:19:00+00:00",
-  "views": "35",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/990",
@@ -11835,13 +11835,13 @@
   "id": "996",
   "text": "学费出来了，比去年贵了 $3500... 通货膨胀好糟糕",
   "date": "2022-07-18T01:43:57+00:00",
-  "views": "40"
+  "views": "41"
  },
  {
   "id": "997",
   "text": "好期待",
   "date": "2022-07-18T16:00:41+00:00",
-  "views": "13",
+  "views": "18",
   "images": [
    {
     "href": "https://t.me/hykilp/997",
@@ -11851,5 +11851,15 @@
     }
    }
   ]
+ },
+ {
+  "id": "999",
+  "video": {
+   "thumb": "https://profile-api.hydev.org/assets/0999-video-thumb.jpg",
+   "src": "https://profile-api.hydev.org/assets/0999-video.mp4"
+  },
+  "text": "github 主页添加了一只猫猫动图w\n\n（原来 tgs 表情是用 AE 导出、用 Lottie 渲染的矢量动画。因为 Github readme 不能放 Lottie 脚本，转成 gif 不支持透明背景，所以用 puppeteer-lottie 渲染成 apng 放上去了——",
+  "date": "2022-07-18T20:40:08+00:00",
+  "views": "11"
  }
 ]
