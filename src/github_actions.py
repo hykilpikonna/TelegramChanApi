@@ -33,7 +33,7 @@ def get_image(url: str, name: str) -> str:
     file = assets.joinpath(name)
 
     if url.strip('"').startswith('data:'):
-        return url
+        return url.strip('"')
 
     if os.path.isfile(file):
         print(f'Already exists: {name}')
