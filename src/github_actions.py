@@ -32,6 +32,9 @@ def get_image(url: str, name: str) -> str:
     assets.mkdir(exist_ok=True, parents=True)
     file = assets.joinpath(name)
 
+    if url.strip('"').startswith('data:'):
+        return url
+
     if os.path.isfile(file):
         print(f'Already exists: {name}')
     else:
