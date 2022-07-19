@@ -11109,7 +11109,7 @@
   "id": "943",
   "text": "Introduction to Algorithms （幻视",
   "date": "2022-06-25T18:58:31+00:00",
-  "views": "462",
+  "views": "463",
   "images": [
    {
     "href": "https://t.me/hykilp/943",
@@ -11809,7 +11809,7 @@
  {
   "id": "993",
   "date": "2022-07-18T00:26:01+00:00",
-  "views": "58"
+  "views": "61"
  },
  {
   "id": "995",
@@ -11841,7 +11841,7 @@
   "id": "997",
   "text": "好期待",
   "date": "2022-07-18T16:00:41+00:00",
-  "views": "22",
+  "views": "23",
   "images": [
    {
     "href": "https://t.me/hykilp/997",
@@ -11860,6 +11860,6 @@
   },
   "text": "github 主页添加了一只猫猫动图w\n\n（原来 tgs 表情是用 AE 导出、用 Lottie 渲染的矢量动画。因为 Github readme 不能放 Lottie 脚本，转成 gif 不支持透明背景，所以用 puppeteer-lottie 渲染成 apng 放上去了——",
   "date": "2022-07-18T20:40:08+00:00",
-  "views": "19"
+  "views": "20"
  }
 ]
