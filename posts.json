@@ -11860,6 +11860,6 @@
   },
   "text": "github 主页添加了一只猫猫动图w\n\n（原来 tgs 表情是用 AE 导出、用 Lottie 渲染的矢量动画。因为 Github readme 不能放 Lottie 脚本，转成 gif 不支持透明背景，所以用 puppeteer-lottie 渲染成 apng 放上去了——",
   "date": "2022-07-18T20:40:08+00:00",
-  "views": "17"
+  "views": "19"
  }
 ]
