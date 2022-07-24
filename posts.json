@@ -6533,58 +6533,6 @@
   }
  },
  {
-  "id": "615",
-  "reply": {
-   "url": "https://t.me/hykilp/591",
-   "text": "加拿大鹅！ 第一次在加拿大看到加拿大鹅！ （虽然之前在麻省到处都是hhhh",
-   "thumb": "https://profile-api.hydev.org/assets/0615-reply-thumb.jpg"
-  },
-  "date": "2022-03-22T19:36:43+00:00",
-  "views": "31",
-  "images": [
-   {
-    "href": "https://t.me/hykilp/613?single",
-    "url": "https://profile-api.hydev.org/assets/0613.jpg",
-    "style": {
-     "left": 0,
-     "top": 0,
-     "width": 453,
-     "height": 339,
-     "margin-right": 0,
-     "margin-bottom": 2
-    }
-   },
-   {
-    "href": "https://t.me/hykilp/614?single",
-    "url": "https://profile-api.hydev.org/assets/0614.jpg",
-    "style": {
-     "left": 0,
-     "top": 341,
-     "width": 225,
-     "height": 169,
-     "margin-right": 2,
-     "margin-bottom": 0
-    }
-   },
-   {
-    "href": "https://t.me/hykilp/615?single",
-    "url": "https://profile-api.hydev.org/assets/0615.jpg",
-    "style": {
-     "left": 227,
-     "top": 341,
-     "width": 226,
-     "height": 169,
-     "margin-right": 0,
-     "margin-bottom": 0
-    }
-   }
-  ],
-  "img_group_style": {
-   "width": 453,
-   "height": 510
-  }
- },
- {
   "id": "616",
   "date": "2022-03-23T02:18:34+00:00",
   "views": "32",
