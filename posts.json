@@ -440,7 +440,7 @@
   "id": "41",
   "text": "一些城市片段w",
   "date": "2021-09-13T02:05:53+00:00",
-  "views": "26",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/41?single",
@@ -12078,7 +12078,7 @@
   "id": "1005",
   "text": "发现草莓 calpis 对朗姆味道好棒w",
   "date": "2022-07-23T06:56:22+00:00",
-  "views": "38",
+  "views": "39",
   "images": [
    {
     "href": "https://t.me/hykilp/1005",
@@ -12093,7 +12093,7 @@
   "id": "1006",
   "text": "门卡复制成功！\n\nT5577 卡好厉害，一张卡可以通过调区块 0 的配置来模拟所有低频标准，还能设密码让读卡器读不出源数据，只能读出模拟数据w\n\n这次是模拟了 Pyramid PSK3",
   "date": "2022-07-23T22:56:51+00:00",
-  "views": "43",
+  "views": "44",
   "images": [
    {
     "href": "https://t.me/hykilp/1006?single",
@@ -12129,7 +12129,7 @@
   "id": "1008",
   "text": "好多 pusheen（x",
   "date": "2022-07-25T16:21:21+00:00",
-  "views": "34",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/1008",
@@ -12144,7 +12144,7 @@
   "id": "1009",
   "text": "i use hyfetch btw",
   "date": "2022-07-25T19:39:45+00:00",
-  "views": "43",
+  "views": "45",
   "images": [
    {
     "href": "https://t.me/hykilp/1009",
@@ -12159,13 +12159,13 @@
   "id": "1010",
   "text": "洗完牙了... 好疼！",
   "date": "2022-07-25T21:35:21+00:00",
-  "views": "34"
+  "views": "36"
  },
  {
   "id": "1011",
   "text": "第二次做照烧鸡腿，想着这次有这么多肉肉就多放点酱油盐什么的吧然后就放太多了，超下饭（xx\n\n...忘记拍照了放张腌肉肉 qwq",
   "date": "2022-07-27T02:28:34+00:00",
-  "views": "28",
+  "views": "31",
   "images": [
    {
     "href": "https://t.me/hykilp/1011",
@@ -12180,6 +12180,21 @@
   "id": "1012",
   "text": "睡觉睡觉w\n好久没有在 12 点之前睡了...",
   "date": "2022-07-27T03:12:46+00:00",
-  "views": "26"
+  "views": "30"
+ },
+ {
+  "id": "1013",
+  "video": {
+   "thumb": "https://profile-api.hydev.org/assets/1013-video-thumb.jpg",
+   "src": "https://profile-api.hydev.org/assets/1013-video.mp4"
+  },
+  "date": "2022-07-27T16:40:04+00:00",
+  "views": "18"
+ },
+ {
+  "id": "1014",
+  "text": "Gnome 40 好好看！\n想换过去试试，不想用 KDE 了（xx",
+  "date": "2022-07-27T17:44:34+00:00",
+  "views": "15"
  }
 ]
