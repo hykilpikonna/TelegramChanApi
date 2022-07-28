@@ -12063,7 +12063,7 @@
   "id": "1004",
   "text": "好耶！联系上了另外一个 voice tool bot 的作者🐑！希望能合作做出更好的 voice tool bot",
   "date": "2022-07-21T04:21:56+00:00",
-  "views": "143",
+  "views": "144",
   "images": [
    {
     "href": "https://t.me/hykilp/1004",
@@ -12144,7 +12144,7 @@
   "id": "1009",
   "text": "i use hyfetch btw",
   "date": "2022-07-25T19:39:45+00:00",
-  "views": "45",
+  "views": "46",
   "images": [
    {
     "href": "https://t.me/hykilp/1009",
@@ -12159,7 +12159,7 @@
   "id": "1010",
   "text": "洗完牙了... 好疼！",
   "date": "2022-07-25T21:35:21+00:00",
-  "views": "36"
+  "views": "37"
  },
  {
   "id": "1011",
@@ -12180,7 +12180,7 @@
   "id": "1012",
   "text": "睡觉睡觉w\n好久没有在 12 点之前睡了...",
   "date": "2022-07-27T03:12:46+00:00",
-  "views": "31"
+  "views": "32"
  },
  {
   "id": "1013",
@@ -12189,19 +12189,19 @@
    "src": "https://profile-api.hydev.org/assets/1013-video.mp4"
   },
   "date": "2022-07-27T16:40:04+00:00",
-  "views": "24"
+  "views": "26"
  },
  {
   "id": "1014",
   "text": "Gnome 40 好好看！\n想换过去试试，不想用 KDE 了（xx",
   "date": "2022-07-27T17:44:34+00:00",
-  "views": "22"
+  "views": "25"
  },
  {
   "id": "1017",
   "text": "入坑双拼 qwq\nslow mode 启动",
   "date": "2022-07-27T23:41:06+00:00",
-  "views": "11",
+  "views": "19",
   "images": [
    {
     "href": "https://t.me/hykilp/1017",
@@ -12211,5 +12211,41 @@
     }
    }
   ]
+ },
+ {
+  "id": "1018",
+  "text": "黄焖鸡！",
+  "date": "2022-07-28T02:22:38+00:00",
+  "views": "11",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1018?single",
+    "url": "https://profile-api.hydev.org/assets/1018.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1019?single",
+    "url": "https://profile-api.hydev.org/assets/1019.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
+  }
  }
 ]
