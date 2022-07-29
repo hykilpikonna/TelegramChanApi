@@ -12201,7 +12201,7 @@
   "id": "1017",
   "text": "入坑双拼 qwq\nslow mode 启动",
   "date": "2022-07-27T23:41:06+00:00",
-  "views": "31",
+  "views": "32",
   "images": [
    {
     "href": "https://t.me/hykilp/1017",
@@ -12216,7 +12216,7 @@
   "id": "1018",
   "text": "黄焖鸡！",
   "date": "2022-07-28T02:22:38+00:00",
-  "views": "32",
+  "views": "33",
   "images": [
    {
     "href": "https://t.me/hykilp/1018?single",
@@ -12252,13 +12252,13 @@
   "id": "1020",
   "text": "又习惯性地把作业拖到最后一天了（x\n而且还有三周的课要补... 呜呜呜",
   "date": "2022-07-28T05:51:05+00:00",
-  "views": "31"
+  "views": "32"
  },
  {
   "id": "1021",
   "text": "八月一号有好多 day 诶",
   "date": "2022-07-28T06:08:47+00:00",
-  "views": "31",
+  "views": "32",
   "images": [
    {
     "href": "https://t.me/hykilp/1021",
@@ -12273,7 +12273,7 @@
   "id": "1022",
   "text": "感冒了，聊聊给我做了皮蛋瘦肉粥 qwq",
   "date": "2022-07-28T18:59:10+00:00",
-  "views": "24",
+  "views": "25",
   "images": [
    {
     "href": "https://t.me/hykilp/1022?single",
@@ -12303,6 +12303,42 @@
   "img_group_style": {
    "width": 453,
    "height": 604
+  }
+ },
+ {
+  "id": "1024",
+  "text": "hyfetch 合进 nixpkgs 官方源了！\n\n感谢灯花重新打包 qwq\n\n（呜呜呜为什么我打的包三个月还没过 CI，灯花打的包三天就合进去了 🥲",
+  "date": "2022-07-29T13:39:26+00:00",
+  "views": "10",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1024?single",
+    "url": "https://profile-api.hydev.org/assets/1024.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 225,
+     "height": 43,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1025?single",
+    "url": "https://profile-api.hydev.org/assets/1025.jpg",
+    "style": {
+     "left": 227,
+     "top": 0,
+     "width": 226,
+     "height": 43,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 43
   }
  }
 ]
