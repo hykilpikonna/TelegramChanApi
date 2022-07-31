@@ -1573,7 +1573,7 @@
   "id": "148",
   "text": "喜欢做饭是我自己的兴趣，做出来自己觉得好吃就有足够的成就感了！才不需要听你的评价呢，哼！（雾",
   "date": "2021-10-25T23:55:55+00:00",
-  "views": "32"
+  "views": "33"
  },
  {
   "id": "149",
@@ -12350,6 +12350,21 @@
    {
     "href": "https://t.me/hykilp/1026",
     "url": "https://profile-api.hydev.org/assets/1026.jpg",
+    "style": {
+     "width": 800
+    }
+   }
+  ]
+ },
+ {
+  "id": "1027",
+  "text": "发现 Bell 如果设置 PPPoE Passthrough 的话每个以太网设备都能有公网 IP 哇\n\n虽然缺点就是没有局域网了，所有设备都要设自己的防火墙... 感觉公网 SMB 是不是不太安全（",
+  "date": "2022-07-31T17:50:30+00:00",
+  "views": "5",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1027",
+    "url": "https://profile-api.hydev.org/assets/1027.jpg",
     "style": {
      "width": 800
     }
