@@ -12907,7 +12907,7 @@
   "id": "1067",
   "text": "抓包 superbuy 转运\n\n一个 API 节点的 json 里面同时有大写 CamelCase、小写 camelCase、下划线分割、和大写下划线分割。请求头里面同一个字段同时有下划线和减号分割。 🌚\n\n不管请求成功失败都返回 HTTP 200，判断成功有些节点是 Code == 10000、有些节点是 status == 0、还有些节点是 code == \"sucess\"，还把 success 打错了（\n\n你们开发团队完全没有一个标准的么（（（",
   "date": "2022-08-11T17:27:22+00:00",
-  "views": "21",
+  "views": "22",
   "images": [
    {
     "href": "https://t.me/hykilp/1067?single",
