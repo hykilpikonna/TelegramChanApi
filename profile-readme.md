@@ -5,10 +5,11 @@ I'm Hykilpikonna, a first-year undergraduate student at the University of Toront
 I also love cats =^･-･^=
 
 
-### 🌷 My overall statistics <!--{ hideLines(3) }-->
+### 🌷 My overall statistics <!--{ collapseSection() }-->
 
 ![](https://github-readme-stats.vercel.app/api?username=hykilpikonna&hide=stars&include_all_commits=true&show_icons=true&title_color=ff7d92&text_color=ffb5c2&icon_color=ff869a)
 <img src="https://user-images.githubusercontent.com/22280294/179611382-5704fe4f-ef8c-40f2-b868-5921cfb56da6.png" alt="pusheen" height="160px">
+
 
 ### 🕊️ You can reach me at <!--{ collapseSection() }-->
 
@@ -18,15 +19,13 @@ I also love cats =^･-･^=
 * Email me@hydev.org
 * **NEW!** Anonymous Question Box: https://peing.net/hykilpikonna
 
+
 ### 🌎 I can speak <!--{ collapseSection() }-->
 
 * 🇺🇸 English
-    * Shanbay: [13053 Words (97th Percentile)](https://imgur.com/a/jk3tDGi) (Tested on [Shanbay](https://www.shanbay.com/bdc/mobile/vocabtest/), as of Apr. 20, 2021)
-    * IELTS: 8.0 (Listening: 7.5, Reading: 8.0, Writing: 7.5, Speaking: 8.0, as of Apr. 29, 2021)
 * 🇨🇳 中文
-    * Arealme: [1995 Words (45th Percentile)](https://imgur.com/sxtLGzM) (Tested on [arealme.com](https://www.arealme.com/chinese-vocabulary-size-test/cn/), as of Apr. 20, 2021)
 * 🇯🇵 日本語 (Learning)
-    * `65.3%` toward completing N5
+
 
 ### ⭐ I have experience using <!--{ collapseSection() }-->
 
@@ -39,16 +38,15 @@ I also love cats =^･-･^=
 
 ### 🌱 Projects I'm currently working on <!--{ collapseSection() }-->
 
-* `20%` A personal home page / blog
-* `50%` A speech gender recognition algorithm based on ML and statistical analysis of fundamental frequency and formants.
+* `1%` A risc-v 16" laptop
+* `90%` A personal home page / blog: [profile.hydev.org](https://profile.hydev.org)
+* `50%` A speech gender recognition algorithm based on ML and statistical analysis of formants.
 * `40%` A transgender voice training app.
-* ~~`10%` A RottenTomatoes filter~~
-* `10%` A spaced-repetition vocabulary memorization program optimized for Japanese language study - [NyaaMemo](https://github.com/hykilpikonna/AnkiNG).
+* `90%` Taking over neofetch with [HyFetch](https://github.com/hykilpikonna/HyFetch) / neowofetch
+* `10%` ~~A spaced-repetition vocabulary memorization program optimized for Japanese language study - [NyaaMemo](https://github.com/hykilpikonna/AnkiNG)~~.
+
 
 ### 🌲 Completed projects <!--{ collapseSection() }-->
 
 I published most my projects to [HyDEV (HyDevelop)](https://github.com/hydevelop), previously a two-person organization of me and my best friend [Vanilla](https://github.com/vergedx) before we broke up last year. Currently, I publish my projects to this personal account.
-There is a list of my significant completed projects with English descriptions on my [projects website](https://me.hydev.org).
-But here is a brief list of my projects with their statistics:
-
-(Since some of them, such as PicqBotX, is only applicable to a Chinese developer community, their description and documentation shouldn't be in English)
+There is a list of my significant projects on my [projects website](https://me.hydev.org).
