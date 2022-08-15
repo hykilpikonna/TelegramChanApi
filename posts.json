@@ -12970,13 +12970,13 @@
   "id": "1071",
   "text": "今晚要交的作业还没碰，还有三节课要补... 为什么我总是把必须做的事情拖到最后一天",
   "date": "2022-08-13T16:51:05+00:00",
-  "views": "30"
+  "views": "31"
  },
  {
   "id": "1072",
   "text": "X！",
   "date": "2022-08-14T18:21:22+00:00",
-  "views": "17",
+  "views": "19",
   "images": [
    {
     "href": "https://t.me/hykilp/1072",
@@ -12986,5 +12986,41 @@
     }
    }
   ]
+ },
+ {
+  "id": "1073",
+  "text": "盐焗鸡！\n\n盐焗鸡也好好做，解冻腌好放一晚上，然后直接丢进电饭煲里煮半个小时就好了",
+  "date": "2022-08-14T22:37:29+00:00",
+  "views": "11",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1073?single",
+    "url": "https://profile-api.hydev.org/assets/1073.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1074?single",
+    "url": "https://profile-api.hydev.org/assets/1074.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
+  }
  }
 ]
