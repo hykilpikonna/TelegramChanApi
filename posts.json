@@ -358,7 +358,7 @@
   "id": "35",
   "text": "学校食堂排了超长队，有理由一个人出去吃牛丼好开心w",
   "date": "2021-09-08T18:44:57+00:00",
-  "views": "31",
+  "views": "32",
   "images": [
    {
     "href": "https://t.me/hykilp/35?single",
@@ -13234,7 +13234,7 @@
   },
   "text": "服务器上有了桂子搭的鸟居、半喵抓的小狐狸、还有小桂桂的温馨小屋w\n\n好想住进去 qwq",
   "date": "2022-08-19T05:04:14+00:00",
-  "views": "43",
+  "views": "44",
   "images": [
    {
     "href": "https://t.me/hykilp/1091?single",
@@ -13325,5 +13325,16 @@
    "width": 453,
    "height": 689
   }
+ },
+ {
+  "id": "1098",
+  "video": {
+   "thumb": "https://profile-api.hydev.org/assets/1098-video-thumb.jpg",
+   "src": "https://profile-api.hydev.org/assets/1098-video.mp4",
+   "duration": "0:14"
+  },
+  "text": "写了一个支持 emoji 的 python 进度条！",
+  "date": "2022-08-19T20:06:09+00:00",
+  "views": "5"
  }
 ]
