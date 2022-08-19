@@ -13064,19 +13064,19 @@
   },
   "text": "写了一个极简短链接网站！\n\nsh.hydev.org",
   "date": "2022-08-15T22:00:09+00:00",
-  "views": "34"
+  "views": "35"
  },
  {
   "id": "1081",
   "text": "我的演讲被排到了下午两点半。听了一下别人的演讲，有人计算了金星不同高度的风速，有人提高了声悬浮的稳定性，有人写了开源的光曲线处理程序... 感觉只有我的研究最无聊了呜呜",
   "date": "2022-08-16T16:08:34+00:00",
-  "views": "34"
+  "views": "35"
  },
  {
   "id": "1082",
   "text": "演讲结束了！\n\n太紧张结果读错了好多词... 总是一不小心就和脑子里想说的下一个词混在一起了（x\n\n不过总体还挺流畅的 qwq",
   "date": "2022-08-16T22:22:15+00:00",
-  "views": "32",
+  "views": "33",
   "images": [
    {
     "href": "https://t.me/hykilp/1082?single",
@@ -13112,7 +13112,7 @@
   "id": "1084",
   "text": "猫！",
   "date": "2022-08-16T23:21:41+00:00",
-  "views": "30",
+  "views": "31",
   "images": [
    {
     "href": "https://t.me/hykilp/1084",
@@ -13127,7 +13127,7 @@
   "id": "1085",
   "text": "复习完了！\n\n明早（今早？）考试让带一张 A4 纸的手写笔记，所以我把这个暑假的所有笔记写在这张纸上啦 qwq\n\n呜呜呜手好疼，感觉 covid 这三年加起来都没有手写过这么多字哇\n\n睡觉，还有 5.5 个小时就要起床去考试了...",
   "date": "2022-08-18T06:26:25+00:00",
-  "views": "25",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/1085?single",
@@ -13163,7 +13163,7 @@
   "id": "1087",
   "text": "准备好了 qwq",
   "date": "2022-08-18T12:48:26+00:00",
-  "views": "23",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/1087",
@@ -13178,7 +13178,7 @@
   "id": "1088",
   "text": "考完啦\n\n发现我最擅长的是 FSA，FSA 题我应该全对了。最不擅长动态时间复杂度分析... 基于循环里的数值的时间复杂度那三道题完全不会（x\n\n大概至少扣 10 分吧，还好还好",
   "date": "2022-08-18T16:17:49+00:00",
-  "views": "20",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/1088",
@@ -13188,5 +13188,41 @@
     }
    }
   ]
+ },
+ {
+  "id": "1089",
+  "text": "青椒萝卜肉丝w",
+  "date": "2022-08-19T01:10:09+00:00",
+  "views": "15",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1089?single",
+    "url": "https://profile-api.hydev.org/assets/1089.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1090?single",
+    "url": "https://profile-api.hydev.org/assets/1090.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
+  }
  }
 ]
