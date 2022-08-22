@@ -13448,13 +13448,28 @@
   "id": "1106",
   "text": "哇 今天还是世界蜜蜂日诶",
   "date": "2022-08-22T03:09:42+00:00",
-  "views": "15",
+  "views": "18",
   "images": [
    {
     "href": "https://t.me/hykilp/1106",
     "url": "https://profile-api.hydev.org/assets/1106.jpg",
     "style": {
      "width": 711
+    }
+   }
+  ]
+ },
+ {
+  "id": "1107",
+  "text": "MC 服务器加入了网页地图！感谢桂子推荐插件 qwq\n\nhttps://mc.hydev.org/dynmap",
+  "date": "2022-08-22T15:15:47+00:00",
+  "views": "8",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1107",
+    "url": "https://profile-api.hydev.org/assets/1107.jpg",
+    "style": {
+     "width": 800
     }
    }
   ]
