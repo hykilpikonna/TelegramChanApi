@@ -7206,7 +7206,7 @@
   "id": "662",
   "text": "好特别的四轮自行车w",
   "date": "2022-04-10T02:06:06+00:00",
-  "views": "58",
+  "views": "59",
   "images": [
    {
     "href": "https://t.me/hykilp/662",
@@ -7221,7 +7221,7 @@
   "id": "663",
   "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: pip install hyfetch \n(python &gt; 3.7)\n\n源码 （欢迎贡献！",
   "date": "2022-04-10T10:52:04+00:00",
-  "views": "301",
+  "views": "302",
   "images": [
    {
     "href": "https://t.me/hykilp/663?single",
@@ -7269,13 +7269,13 @@
   "id": "666",
   "text": "天亮了！（哭",
   "date": "2022-04-10T11:00:44+00:00",
-  "views": "57"
+  "views": "58"
  },
  {
   "id": "667",
   "text": "我居然真的重写了一个分布式计算的轮子...\n\n居然真的做到了差不多是 Linear Scaling！三台服务器总共 GPU 跑分加起来大概是这台的 4.1 倍，运行时间也缩短了 3.7 倍，只有 9.7% 的 overhead",
   "date": "2022-04-11T20:49:14+00:00",
-  "views": "52",
+  "views": "53",
   "images": [
    {
     "href": "https://t.me/hykilp/667?single",
@@ -8184,7 +8184,7 @@
   "id": "724",
   "text": "终于从腾讯企业邮箱迁移到了 Microsoft 365\n\n真的好麻烦... 步骤大概是这样：\n1. 免费注册 Office 365\n2. 去腾讯设置界面把 IMAP 同步限制设置成“收取[全部]的邮件”\n3. Outlook Windows 同时登录旧邮箱和新邮箱的 @&lt;org&gt;.onmicrosoft.com 别名\n4. Outlook 客户端旧账号设置 &gt; Email &gt; Keep mail offline for 设置成 All\n5. Outlook 右上角点 Send/Receive All Folders（这个会跑很久很久很久）\n6. Outlook 左上角 File &gt; Open &amp; Export &gt; Import/Export &gt; Export to a file &gt; Outlook Data File (.pst) &gt; 选择旧邮箱 &gt; Include subfolders &gt; Next &gt; 填一个路径导出\n7. Outlook 左上角 File &gt; Open &amp; Export &gt; Import/Export &gt; Import from another program or file &gt; Outlook Data File (.pst) &gt; 选择之前导出的路径\n8. 导入完成之后等同步，同步完之后我发现我的 sent message 并没有被放进 sent messages 文件夹...\n9. 在新邮箱内搜索 from:&lt;旧邮箱&gt;，把所有的结果移动到新邮箱的 sent messages\n10. 等新邮箱同步完之后移除两个邮箱\n11. 去 MS 365 管理设置新邮箱的域名\n12. Outlook 重新添加域名邮箱（这个时候新邮箱应该和旧邮箱地址一样了）\n\n完成！接下来等一天看看自动续订能不能用就好啦——",
   "date": "2022-05-05T03:16:37+00:00",
-  "views": "58",
+  "views": "59",
   "images": [
    {
     "href": "https://t.me/hykilp/724",
@@ -9800,7 +9800,7 @@
   "id": "830",
   "text": "呜呜我也想和猫猫一起住在湖边（fwd source",
   "date": "2022-05-27T23:22:45+00:00",
-  "views": "47"
+  "views": "48"
  },
  {
   "id": "832",
@@ -9974,13 +9974,13 @@
   "id": "848",
   "text": "翻翻小时候用天桥上的十元耳机在随身听上天天单曲循环的中文歌w\n\nhttps://youtube.com/playlist?list=PLy60zL33iueoXijYR5alagnhOI5t37qcl",
   "date": "2022-06-01T16:38:06+00:00",
-  "views": "58"
+  "views": "59"
  },
  {
   "id": "849",
   "text": "因为搬家，以下服务器暂时下线：\n- @voice_tools_bot （和 beta\n- HyDEV Minecraft 服务器\n- tex.hydev.org\n\n（大概三天内会恢复",
   "date": "2022-06-02T00:58:12+00:00",
-  "views": "144"
+  "views": "145"
  },
  {
   "id": "850",
@@ -10379,7 +10379,7 @@
   "id": "879",
   "text": "http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/",
   "date": "2022-06-08T21:55:35+00:00",
-  "views": "47"
+  "views": "48"
  },
  {
   "id": "880",
@@ -13064,7 +13064,7 @@
   },
   "text": "写了一个极简短链接网站！\n\nsh.hydev.org",
   "date": "2022-08-15T22:00:09+00:00",
-  "views": "39"
+  "views": "40"
  },
  {
   "id": "1081",
@@ -13234,7 +13234,7 @@
   },
   "text": "服务器上有了桂子搭的鸟居、半喵抓的小狐狸、还有小桂桂的温馨小屋w\n\n好想住进去 qwq",
   "date": "2022-08-19T05:04:14+00:00",
-  "views": "73",
+  "views": "75",
   "images": [
    {
     "href": "https://t.me/hykilp/1091?single",
@@ -13335,13 +13335,13 @@
   },
   "text": "写了一个支持 emoji 的 python 进度条！",
   "date": "2022-08-19T20:06:09+00:00",
-  "views": "31"
+  "views": "32"
  },
  {
   "id": "1099",
   "text": "第一次碰到真的 sdvx 机台 qwq",
   "date": "2022-08-19T22:31:09+00:00",
-  "views": "32",
+  "views": "33",
   "images": [
    {
     "href": "https://t.me/hykilp/1099?single",
@@ -13394,13 +13394,13 @@
   },
   "text": "谷歌好好玩啊我死了www",
   "date": "2022-08-20T05:00:13+00:00",
-  "views": "32"
+  "views": "33"
  },
  {
   "id": "1103",
   "text": "拍到了松果菊上的小蜜蜂 qwq",
   "date": "2022-08-21T15:53:26+00:00",
-  "views": "28",
+  "views": "29",
   "images": [
    {
     "href": "https://t.me/hykilp/1103?single",
@@ -13448,7 +13448,7 @@
   "id": "1106",
   "text": "哇 今天还是世界蜜蜂日诶",
   "date": "2022-08-22T03:09:42+00:00",
-  "views": "27",
+  "views": "28",
   "images": [
    {
     "href": "https://t.me/hykilp/1106",
@@ -13463,7 +13463,7 @@
   "id": "1107",
   "text": "MC 服务器加入了网页地图！感谢桂子推荐插件 qwq\n\nhttps://mc.hydev.org/dynmap",
   "date": "2022-08-22T15:15:47+00:00",
-  "views": "27",
+  "views": "29",
   "images": [
    {
     "href": "https://t.me/hykilp/1107",
@@ -13493,7 +13493,7 @@
   "id": "1109",
   "text": "三文鱼沙拉！",
   "date": "2022-08-22T17:40:52+00:00",
-  "views": "27",
+  "views": "28",
   "images": [
    {
     "href": "https://t.me/hykilp/1109",
@@ -13508,7 +13508,7 @@
   "id": "1110",
   "text": "鲨鲨终于补货了！\n\n...可惜在 Etobicoke，没有车坐地铁要 1.5h 才能到",
   "date": "2022-08-23T14:46:58+00:00",
-  "views": "25",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/1110",
@@ -13523,6 +13523,6 @@
   "id": "1111",
   "text": "之前临时住在我们家的葱飞走了... 房间里少了一个人突然好安静",
   "date": "2022-08-23T22:08:35+00:00",
-  "views": "18"
+  "views": "20"
  }
 ]
