@@ -1153,54 +1153,6 @@
   }
  },
  {
-  "id": "111",
-  "text": "是我了\n\n理所当然地把爱好和梦想\n堆在作业和琐事下面，\n期待着会有什么发生",
-  "date": "2021-10-10T00:25:22+00:00",
-  "views": "33",
-  "images": [
-   {
-    "href": "https://t.me/hykilp/109?single",
-    "url": "https://profile-api.hydev.org/assets/0109.jpg",
-    "style": {
-     "left": 0,
-     "top": 0,
-     "width": 226,
-     "height": 604,
-     "margin-right": 2,
-     "margin-bottom": 0
-    }
-   },
-   {
-    "href": "https://t.me/hykilp/110?single",
-    "url": "https://profile-api.hydev.org/assets/0110.jpg",
-    "style": {
-     "left": 228,
-     "top": 0,
-     "width": 225,
-     "height": 301,
-     "margin-right": 0,
-     "margin-bottom": 2
-    }
-   },
-   {
-    "href": "https://t.me/hykilp/111?single",
-    "url": "https://profile-api.hydev.org/assets/0111.jpg",
-    "style": {
-     "left": 228,
-     "top": 303,
-     "width": 225,
-     "height": 301,
-     "margin-right": 0,
-     "margin-bottom": 0
-    }
-   }
-  ],
-  "img_group_style": {
-   "width": 453,
-   "height": 604
-  }
- },
- {
   "id": "113",
   "text": "试试新的画风w\n好喜欢 Florence 的画风！\n\n#草稿",
   "date": "2021-10-10T04:11:58+00:00",
@@ -7269,7 +7221,7 @@
   "id": "663",
   "text": "六个小时写完了 HyFetch！\n\n它可以用 LGBT 旗子的配色显示 neofetch 结果w\n\n安装方法: pip install hyfetch \n(python &gt; 3.7)\n\n源码 （欢迎贡献！",
   "date": "2022-04-10T10:52:04+00:00",
-  "views": "306",
+  "views": "307",
   "images": [
    {
     "href": "https://t.me/hykilp/663?single",
@@ -13963,7 +13915,7 @@
   "id": "1135",
   "text": "真的拿到 VisionFive v1 之后好失望... 纯 CPU 渲染的图形界面真的没法用，火狐切一个 tab 要渲染三秒，开 XFCE 的设置界面要等八秒（\n\n笔记本主板还是先用 rock pi 4b 设计好了，等十月份 VisionFive v2 出来再换过去",
   "date": "2022-09-01T00:49:03+00:00",
-  "views": "72",
+  "views": "73",
   "images": [
    {
     "href": "https://t.me/hykilp/1135",
@@ -14089,7 +14041,7 @@
   "id": "1144",
   "text": "给书打印了一只小狐狸w\n\n第一次给 3D 打印的东西上色，用了聊聊的高达马克笔，效果还不错 qwq",
   "date": "2022-09-02T18:05:05+00:00",
-  "views": "77",
+  "views": "80",
   "images": [
    {
     "href": "https://t.me/hykilp/1144?single",
@@ -14130,7 +14082,7 @@
   },
   "text": "把坏掉的焊下来了！\n\n感觉好像在给电路板拔牙",
   "date": "2022-09-02T21:06:18+00:00",
-  "views": "27",
+  "views": "28",
   "images": [
    {
     "href": "https://t.me/hykilp/1146?single",
@@ -14166,7 +14118,7 @@
   "id": "1148",
   "text": "把新的键轴焊上去就修好啦！复活了ww\n\n（虽然焊得好难看... 好久没有焊过东西了全都忘了xx",
   "date": "2022-09-02T21:35:39+00:00",
-  "views": "25",
+  "views": "26",
   "images": [
    {
     "href": "https://t.me/hykilp/1148?single",
