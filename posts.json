@@ -11103,7 +11103,7 @@
   "id": "931",
   "text": "把北洋旗加到这些 pride flag 里面毫无维和hhhh",
   "date": "2022-06-19T21:13:06+00:00",
-  "views": "53",
+  "views": "54",
   "images": [
    {
     "href": "https://t.me/hykilp/931",
@@ -11118,7 +11118,7 @@
   "id": "932",
   "text": "HyFetch 加入了选颜色布局的功能！",
   "date": "2022-06-20T01:16:42+00:00",
-  "views": "53",
+  "views": "54",
   "images": [
    {
     "href": "https://t.me/hykilp/932",
@@ -11138,7 +11138,7 @@
   },
   "text": "终于能把前奏弹下来了w",
   "date": "2022-06-20T17:53:32+00:00",
-  "views": "49"
+  "views": "50"
  },
  {
   "id": "934",
@@ -14881,7 +14881,7 @@
   "id": "1202",
   "text": "家里的两只鲨鲨生了一只小鲨鲨（？",
   "date": "2022-09-13T01:35:41+00:00",
-  "views": "118",
+  "views": "119",
   "images": [
    {
     "href": "https://t.me/hykilp/1202",
@@ -14900,23 +14900,38 @@
   },
   "text": "睡觉睡觉w\n\n试试回到以前早睡早起的作息... 现在的作息去听线下课真的太累了",
   "date": "2022-09-13T02:11:34+00:00",
-  "views": "37"
+  "views": "39"
  },
  {
   "id": "1204",
   "text": "认真试了一下用 nixos 做主力系统，感觉完全不行（x\n\nnodejs 和 python 很多依赖都需要 native binding，npm/pip 也都把编好的二进制打包进去了。然而因为 nixos 没有一般 linux 的那些路径，大部分二进制都不能直接运行，需要 patchelf 把依赖路径都改掉才行...\n\n用 nixpkgs 里面的 pythonPackages 和 nodePackages 写 nix 构建脚本的话就没办法保证别人在普通的 distro 上也能正常用 npm/pip 构建了，而且 nixpkgs 的更新频率好慢\n\n还有一个问题就是，虽然 /etc 系统配置同步很方便，但是用同样方式同步用户 home 的配置的话非常麻烦... 用 home-manager 就不能在应用内改设置了，必须花时间查每个选项用 nix 语法应该怎么写\n\n决定还是换成 Arch + nix 啦",
   "date": "2022-09-13T23:59:13+00:00",
-  "views": "37"
+  "views": "39"
  },
  {
   "id": "1205",
   "text": "archinstall 好方便，居然全程不用看教程不用输指令就把 Arch 装好了，还自动装好了 gnome\n\n终于不用被 Arch 难入手劝退了 qwq",
   "date": "2022-09-14T04:40:38+00:00",
-  "views": "27",
+  "views": "30",
   "images": [
    {
     "href": "https://t.me/hykilp/1205",
     "url": "https://profile-api.hydev.org/assets/1205.jpg",
+    "style": {
+     "width": 800
+    }
+   }
+  ]
+ },
+ {
+  "id": "1206",
+  "text": "书书来这边之后第一次做菜，好好吃！\n\n炒卷心菜甜甜的 qwq",
+  "date": "2022-09-15T00:35:25+00:00",
+  "views": "13",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1206",
+    "url": "https://profile-api.hydev.org/assets/1206.jpg",
     "style": {
      "width": 800
     }
