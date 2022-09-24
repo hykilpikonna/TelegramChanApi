@@ -15103,13 +15103,13 @@
   "id": "1218",
   "text": "http://www.styluslabs.com/\n\n这个手写笔记软件的网页居然是手写的诶！好好玩 qwq",
   "date": "2022-09-19T15:23:44+00:00",
-  "views": "48"
+  "views": "49"
  },
  {
   "id": "1219",
   "text": "刚拿到 logisim evolution 应该做什么hhh",
   "date": "2022-09-19T16:33:22+00:00",
-  "views": "46",
+  "views": "47",
   "images": [
    {
     "href": "https://t.me/hykilp/1219",
@@ -15124,7 +15124,7 @@
   "id": "1220",
   "text": "2in1 本的正确用法",
   "date": "2022-09-19T18:42:07+00:00",
-  "views": "45",
+  "views": "46",
   "images": [
    {
     "href": "https://t.me/hykilp/1220?single",
@@ -15478,13 +15478,13 @@
   },
   "text": "自动门！",
   "date": "2022-09-23T15:17:40+00:00",
-  "views": "34"
+  "views": "35"
  },
  {
   "id": "1247",
   "text": "去了一个 UofT 的 LGBT 午餐社交活动\n\n有一个社恐孩子在我们旁边站了一会好像想要搭话的样子，但是就只是站了一会，然后默默走出去了... qwq\n\n好可怜",
   "date": "2022-09-23T17:28:24+00:00",
-  "views": "36",
+  "views": "37",
   "images": [
    {
     "href": "https://t.me/hykilp/1247",
@@ -15504,7 +15504,7 @@
   },
   "text": "第一次看到 TTC 公交车上的无障碍坡道\n\n工作人员过来按一下就弹出来了哇！好好玩w",
   "date": "2022-09-23T18:26:38+00:00",
-  "views": "32",
+  "views": "33",
   "images": [
    {
     "href": "https://t.me/hykilp/1249?single",
@@ -15533,7 +15533,7 @@
   },
   "text": "今天早上发现 B 键轴卡住了，要很大力气才能按下去，所以焊下来又换了一个轴\n\n怎么离上次坏轴没过多久就又坏了一个... 不知道这个键盘还能用多久",
   "date": "2022-09-23T19:58:43+00:00",
-  "views": "32",
+  "views": "33",
   "images": [
    {
     "href": "https://t.me/hykilp/1251",
@@ -15548,7 +15548,7 @@
   "id": "1252",
   "text": "#桂桂聊聊书书今天吃什么\n豚骨乌冬面！",
   "date": "2022-09-24T00:52:45+00:00",
-  "views": "67",
+  "views": "75",
   "images": [
    {
     "href": "https://t.me/hykilp/1252?single",
@@ -15584,7 +15584,7 @@
   "id": "1254",
   "text": "刚开始感觉 kotlin 写 functional programming 好舒服，写一个多线程异步下载超直观\n\n...然后学了三个小时还没弄懂到底怎样才能限制异步线程数，试了 FixedThreadPoolContext 和 limitedParallelism 都不行，还是会在启动的时候就把所有线程跑起来（",
   "date": "2022-09-24T05:24:11+00:00",
-  "views": "11",
+  "views": "17",
   "images": [
    {
     "href": "https://t.me/hykilp/1254",
