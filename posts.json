@@ -15761,7 +15761,7 @@
   "id": "1266",
   "text": "#桂桂聊聊书书今天吃什么\n剩下的鱼鱼做了刺身！沾酱油芥末好棒\n\n结果全都被聊聊抢着吃掉了，我只吃到了两片\n\n今天炒面开火的时候多放了好多油，还把白菜换成了卷心菜，比上次做的好吃 qwq",
   "date": "2022-09-26T00:49:41+00:00",
-  "views": "28",
+  "views": "30",
   "images": [
    {
     "href": "https://t.me/hykilp/1266?single",
@@ -15797,7 +15797,7 @@
   "id": "1268",
   "text": "还没学到泊松分布，尝试用二项分布和一个无线趋近零的时间间隔估算概率居然真的算对了！\n\n数学好神奇",
   "date": "2022-09-26T04:53:36+00:00",
-  "views": "23",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/1268",
@@ -15807,5 +15807,41 @@
     }
    }
   ]
+ },
+ {
+  "id": "1269",
+  "text": "？？",
+  "date": "2022-09-26T15:21:59+00:00",
+  "views": "19",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1269?single",
+    "url": "https://profile-api.hydev.org/assets/1269.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 314,
+     "height": 272,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1270?single",
+    "url": "https://profile-api.hydev.org/assets/1270.jpg",
+    "style": {
+     "left": 316,
+     "top": 0,
+     "width": 137,
+     "height": 272,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 272
+  }
  }
 ]
