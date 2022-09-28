@@ -15899,7 +15899,7 @@
   "id": "1274",
   "text": "读了一下 Java 11 到 19 的新功能\n\n...怎么感觉 Java 四年加的功能还没有 Kotlin 一个月加的多 🌚",
   "date": "2022-09-27T15:12:22+00:00",
-  "views": "33",
+  "views": "34",
   "images": [
    {
     "href": "https://t.me/hykilp/1274",
@@ -15914,7 +15914,7 @@
   "id": "1275",
   "text": "明天是计组课的第一个 Lab，今天注册了 UofT 的 ECF 账号！\n\n然后登上 ssh 看看，发现这台服务器居然有 80 核 128 GB ram... 😮\n\nUofT 好有钱，相比 YorkU 给学生的服务器就只有一个 4 核 16GB... 不过至少他们把内核更新了，上次六月份还是 CentOS 7，3.10 内核来着（",
   "date": "2022-09-27T23:34:13+00:00",
-  "views": "28",
+  "views": "29",
   "images": [
    {
     "href": "https://t.me/hykilp/1275",
@@ -15924,5 +15924,53 @@
     }
    }
   ]
+ },
+ {
+  "id": "1276",
+  "text": "看到了一只小松鼠在找地方埋坚果 qwq",
+  "date": "2022-09-28T21:58:50+00:00",
+  "views": "4",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1276?single",
+    "url": "https://profile-api.hydev.org/assets/1276.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 339,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1277?single",
+    "url": "https://profile-api.hydev.org/assets/1277.jpg",
+    "style": {
+     "left": 0,
+     "top": 341,
+     "width": 225,
+     "height": 172,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1278?single",
+    "url": "https://profile-api.hydev.org/assets/1278.jpg",
+    "style": {
+     "left": 227,
+     "top": 341,
+     "width": 226,
+     "height": 172,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 513
+  }
  }
 ]
