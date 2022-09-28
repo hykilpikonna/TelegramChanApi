@@ -15548,7 +15548,7 @@
   "id": "1252",
   "text": "#桂桂聊聊书书今天吃什么\n豚骨乌冬面！",
   "date": "2022-09-24T00:52:45+00:00",
-  "views": "106",
+  "views": "107",
   "images": [
    {
     "href": "https://t.me/hykilp/1252?single",
@@ -15584,7 +15584,7 @@
   "id": "1254",
   "text": "刚开始感觉 kotlin 写 functional programming 好舒服，写一个多线程异步下载超直观\n\n...然后学了三个小时还没弄懂到底怎样才能限制异步线程数，试了 FixedThreadPoolContext 和 limitedParallelism 都不行，还是会在启动的时候就把所有线程跑起来（",
   "date": "2022-09-24T05:24:11+00:00",
-  "views": "36",
+  "views": "37",
   "images": [
    {
     "href": "https://t.me/hykilp/1254",
@@ -15599,7 +15599,7 @@
   "id": "1255",
   "text": "家里的切菜板生了两个小切菜板 qwq",
   "date": "2022-09-24T14:25:12+00:00",
-  "views": "36",
+  "views": "37",
   "images": [
    {
     "href": "https://t.me/hykilp/1255",
@@ -15863,7 +15863,7 @@
   "id": "1272",
   "text": "今天聊聊课上无聊做了一道 Leetcode，所以我也去看了一下这道题。题目让我写算法把 k 个排好序的链表合并成一个排好序的大链表\n\n我：先把所有链表转成数组，合并，调用 python 自带的排序函数，再转回链表\n\n...然后这个答案居然速度超过了 98% 的 python 提交？？？ 🌚\n\n嘛也合理，毕竟 python 自带的排序是 C 实现的，调用 native 二进制，当然会比用 python 写的最优算法快 🌚",
   "date": "2022-09-27T01:10:09+00:00",
-  "views": "36",
+  "views": "37",
   "images": [
    {
     "href": "https://t.me/hykilp/1272?single",
@@ -15899,13 +15899,28 @@
   "id": "1274",
   "text": "读了一下 Java 11 到 19 的新功能\n\n...怎么感觉 Java 四年加的功能还没有 Kotlin 一个月加的多 🌚",
   "date": "2022-09-27T15:12:22+00:00",
-  "views": "22",
+  "views": "30",
   "images": [
    {
     "href": "https://t.me/hykilp/1274",
     "url": "https://profile-api.hydev.org/assets/1274.jpg",
     "style": {
      "width": 383
+    }
+   }
+  ]
+ },
+ {
+  "id": "1275",
+  "text": "明天是计组课的第一个 Lab，今天注册了 UofT 的 ECF 账号！\n\n然后登上 ssh 看看，发现这台服务器居然有 80 核 128 GB ram... 😮\n\nUofT 好有钱，相比 YorkU 给学生的服务器就只有一个 4 核 16GB... 不过至少他们把内核更新了，上次六月份还是 CentOS 7，3.10 内核来着（",
+  "date": "2022-09-27T23:34:13+00:00",
+  "views": "19",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1275",
+    "url": "https://profile-api.hydev.org/assets/1275.jpg",
+    "style": {
+     "width": 800
     }
    }
   ]
