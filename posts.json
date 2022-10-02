@@ -66,7 +66,7 @@
   "id": "12",
   "text": "学长要搬走了...",
   "date": "2021-09-02T16:27:39+00:00",
-  "views": "27"
+  "views": "28"
  },
  {
   "id": "14",
@@ -14900,13 +14900,13 @@
   },
   "text": "睡觉睡觉w\n\n试试回到以前早睡早起的作息... 现在的作息去听线下课真的太累了",
   "date": "2022-09-13T02:11:34+00:00",
-  "views": "60"
+  "views": "61"
  },
  {
   "id": "1204",
   "text": "认真试了一下用 nixos 做主力系统，感觉完全不行（x\n\nnodejs 和 python 很多依赖都需要 native binding，npm/pip 也都把编好的二进制打包进去了。然而因为 nixos 没有一般 linux 的那些路径，大部分二进制都不能直接运行，需要 patchelf 把依赖路径都改掉才行...\n\n用 nixpkgs 里面的 pythonPackages 和 nodePackages 写 nix 构建脚本的话就没办法保证别人在普通的 distro 上也能正常用 npm/pip 构建了，而且 nixpkgs 的更新频率好慢\n\n还有一个问题就是，虽然 /etc 系统配置同步很方便，但是用同样方式同步用户 home 的配置的话非常麻烦... 用 home-manager 就不能在应用内改设置了，必须花时间查每个选项用 nix 语法应该怎么写\n\n决定还是换成 Arch + nix 啦",
   "date": "2022-09-13T23:59:13+00:00",
-  "views": "64"
+  "views": "65"
  },
  {
   "id": "1205",
@@ -15178,7 +15178,7 @@
   "id": "1224",
   "text": "TTC 公交新车换了 LCD 屏幕之后字更小了完全看不清...",
   "date": "2022-09-20T15:07:47+00:00",
-  "views": "52",
+  "views": "53",
   "images": [
    {
     "href": "https://t.me/hykilp/1224?single",
@@ -15214,7 +15214,7 @@
   "id": "1229",
   "text": "给 Intel 600P 写零，写着写着速度从 1.8 GB/s 降到了 120 MB/s...\n\n然后发现是 SSD 过热了，明明贴了散热片还烧到了 71°C (╯’ – ‘)╯︵ ┻━┻\n\n把去年在宿舍买的大风扇贴上去暂时解决了问题，温度降到了 57°C，也没有严重警告了 ┬─┬ ノ( ‘ – ‘ノ)",
   "date": "2022-09-21T02:07:13+00:00",
-  "views": "57",
+  "views": "58",
   "images": [
    {
     "href": "https://t.me/hykilp/1229?single",
@@ -15584,7 +15584,7 @@
   "id": "1254",
   "text": "刚开始感觉 kotlin 写 functional programming 好舒服，写一个多线程异步下载超直观\n\n...然后学了三个小时还没弄懂到底怎样才能限制异步线程数，试了 FixedThreadPoolContext 和 limitedParallelism 都不行，还是会在启动的时候就把所有线程跑起来（",
   "date": "2022-09-24T05:24:11+00:00",
-  "views": "42",
+  "views": "43",
   "images": [
    {
     "href": "https://t.me/hykilp/1254",
@@ -15599,7 +15599,7 @@
   "id": "1255",
   "text": "家里的切菜板生了两个小切菜板 qwq",
   "date": "2022-09-24T14:25:12+00:00",
-  "views": "43",
+  "views": "44",
   "images": [
    {
     "href": "https://t.me/hykilp/1255",
@@ -15614,7 +15614,7 @@
   "id": "1256",
   "text": "#桂桂聊聊书书今天吃什么\n焼きそば！\n\n这个酱的味道有点像烧烤酱，好好吃 qwq",
   "date": "2022-09-24T15:00:32+00:00",
-  "views": "43",
+  "views": "44",
   "images": [
    {
     "href": "https://t.me/hykilp/1256?single",
@@ -15650,7 +15650,7 @@
   "id": "1259",
   "text": "把葱切掉了... 切得我好心疼",
   "date": "2022-09-24T17:26:47+00:00",
-  "views": "41",
+  "views": "42",
   "images": [
    {
     "href": "https://t.me/hykilp/1259",
@@ -15665,7 +15665,7 @@
   "id": "1260",
   "text": "想试试北美的音乐平台，看 tidal 有学生优惠就注册了一个\n\n...然后刚注册需要选至少三个喜欢的帐号，从头翻到尾除了 The Beatles 和 Tool 没有一个名字我听说过（\n\n翻了翻收录的歌，发现这个 minami 居然是 Minami Skupina，一个斯洛伐克语的艺人，美波 minami 的カワキヲアメク居然没有被收录... 然后搜了 MILI 发现也是一个欧洲艺人，不是 world.execute(me); 的那个 MILI... 我最喜欢的ハンバート ハンバート组合也没有被收录\n\n有被 culture shock... 算了算了，我还是继续用网易云吧",
   "date": "2022-09-24T20:14:01+00:00",
-  "views": "40",
+  "views": "41",
   "images": [
    {
     "href": "https://t.me/hykilp/1260?single",
@@ -15725,7 +15725,7 @@
   "id": "1264",
   "text": "#桂桂聊聊书书今天吃什么\n书来了之后又做了一次三文鱼沙拉，这次比上次多放了牛油果和芥末... 芥末味道好棒！虽然好难拌均匀\n\n（记一下食谱好啦\n\n菜用了 iceberg lettuce，酱放了一勺半味极鲜、一勺半寿司醋、好多芝麻沙拉酱、一点点麻油",
   "date": "2022-09-24T21:58:20+00:00",
-  "views": "42",
+  "views": "43",
   "images": [
    {
     "href": "https://t.me/hykilp/1264?single",
@@ -16103,7 +16103,7 @@
   "id": "1287",
   "text": "好久没有在日出的时候自然睡醒了\n\n不过这个落地窗好脏，明明上个月公寓刚请人清洁过... 要是自己可以擦窗户就好了",
   "date": "2022-09-30T11:28:41+00:00",
-  "views": "36",
+  "views": "38",
   "images": [
    {
     "href": "https://t.me/hykilp/1287",
@@ -16118,7 +16118,7 @@
   "id": "1288",
   "text": "菜比鸡肉贵了哇 😮",
   "date": "2022-09-30T17:05:11+00:00",
-  "views": "33",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/1288",
@@ -16138,7 +16138,7 @@
   },
   "text": "...结果不到十天就坏了\n\nMC 服务器和 Voice Tools bot 临时下线，先把数据拷出来（x",
   "date": "2022-10-01T17:19:44+00:00",
-  "views": "32",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/1289",
@@ -16148,5 +16148,46 @@
     }
    }
   ]
+ },
+ {
+  "id": "1290",
+  "reply": {
+   "url": "https://t.me/hykilp/1289",
+   "text": "...结果不到十天就坏了  MC 服务器和 Voice Tools bot 临时下线，先把数据拷出来（x",
+   "thumb": "https://profile-api.hydev.org/assets/1290-reply-thumb.jpg"
+  },
+  "text": "修好啦\n\n...这次真的好幸运，报的错是 checksum error 和 bad tree block start，备份的时候删了差不多 80 GB 垃圾和缓存之后就没有报错了，正好把损坏的部分删掉了\n\n然后把数据全都挪到 970 Evo Plus 上啦，不敢上灵车了（xx\n\n不知道为什么会坏... 这段时间里断电过两三次的样子，但是如果才两三次断电就会有数据出错的话也太容易坏了。不过确实这张 600P 也用了六年了，之前觉得只写过 35 TB 的数据、备用存储还剩 97% 应该没问题... 但是它总共接电 33k 小时里有 3392 小时都在过热警告，而且已经有过 7169 次数据完整性错误了，看来不能只看备用存储判断 SSD 的寿命\n\n不知道这块导致昨天的灾难的 SSD 还能用来做什么，丢掉总觉得有点可惜",
+  "date": "2022-10-02T13:23:58+00:00",
+  "views": "16",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1290?single",
+    "url": "https://profile-api.hydev.org/assets/1290.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 211,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1291?single",
+    "url": "https://profile-api.hydev.org/assets/1291.jpg",
+    "style": {
+     "left": 0,
+     "top": 213,
+     "width": 453,
+     "height": "212.555px",
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 425
+  }
  }
 ]
