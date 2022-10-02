@@ -16138,7 +16138,7 @@
   },
   "text": "...结果不到十天就坏了\n\nMC 服务器和 Voice Tools bot 临时下线，先把数据拷出来（x",
   "date": "2022-10-01T17:19:44+00:00",
-  "views": "36",
+  "views": "37",
   "images": [
    {
     "href": "https://t.me/hykilp/1289",
@@ -16158,7 +16158,7 @@
   },
   "text": "修好啦\n\n...这次真的好幸运，报的错是 checksum error 和 bad tree block start，备份的时候删了差不多 80 GB 垃圾和缓存之后就没有报错了，正好把损坏的部分删掉了\n\n然后把数据全都挪到 970 Evo Plus 上啦，不敢上灵车了（xx\n\n不知道为什么会坏... 这段时间里断电过两三次的样子，但是如果才两三次断电就会有数据出错的话也太容易坏了。不过确实这张 600P 也用了六年了，之前觉得只写过 35 TB 的数据、备用存储还剩 97% 应该没问题... 但是它总共接电 33k 小时里有 3392 小时都在过热警告，而且已经有过 7169 次数据完整性错误了，看来不能只看备用存储判断 SSD 的寿命\n\n不知道这块导致昨天的灾难的 SSD 还能用来做什么，丢掉总觉得有点可惜",
   "date": "2022-10-02T13:23:58+00:00",
-  "views": "22",
+  "views": "25",
   "images": [
    {
     "href": "https://t.me/hykilp/1290?single",
@@ -16188,6 +16188,66 @@
   "img_group_style": {
    "width": 453,
    "height": 425
+  }
+ },
+ {
+  "id": "1292",
+  "text": "葱之前送给我们一把生锈的电吉他，昨晚给它换了弦\n\n换了 09 号的超细镀镍钢弦，真的好软 qwq",
+  "date": "2022-10-02T19:05:57+00:00",
+  "views": "11",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1292?single",
+    "url": "https://profile-api.hydev.org/assets/1292.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 339,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1293?single",
+    "url": "https://profile-api.hydev.org/assets/1293.jpg",
+    "style": {
+     "left": 0,
+     "top": 341,
+     "width": 175,
+     "height": 131,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1294?single",
+    "url": "https://profile-api.hydev.org/assets/1294.jpg",
+    "style": {
+     "left": 177,
+     "top": 341,
+     "width": 126,
+     "height": 131,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1295?single",
+    "url": "https://profile-api.hydev.org/assets/1295.jpg",
+    "style": {
+     "left": 305,
+     "top": 341,
+     "width": 148,
+     "height": 131,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 472
   }
  }
 ]
