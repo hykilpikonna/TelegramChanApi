@@ -16103,7 +16103,7 @@
   "id": "1287",
   "text": "好久没有在日出的时候自然睡醒了\n\n不过这个落地窗好脏，明明上个月公寓刚请人清洁过... 要是自己可以擦窗户就好了",
   "date": "2022-09-30T11:28:41+00:00",
-  "views": "41",
+  "views": "42",
   "images": [
    {
     "href": "https://t.me/hykilp/1287",
@@ -16118,7 +16118,7 @@
   "id": "1288",
   "text": "菜比鸡肉贵了哇 😮",
   "date": "2022-09-30T17:05:11+00:00",
-  "views": "38",
+  "views": "40",
   "images": [
    {
     "href": "https://t.me/hykilp/1288",
@@ -16138,7 +16138,7 @@
   },
   "text": "...结果不到十天就坏了\n\nMC 服务器和 Voice Tools bot 临时下线，先把数据拷出来（x",
   "date": "2022-10-01T17:19:44+00:00",
-  "views": "38",
+  "views": "39",
   "images": [
    {
     "href": "https://t.me/hykilp/1289",
@@ -16158,7 +16158,7 @@
   },
   "text": "修好啦\n\n...这次真的好幸运，报的错是 checksum error 和 bad tree block start，备份的时候删了差不多 80 GB 垃圾和缓存之后就没有报错了，正好把损坏的部分删掉了\n\n然后把数据全都挪到 970 Evo Plus 上啦，不敢上灵车了（xx\n\n不知道为什么会坏... 这段时间里断电过两三次的样子，但是如果才两三次断电就会有数据出错的话也太容易坏了。不过确实这张 600P 也用了六年了，之前觉得只写过 35 TB 的数据、备用存储还剩 97% 应该没问题... 但是它总共接电 33k 小时里有 3392 小时都在过热警告，而且已经有过 7169 次数据完整性错误了，看来不能只看备用存储判断 SSD 的寿命\n\n不知道这块导致昨天的灾难的 SSD 还能用来做什么，丢掉总觉得有点可惜",
   "date": "2022-10-02T13:23:58+00:00",
-  "views": "29",
+  "views": "30",
   "images": [
    {
     "href": "https://t.me/hykilp/1290?single",
@@ -16194,7 +16194,7 @@
   "id": "1292",
   "text": "葱之前送给我们一把生锈的电吉他，昨晚给它换了弦\n\n换了 09 号的超细镀镍钢弦，真的好软 qwq",
   "date": "2022-10-02T19:05:57+00:00",
-  "views": "26",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/1292?single",
@@ -16259,7 +16259,7 @@
   },
   "text": "计组作业用逻辑门做了一个七段数码管的解码器！",
   "date": "2022-10-02T22:47:58+00:00",
-  "views": "24",
+  "views": "25",
   "images": [
    {
     "href": "https://t.me/hykilp/1297?single",
@@ -16295,36 +16295,10 @@
   "id": "1299",
   "text": "高中写的 Veracross Analyzer 成绩分析网站要下线了，因为他们换到了另一个成绩平台\n\n我毕业之后它还完美运行了一整年已经是个奇迹了，它总共运营了三年，是我写过最稳定的服务。想起这三年里更新它的服务器我都会小心翼翼地熬到凌晨三点去更新...\n\n留一个告别页面好了",
   "date": "2022-10-03T20:11:09+00:00",
-  "views": "3",
-  "images": [
-   {
-    "href": "https://t.me/hykilp/1299?single",
-    "url": "https://profile-api.hydev.org/assets/1299.jpg",
-    "style": {
-     "left": 0,
-     "top": 0,
-     "width": 146,
-     "height": 121,
-     "margin-right": 2,
-     "margin-bottom": 0
-    }
-   },
-   {
-    "href": "https://t.me/hykilp/1300?single",
-    "url": "https://profile-api.hydev.org/assets/1300.jpg",
-    "style": {
-     "left": 148,
-     "top": 0,
-     "width": 305,
-     "height": 121,
-     "margin-right": 0,
-     "margin-bottom": 0
-    }
-   }
-  ],
+  "views": "14",
   "img_group_style": {
    "width": 453,
-   "height": 121
+   "height": 0
   }
  }
 ]
