@@ -1579,7 +1579,7 @@
   "id": "149",
   "text": "噗！怎么 2015 的照片还在这里hhhh\n\n欣赏下 2015 年某位伪死宅的房间w\n- 桌边凌波丽的手办（当时还没听说过 Eva\n- 墙上二小姐的挂画（当时还没听说过东方\n- 台灯下到现在都没用几次的彩笔盒\n- 电脑开着 osu，却只插了鼠标 🌚",
   "date": "2021-10-27T02:52:10+00:00",
-  "views": "32",
+  "views": "33",
   "images": [
    {
     "href": "https://t.me/hykilp/149?single",
@@ -16392,7 +16392,7 @@
   "id": "1307",
   "text": "给聊聊也画一个めるアイコン！（进度 50%\n\n上次给自己画的めるアイコン是用 Procreate 画的点阵，这次试了下用 Adobe AI 画矢量。画矢量体验真的好不一样，感觉优点缺点都有很多...\n\n矢量画一笔不好看可以慢慢微调弧线，不用像点阵那样擦来擦去重画。但是矢量没办法像点阵那样直观地用下笔的力度决定线条粗细，手动调粗细太麻烦以至于我整张图所有线条都是同样粗... 打阴影也超级麻烦，每条阴影都是一个多边形，不能像点阵那样设好蒙版直接用笔刷乱涂",
   "date": "2022-10-05T04:05:11+00:00",
-  "views": "38",
+  "views": "40",
   "images": [
    {
     "href": "https://t.me/hykilp/1307",
@@ -16412,13 +16412,13 @@
   },
   "text": "...准备关屏幕睡觉之前想起来还没保存，然后按了保存才发现我居然从下午六点创建画板到现在完全没有保存过 🌚\n\n完全习惯了 iOS 画图软件的自动保存，明明 Adobe Ai 的 iOS 版都会自动保存为什么桌面端没有哇 (╯‵□′)╯︵┻━┻\n\n还好今天系统比较稳...",
   "date": "2022-10-05T04:17:37+00:00",
-  "views": "38"
+  "views": "40"
  },
  {
   "id": "1309",
   "text": "#桂桂聊聊书书今天吃什么\n聊聊做的奶油土豆三文鱼汤！好好吃 qwq\n\n聊聊今天第一次自觉做饭，太阳从北边出来了（不是",
   "date": "2022-10-06T01:06:21+00:00",
-  "views": "33",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/1309",
@@ -16433,7 +16433,7 @@
   "id": "1310",
   "text": "回家的路上 TTC 地铁轨道出事故了，要转公交车回家...\n\n然后看到 St Clair West 地铁站转公交车的路牌上有两只猫猫在坐车 qwq\n\n好可爱",
   "date": "2022-10-06T03:25:34+00:00",
-  "views": "29",
+  "views": "34",
   "images": [
    {
     "href": "https://t.me/hykilp/1310?single",
@@ -16469,7 +16469,7 @@
   "id": "1312",
   "text": "试了一下 stable diffusion 机器学习图像生成模型，效果真的好棒！\n\n（不过不同种子效果差距好大，要随机好几次才能随机出好看的插画\n\n好喜欢这张 突然有点想换掉我十年没换的头像了（不",
   "date": "2022-10-06T07:14:58+00:00",
-  "views": "20",
+  "views": "27",
   "images": [
    {
     "href": "https://t.me/hykilp/1312",
@@ -16479,5 +16479,58 @@
     }
    }
   ]
+ },
+ {
+  "id": "1313",
+  "reply": {
+   "url": "https://t.me/hykilp/1312",
+   "text": "试了一下 stable diffusion 机器学习图像生成模型，效果真的好棒！  （不过不同种子效果差距好大，要随机好几次才能随机出好看的插画  好喜欢这张 突然有点想换掉我十年没换的头像了（不",
+   "thumb": "https://profile-api.hydev.org/assets/1313-reply-thumb.jpg"
+  },
+  "text": "用 waifu diffusion 1.3 模型做了一个 bot！\n\n@waifu_diffusion_bot\n\n输入 /dream 英文关键词 就能开始生成啦，欢迎大家来玩 qwq\n\n（虽然现在还没有多线程优化，响应会有点慢\n\n（关键词越多效果就越好哦，如果不好看可以重新随机一遍试试w",
+  "date": "2022-10-06T10:14:54+00:00",
+  "views": "20",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1313?single",
+    "url": "https://profile-api.hydev.org/assets/1313.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 226,
+     "height": 604,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1314?single",
+    "url": "https://profile-api.hydev.org/assets/1314.jpg",
+    "style": {
+     "left": 228,
+     "top": 0,
+     "width": 225,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1315?single",
+    "url": "https://profile-api.hydev.org/assets/1315.jpg",
+    "style": {
+     "left": 228,
+     "top": 303,
+     "width": 225,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
+  }
  }
 ]
