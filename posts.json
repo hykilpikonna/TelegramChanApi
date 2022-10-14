@@ -14906,13 +14906,13 @@
   "id": "1204",
   "text": "认真试了一下用 nixos 做主力系统，感觉完全不行（x\n\nnodejs 和 python 很多依赖都需要 native binding，npm/pip 也都把编好的二进制打包进去了。然而因为 nixos 没有一般 linux 的那些路径，大部分二进制都不能直接运行，需要 patchelf 把依赖路径都改掉才行...\n\n用 nixpkgs 里面的 pythonPackages 和 nodePackages 写 nix 构建脚本的话就没办法保证别人在普通的 distro 上也能正常用 npm/pip 构建了，而且 nixpkgs 的更新频率好慢\n\n还有一个问题就是，虽然 /etc 系统配置同步很方便，但是用同样方式同步用户 home 的配置的话非常麻烦... 用 home-manager 就不能在应用内改设置了，必须花时间查每个选项用 nix 语法应该怎么写\n\n决定还是换成 Arch + nix 啦",
   "date": "2022-09-13T23:59:13+00:00",
-  "views": "66"
+  "views": "67"
  },
  {
   "id": "1205",
   "text": "archinstall 好方便，居然全程不用看教程不用输指令就把 Arch 装好了，还自动装好了 gnome\n\n终于不用被 Arch 难入手劝退了 qwq",
   "date": "2022-09-14T04:40:38+00:00",
-  "views": "61",
+  "views": "62",
   "images": [
    {
     "href": "https://t.me/hykilp/1205",
