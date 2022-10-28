@@ -18081,13 +18081,13 @@
   },
   "text": "果然那次考试拿了满分，看看这个卷子有多简单 🌚",
   "date": "2022-10-27T14:22:51+00:00",
-  "views": "33"
+  "views": "34"
  },
  {
   "id": "1425",
   "text": "https://dortania.github.io/OpenCore-Legacy-Patcher/VENTURA-DROP.html\n\nmacOS Ventura 删了好多东西呀... 以前的版本从来没有这么多问题，虽然对我影响不是很大但是真的好险\n\n这次更新硬件加速要求 CPU 支持 AVX2.0，我现在这台电脑的 CPU 刚好是支持 AVX2.0 的第一代 Haswell 🌚\n\n然后笔记本用的 BCM94360Z4 网卡支持被删掉了，虽然还可以用 Legacy Patcher 打驱动\n\n试试更新 EFI 好了，不过不知道 Intel 黑苹果还能撑多久...",
   "date": "2022-10-28T03:22:24+00:00",
-  "views": "29",
+  "views": "30",
   "images": [
    {
     "href": "https://t.me/hykilp/1425",
@@ -18102,6 +18102,6 @@
   "id": "1427",
   "text": "发现我写作文的时候总是会在奇奇怪怪的地方偶然发现之前写到一半的句子... ADHD 的奇妙特征又增加了",
   "date": "2022-10-28T06:56:32+00:00",
-  "views": "21"
+  "views": "22"
  }
 ]
