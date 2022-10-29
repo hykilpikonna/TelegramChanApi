@@ -15,7 +15,7 @@
   "id": "8",
   "text": "看我干什么w",
   "date": "2021-09-02T03:00:59+00:00",
-  "views": "34",
+  "views": "35",
   "images": [
    {
     "href": "https://t.me/hykilp/8",
@@ -18004,7 +18004,7 @@
   "id": "1419",
   "text": "今天真的好倒霉...\n\n今天下雨没带伞，早上去学校下地铁骑共享车，骑到楼旁边发现两个路口内都没有空的停车架，顶着雨骑回去又走回来了。统计考试前火警铃响了 20 分钟导致晚了五分钟开始，考试上遇到超难积分。考完去自习室复习数学，在同一个房间的人大声说话就算了居然还突然开始拍篮球。我出去吃点东西，打开汽水瓶喷出来把包染成了红色\n\n然后马上五点要考数学，考完数学六点去做计组的 lab，做完 lab 要写八点交的 reading response，之后还有欠的期中作文和读书批注...\n\n怎么这么多倒霉的事情都发生在同一天了 😭",
   "date": "2022-10-26T21:11:41+00:00",
-  "views": "39",
+  "views": "40",
   "images": [
    {
     "href": "https://t.me/hykilp/1419?single",
@@ -18151,5 +18151,25 @@
    "width": 453,
    "height": 510
   }
+ },
+ {
+  "id": "1431",
+  "reply": {
+   "url": "https://t.me/hykilp/1425",
+   "text": "https://dortania.github.io/OpenCore-Legacy-Patcher/VENTURA-DROP.html  macOS Ventura 删了好多东西呀... 以前的版本从来没有这么多问题，虽然对我影响不是很大但是真的好险  这次更新硬件加速要求 CPU 支持 AVX2.0，我现在这台电脑的 CPU 刚好是支持 AVX2.0 的第一代 Haswell 🌚  然后笔记本用的 BCM94360Z4 网卡支持被删掉了，虽然还可以用 Legacy Patcher 打驱动  试试更新 EFI…",
+   "thumb": "https://profile-api.hydev.org/assets/1431-reply-thumb.jpg"
+  },
+  "text": "更新成功了！好耶",
+  "date": "2022-10-29T22:07:14+00:00",
+  "views": "5",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1431",
+    "url": "https://profile-api.hydev.org/assets/1431.jpg",
+    "style": {
+     "width": 800
+    }
+   }
+  ]
  }
 ]
