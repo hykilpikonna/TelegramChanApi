@@ -17668,7 +17668,7 @@
   "id": "1396",
   "text": "把自己手机的新电池也换上啦\n\n这次装了品胜的电池，装好之后用 Accubattery 充放几次实测电量 3196 mAh，日常使用续航了 11h，压满 cpu gpu 再把亮度调到最高开着手电的话续航了 2h\n\n不过品胜还是太糟糕了，发现它用快充的时候一直在过热电流归零的循环中，导致即使完全没电也不能快充，从 12% 充到 100% 居然用了快两个小时\n\n终于可以不用天天带着充电宝了，代价是充电速度慢了很多并且失去了防水，不知道值不值。不过不管怎样下次绝对不买品胜的电池了（x",
   "date": "2022-10-22T16:10:42+00:00",
-  "views": "51",
+  "views": "52",
   "images": [
    {
     "href": "https://t.me/hykilp/1396?single",
@@ -17716,7 +17716,7 @@
   "id": "1399",
   "text": "#桂桂聊聊书书今天吃什么\n电饭煲叉烧肉！（和叉烧蛋！\n\n叉烧肉和盐焗鸡一样好做，买一整块肉，调好酱汁腌一晚上，第二天放进电饭锅里按煮饭就煮好了，味道也很棒 qwq\n\n试了下十五分钟之后把鸡蛋也放进去煮，发现叉烧蛋真的好好吃！好喜欢甜甜的蛋，吃完饭又去煮了六个",
   "date": "2022-10-23T01:00:57+00:00",
-  "views": "45",
+  "views": "46",
   "images": [
    {
     "href": "https://t.me/hykilp/1399?single",
@@ -17872,7 +17872,7 @@
   "id": "1409",
   "text": "昨晚做的意面\n\n这次配上了微辣的 salsa 酱和稍微煎了一下的午餐肉，还撒了胡椒粉和芝麻海苔粉。\n\nSalsa 和西红柿酱口感好不一样，我好喜欢 salsa 里面的洋葱和甜椒碎，可惜食材更多也意味着保质期更短，不能像罐装西红柿酱那样囤起来了",
   "date": "2022-10-24T14:26:41+00:00",
-  "views": "47",
+  "views": "48",
   "images": [
    {
     "href": "https://t.me/hykilp/1409",
@@ -18176,7 +18176,7 @@
   "id": "1432",
   "text": "Functional Programming 好棒\n\n会写 FP 就不用担心 TA 会批评我的代码了 （大雾",
   "date": "2022-10-30T03:07:27+00:00",
-  "views": "35",
+  "views": "36",
   "images": [
    {
     "href": "https://t.me/hykilp/1432",
@@ -18196,7 +18196,7 @@
   },
   "text": "写了一整天代码，把期末项目 MCPM 包管理器里面分配给我的部分几乎全都写完了 qwq\n\n写了自动跨平台下载 JDK 自动开 MC Spigot 测试服务器的脚本、写了游戏内热插拔/重载插件的功能、还写了一个多线程支持测速和 ETA 的下载进度条\n\n回过神来已经凌晨五点了... 好累 🥱",
   "date": "2022-10-30T09:22:24+00:00",
-  "views": "31",
+  "views": "33",
   "images": [
    {
     "href": "https://t.me/hykilp/1433?single",
@@ -18214,6 +18214,42 @@
   "img_group_style": {
    "width": 453,
    "height": 359
+  }
+ },
+ {
+  "id": "1435",
+  "text": "Costco 肉好贵呀... 大统华鸡腿才 $2.84/kg，Costco 要 $9.49/kg",
+  "date": "2022-10-30T20:44:18+00:00",
+  "views": "12",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1435?single",
+    "url": "https://profile-api.hydev.org/assets/1435.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 225,
+     "height": 124,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1436?single",
+    "url": "https://profile-api.hydev.org/assets/1436.jpg",
+    "style": {
+     "left": 227,
+     "top": 0,
+     "width": 226,
+     "height": 124,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 124
   }
  }
 ]
