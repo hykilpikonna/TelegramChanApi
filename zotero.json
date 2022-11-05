@@ -195,6 +195,145 @@
         }
     },
     {
+        "key": "FP84D8W6",
+        "version": 3755,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/FP84D8W6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/FP84D8W6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/Q3FACGRN",
+                "type": "application/json"
+            },
+            "enclosure": {
+                "type": "application/pdf",
+                "href": "https://api.zotero.org/users/8463157/publications/items/FP84D8W6/file/view",
+                "title": "Gui and Shao - Transgender voice training assistant based on ML c.pdf",
+                "length": 1040293
+            }
+        },
+        "meta": {
+            "numChildren": false
+        },
+        "data": {
+            "key": "FP84D8W6",
+            "version": 3755,
+            "parentItem": "Q3FACGRN",
+            "itemType": "attachment",
+            "linkMode": "imported_file",
+            "title": "Transgender voice training assistant based on ML classifiers and algorithms",
+            "accessDate": "",
+            "url": "",
+            "note": "",
+            "contentType": "application/pdf",
+            "charset": "",
+            "filename": "Transgender voice training assistant based on ML classifiers and algorithms.pdf",
+            "md5": "3c107a109c545e9341e8cd2f37cee7e0",
+            "mtime": 1667631988000
+        }
+    },
+    {
+        "key": "Q3FACGRN",
+        "version": 3754,
+        "library": {
+            "type": "user",
+            "id": 8463157,
+            "name": "Azalea Gui",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/hykilpikonna",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/users/8463157/publications/items/Q3FACGRN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/hykilpikonna/items/Q3FACGRN",
+                "type": "text/html"
+            },
+            "attachment": {
+                "href": "https://api.zotero.org/users/8463157/items/FP84D8W6",
+                "type": "application/json",
+                "attachmentType": "application/pdf",
+                "attachmentSize": 1040293
+            }
+        },
+        "meta": {
+            "creatorSummary": "Gui et al.",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "Q3FACGRN",
+            "version": 3754,
+            "itemType": "journalArticle",
+            "title": "Transgender voice training assistant based on ML classifiers and algorithms",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Azalea",
+                    "lastName": "Gui"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Linxi",
+                    "lastName": "Li"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yiming",
+                    "lastName": "Shao"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yiwei",
+                    "lastName": "Liu"
+                }
+            ],
+            "abstractNote": "",
+            "publicationTitle": "",
+            "volume": "",
+            "issue": "",
+            "pages": "7",
+            "date": "",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "",
+            "language": "en",
+            "DOI": "",
+            "ISSN": "",
+            "shortTitle": "",
+            "url": "",
+            "accessDate": "",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Zotero",
+            "callNumber": "",
+            "rights": "All rights reserved",
+            "extra": ""
+        }
+    },
+    {
         "key": "7X7M9QWK",
         "version": 124,
         "library": {
