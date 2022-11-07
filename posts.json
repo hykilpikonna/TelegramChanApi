@@ -18465,7 +18465,7 @@
   "id": "1453",
   "text": "#桂桂聊聊书书今天吃什么\n照烧鸡腿饭！\n\n本来感觉 500g 好像够了就只买了四个鸡腿，然后发现去掉骨头之后只剩 337g 了，烧完更小了（xx\n\n下次还是多买点鸡腿好了，这次只花了 $2",
   "date": "2022-11-04T00:27:41+00:00",
-  "views": "500",
+  "views": "501",
   "images": [
    {
     "href": "https://t.me/hykilp/1453?single",
@@ -18513,7 +18513,7 @@
   "id": "1456",
   "text": "看到 z-library 表网 z-lib.org 下线了，镜像域名也几乎全都被美国邮政检验局回收... b-ok.cc, es.b-ok.lat, booksc.org, booksc.eu 都中招了\n\n不过发现里网还能访问，大家可以安装 tor 浏览器访问下面的那串链接继续用 z-lib 啦\n\nzlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion",
   "date": "2022-11-04T02:46:06+00:00",
-  "views": "3.4K",
+  "views": "3.5K",
   "images": [
    {
     "href": "https://t.me/hykilp/1456?single",
@@ -18549,7 +18549,7 @@
   "id": "1458",
   "text": "上面那条消息收到了好多小眼睛，还有好多人来订阅了这个频道 qwq\n\n感谢大家的关注，不过这里主要还是一个记录、分享生活的地方啦，突然有好多不认识的人加进来让我有点不安... \n\n所以我把即没有头像/简介也没有共同群的账号移除了（如果有删错对不起 orz",
   "date": "2022-11-04T20:18:58+00:00",
-  "views": "167",
+  "views": "168",
   "images": [
    {
     "href": "https://t.me/hykilp/1458",
@@ -18564,7 +18564,7 @@
   "id": "1459",
   "text": "放假了！\n\n...又好像没有放假。虽然放假一周，计组课留了七个小时的录像要看，Java 课期末项目要写完，计组期末项目虽然晚一点 due 但是也要开始写，统计也有开学 due 的大作业，然后还有好多阅读要补 🥲",
   "date": "2022-11-05T04:35:31+00:00",
-  "views": "114",
+  "views": "116",
   "images": [
    {
     "href": "https://t.me/hykilp/1459",
@@ -18579,7 +18579,7 @@
   "id": "1460",
   "text": "CSSU 的算法挑战把我对算法的所有信心都击碎了...\n\n我只试了各种聚类算法选一个分数最高的，把有随机性的部分执行很多次 argmax 一下，再对每个点重找一遍就交上去了，也没有比最开始试的 k-means 高多少分\n\n旁边的人在讨论的线性/动态规划、模拟退火我都没听说过，现学也学不懂...\n\n果然对于学算法来说我还是太笨了 🥲",
   "date": "2022-11-05T22:05:59+00:00",
-  "views": "86",
+  "views": "88",
   "images": [
    {
     "href": "https://t.me/hykilp/1460",
@@ -18605,19 +18605,19 @@
   },
   "text": "成功了！用两层有限状态机加上一个 datapath 控制 RGB Video 输出渲染了一个彩虹旗！🌈\n\n是计组这门课最后一项电路作业了，让我们从零自己设计，不过什么提示/限制都没给反而自由了好多哇，状态机里面几乎一个逻辑门都没用hhh\n\n（状态寄存器和切到下一个状态的电路直接用一个计数器代替，然后输出逻辑直接用加法器除法器和比较器代替了\n\n之后的作业就是汇编啦，好期待 qwq （riscv 指令集已经打出来挂在墙上供起来了",
   "date": "2022-11-06T11:18:31+00:00",
-  "views": "61"
+  "views": "63"
  },
  {
   "id": "1466",
   "text": "烤鸡汉堡差点把锅烤熟了（x\n\n因为厨房很小，在厨房里做饭缺空间的时候总是习惯把不用的锅放在灶台下面的烤箱里。然后今天想要烤鸡汉堡的时候把这件事情忘记了，425°F 快预热完听到烟雾报警器叫才想起来还有锅在烤箱里 🌚",
   "date": "2022-11-06T17:32:44+00:00",
-  "views": "51"
+  "views": "57"
  },
  {
   "id": "1467",
   "text": "#桂桂聊聊书书今天吃什么\n鸡汉堡！",
   "date": "2022-11-06T18:07:58+00:00",
-  "views": "50",
+  "views": "56",
   "images": [
    {
     "href": "https://t.me/hykilp/1467",
@@ -18632,7 +18632,7 @@
   "id": "1468",
   "text": "VSCode 自定义 Snippet 真的好棒！\n\nhttps://youtu.be/TGh2NpCIDlc",
   "date": "2022-11-06T21:35:30+00:00",
-  "views": "44"
+  "views": "52"
  },
  {
   "id": "1469",
@@ -18642,6 +18642,54 @@
   },
   "text": "写汇编之前先把自动生成汇编代码的 VSCode snippet 写好hhhh",
   "date": "2022-11-06T22:19:54+00:00",
-  "views": "41"
+  "views": "51"
+ },
+ {
+  "id": "1470",
+  "text": "花了五个小时用 python 写了一个简易 MIPS ASM 编译器！\n\n起名叫做 EASM (Extended ASM)，因为是可以逐行翻译的汇编扩展。现在支持的指令有: stack_save(data...), stack_restore(reg...), pop_args(reg...), call(fn, args...), swap(r1, r2), if(cond), else(), endif(), while(cond), done(), return(ra), arithmetic(exp)\n\n因为是逐行翻译，编译出来的汇编代码也是缩进整齐还带完整注释的哦，所以即使用了编译器省下超级多代码也不影响交作业 qwq\n\n好耶 写完编译器终于可以开始写期末项目了",
+  "date": "2022-11-07T05:06:31+00:00",
+  "views": "31",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1470?single",
+    "url": "https://profile-api.hydev.org/assets/1470.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 397,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1471?single",
+    "url": "https://profile-api.hydev.org/assets/1471.jpg",
+    "style": {
+     "left": 0,
+     "top": 399,
+     "width": 225,
+     "height": 122,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1472?single",
+    "url": "https://profile-api.hydev.org/assets/1472.jpg",
+    "style": {
+     "left": 227,
+     "top": 399,
+     "width": 226,
+     "height": 122,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 521
+  }
  }
 ]
