@@ -18549,7 +18549,7 @@
   "id": "1458",
   "text": "上面那条消息收到了好多小眼睛，还有好多人来订阅了这个频道 qwq\n\n感谢大家的关注，不过这里主要还是一个记录、分享生活的地方啦，突然有好多不认识的人加进来让我有点不安... \n\n所以我把即没有头像/简介也没有共同群的账号移除了（如果有删错对不起 orz",
   "date": "2022-11-04T20:18:58+00:00",
-  "views": "184",
+  "views": "185",
   "images": [
    {
     "href": "https://t.me/hykilp/1458",
@@ -18564,7 +18564,7 @@
   "id": "1459",
   "text": "放假了！\n\n...又好像没有放假。虽然放假一周，计组课留了七个小时的录像要看，Java 课期末项目要写完，计组期末项目虽然晚一点 due 但是也要开始写，统计也有开学 due 的大作业，然后还有好多阅读要补 🥲",
   "date": "2022-11-05T04:35:31+00:00",
-  "views": "132",
+  "views": "133",
   "images": [
    {
     "href": "https://t.me/hykilp/1459",
@@ -18579,7 +18579,7 @@
   "id": "1460",
   "text": "CSSU 的算法挑战把我对算法的所有信心都击碎了...\n\n我只试了各种聚类算法选一个分数最高的，把有随机性的部分执行很多次 argmax 一下，再对每个点重找一遍就交上去了，也没有比最开始试的 k-means 高多少分\n\n旁边的人在讨论的线性/动态规划、模拟退火我都没听说过，现学也学不懂...\n\n果然对于学算法来说我还是太笨了 🥲",
   "date": "2022-11-05T22:05:59+00:00",
-  "views": "104",
+  "views": "105",
   "images": [
    {
     "href": "https://t.me/hykilp/1460",
@@ -18696,13 +18696,13 @@
   "id": "1473",
   "text": "#戴上耳机 squares by Cavetown\n\n随机到这首歌突然感觉好熟悉——然后想起来这个旋律原曲是 C418 的 Subwoofer Lullaby，在 Minecraft 主世界会随机播放的气氛音乐之一，承载了我在那个方块世界里无数的记忆\n\nC418 的音乐真的好让人安心，可惜在被微软收购之后已经不再为 Minecraft 做音乐了...\n\n网易云\nYoutube\n原曲 Subwoofer Lullaby",
   "date": "2022-11-07T20:48:06+00:00",
-  "views": "53"
+  "views": "55"
  },
  {
   "id": "1474",
   "text": "......第一次申请实习居然因为理解错了提交系统没有交上去 😭😭😭\n\n因为作文和推荐信截止时间不一样我还以为这三项都是单独的提交，以为 Completed 就是交上了，没想到居然还是要点右上角的 Submit\n\n啊啊啊为什么我没有仔细读一下它的说明，昨天熬到凌晨五点写的申请没交上去... 好想撞墙撞死",
   "date": "2022-11-07T21:28:58+00:00",
-  "views": "52",
+  "views": "54",
   "images": [
    {
     "href": "https://t.me/hykilp/1474",
@@ -18722,7 +18722,7 @@
   },
   "text": "MIPS 8-bit 字体渲染！",
   "date": "2022-11-08T01:44:42+00:00",
-  "views": "47",
+  "views": "50",
   "images": [
    {
     "href": "https://t.me/hykilp/1475?single",
@@ -18740,6 +18740,54 @@
   "img_group_style": {
    "width": 453,
    "height": 175
+  }
+ },
+ {
+  "id": "1477",
+  "text": "一条指令找到系统里装的所有 Java JDK:\n\nsudo find / -executable -name java -type f -exec printf \"\\033[33mFound {}\\033[0m\\n\" \\; -exec {} -version \\; -exec echo \"\" \\;\n\n...然后发现我电脑上居然有 174 个 JDK，有很多是 docker 的，不过怎么连 VSCode Java 插件都会在它的本地目录装一个 JDK 下来\n(╯‵□′)╯︵┻━┻",
+  "date": "2022-11-08T21:32:03+00:00",
+  "views": "12",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1477?single",
+    "url": "https://profile-api.hydev.org/assets/1477.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 314,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1478?single",
+    "url": "https://profile-api.hydev.org/assets/1478.jpg",
+    "style": {
+     "left": 0,
+     "top": 316,
+     "width": 225,
+     "height": 133,
+     "margin-right": 2,
+     "margin-bottom": 0
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1479?single",
+    "url": "https://profile-api.hydev.org/assets/1479.jpg",
+    "style": {
+     "left": 227,
+     "top": 316,
+     "width": 226,
+     "height": 133,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 449
   }
  }
 ]
