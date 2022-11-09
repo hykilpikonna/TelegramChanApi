@@ -18435,7 +18435,7 @@
   "id": "1451",
   "text": "写了一个让 Yubikey 插上电脑能无密码解锁的 python 脚本！\n\n工作原理是监听 USB 设备，插上/移除 USB 设备的时候调用 ykman 的输出，检测序列号来判断是不是我的 yubikey。如果是就 passwd -d 把密码删掉，如果检测不到就 chpasswd 把密码设回去，很简单粗暴 qwq\n\n（用这个脚本的话记得先 visudo 给你的用户加上 NOPASSWD:ALL，不然的话没密码是不能 sudo 的哦",
   "date": "2022-11-03T05:55:14+00:00",
-  "views": "533",
+  "views": "535",
   "images": [
    {
     "href": "https://t.me/hykilp/1451",
@@ -18450,7 +18450,7 @@
   "id": "1452",
   "text": "公交车被拖走了 qwq",
   "date": "2022-11-03T21:26:50+00:00",
-  "views": "345",
+  "views": "346",
   "images": [
    {
     "href": "https://t.me/hykilp/1452",
@@ -18465,7 +18465,7 @@
   "id": "1453",
   "text": "#桂桂聊聊书书今天吃什么\n照烧鸡腿饭！\n\n本来感觉 500g 好像够了就只买了四个鸡腿，然后发现去掉骨头之后只剩 337g 了，烧完更小了（xx\n\n下次还是多买点鸡腿好了，这次只花了 $2",
   "date": "2022-11-04T00:27:41+00:00",
-  "views": "530",
+  "views": "531",
   "images": [
    {
     "href": "https://t.me/hykilp/1453?single",
@@ -18513,7 +18513,7 @@
   "id": "1456",
   "text": "看到 z-library 表网 z-lib.org 下线了，镜像域名也几乎全都被美国邮政检验局回收... b-ok.cc, es.b-ok.lat, booksc.org, booksc.eu 都中招了\n\n不过发现里网还能访问，大家可以安装 tor 浏览器访问下面的那串链接继续用 z-lib 啦\n\nzlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion",
   "date": "2022-11-04T02:46:06+00:00",
-  "views": "3.9K",
+  "views": "4.0K",
   "images": [
    {
     "href": "https://t.me/hykilp/1456?single",
@@ -18549,7 +18549,7 @@
   "id": "1458",
   "text": "上面那条消息收到了好多小眼睛，还有好多人来订阅了这个频道 qwq\n\n感谢大家的关注，不过这里主要还是一个记录、分享生活的地方啦，突然有好多不认识的人加进来让我有点不安... \n\n所以我把即没有头像/简介也没有共同群的账号移除了（如果有删错对不起 orz",
   "date": "2022-11-04T20:18:58+00:00",
-  "views": "188",
+  "views": "189",
   "images": [
    {
     "href": "https://t.me/hykilp/1458",
@@ -18579,7 +18579,7 @@
   "id": "1460",
   "text": "CSSU 的算法挑战把我对算法的所有信心都击碎了...\n\n我只试了各种聚类算法选一个分数最高的，把有随机性的部分执行很多次 argmax 一下，再对每个点重找一遍就交上去了，也没有比最开始试的 k-means 高多少分\n\n旁边的人在讨论的线性/动态规划、模拟退火我都没听说过，现学也学不懂...\n\n果然对于学算法来说我还是太笨了 🥲",
   "date": "2022-11-05T22:05:59+00:00",
-  "views": "108",
+  "views": "109",
   "images": [
    {
     "href": "https://t.me/hykilp/1460",
@@ -18594,7 +18594,7 @@
   "id": "1464",
   "text": "#戴上耳机 Boys Will Be Bugs - Cavetown\n\n\"And if you wanna cry\n Make sure that they never see it\n Or even better yet\n Block it out and never feel it\"\n\n\"Don't message me cause I won't reply\n I wanna make you cry\n Ain't that how it's supposed to be\n Though it isn't me\"\n\n也许每个人心里都有一个四十岁的小男孩...\n\n长大的过程里总是需要把自己真实的感情藏得越来越深... 有时候想要抱抱，想要在别人的怀里大哭一场，但是表达出来的完全不是这样。明明每个人都有脆弱的一面，表现出来又有什么不好呢？\n\n网易云\nYouTube",
   "date": "2022-11-06T05:04:50+00:00",
-  "views": "87"
+  "views": "89"
  },
  {
   "id": "1465",
@@ -18605,13 +18605,13 @@
   },
   "text": "成功了！用两层有限状态机加上一个 datapath 控制 RGB Video 输出渲染了一个彩虹旗！🌈\n\n是计组这门课最后一项电路作业了，让我们从零自己设计，不过什么提示/限制都没给反而自由了好多哇，状态机里面几乎一个逻辑门都没用hhh\n\n（状态寄存器和切到下一个状态的电路直接用一个计数器代替，然后输出逻辑直接用加法器除法器和比较器代替了\n\n之后的作业就是汇编啦，好期待 qwq （riscv 指令集已经打出来挂在墙上供起来了",
   "date": "2022-11-06T11:18:31+00:00",
-  "views": "81"
+  "views": "83"
  },
  {
   "id": "1466",
   "text": "烤鸡汉堡差点把锅烤熟了（x\n\n因为厨房很小，在厨房里做饭缺空间的时候总是习惯把不用的锅放在灶台下面的烤箱里。然后今天想要烤鸡汉堡的时候把这件事情忘记了，425°F 快预热完听到烟雾报警器叫才想起来还有锅在烤箱里 🌚",
   "date": "2022-11-06T17:32:44+00:00",
-  "views": "79"
+  "views": "80"
  },
  {
   "id": "1467",
@@ -18722,7 +18722,7 @@
   },
   "text": "MIPS 8-bit 字体渲染！",
   "date": "2022-11-08T01:44:42+00:00",
-  "views": "57",
+  "views": "58",
   "images": [
    {
     "href": "https://t.me/hykilp/1475?single",
@@ -18746,7 +18746,7 @@
   "id": "1477",
   "text": "一条指令找到系统里装的所有 Java JDK:\n\nsudo find / -executable -name java -type f -exec printf \"\\033[33mFound {}\\033[0m\\n\" \\; -exec {} -version \\; -exec echo \"\" \\;\n\n...然后发现我电脑上居然有 174 个 JDK，有很多是 docker 的，不过怎么连 VSCode Java 插件都会在它的本地目录装一个 JDK 下来\n(╯‵□′)╯︵┻━┻",
   "date": "2022-11-08T21:32:03+00:00",
-  "views": "50",
+  "views": "51",
   "images": [
    {
     "href": "https://t.me/hykilp/1477?single",
@@ -18794,7 +18794,7 @@
   "id": "1480",
   "text": "#桂桂聊聊书书今天吃什么\n炒土豆丝和菠菜鸡蛋 qwq\n\n这个鸡蛋是不包含鸡蛋的哦，是纯植物模仿的鸡蛋。炒出来味道还不错，不过炒的时候真的太吓人了... 因为材质不一样所以一直向油下面沉，结果放了好多油都飘在蛋液上面然后蛋液还粘锅了 🌚",
   "date": "2022-11-09T01:48:23+00:00",
-  "views": "43",
+  "views": "45",
   "images": [
    {
     "href": "https://t.me/hykilp/1480?single",
@@ -18830,7 +18830,7 @@
   "id": "1482",
   "text": "我：明天 12 点叫醒我\n谷歌：已将闹钟设在明天凌晨 12 点\n🙃",
   "date": "2022-11-09T03:21:37+00:00",
-  "views": "37",
+  "views": "39",
   "images": [
    {
     "href": "https://t.me/hykilp/1482",
