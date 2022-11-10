@@ -14115,47 +14115,6 @@
   }
  },
  {
-  "id": "1147",
-  "reply": {
-   "url": "https://t.me/hykilp/1113",
-   "text": "昨天清理了一下键盘，洗了键帽没干就扣上去了，然后今天 k q 5 8 9 都坏了...",
-   "thumb": "https://profile-api.hydev.org/assets/1147-reply-thumb.jpg"
-  },
-  "text": "把坏掉的焊下来了！\n\n感觉好像在给电路板拔牙",
-  "date": "2022-09-02T21:06:18+00:00",
-  "views": "61",
-  "images": [
-   {
-    "href": "https://t.me/hykilp/1146?single",
-    "url": "https://profile-api.hydev.org/assets/1146.jpg",
-    "style": {
-     "left": 0,
-     "top": 0,
-     "width": 453,
-     "height": 301,
-     "margin-right": 0,
-     "margin-bottom": 2
-    }
-   },
-   {
-    "href": "https://t.me/hykilp/1147?single",
-    "url": "https://profile-api.hydev.org/assets/1147.jpg",
-    "style": {
-     "left": 0,
-     "top": 303,
-     "width": 453,
-     "height": 301,
-     "margin-right": 0,
-     "margin-bottom": 0
-    }
-   }
-  ],
-  "img_group_style": {
-   "width": 453,
-   "height": 604
-  }
- },
- {
   "id": "1148",
   "text": "把新的键轴焊上去就修好啦！复活了ww\n\n（虽然焊得好难看... 好久没有焊过东西了全都忘了xx",
   "date": "2022-09-02T21:35:39+00:00",
@@ -18476,7 +18435,7 @@
   "id": "1451",
   "text": "写了一个让 Yubikey 插上电脑能无密码解锁的 python 脚本！\n\n工作原理是监听 USB 设备，插上/移除 USB 设备的时候调用 ykman 的输出，检测序列号来判断是不是我的 yubikey。如果是就 passwd -d 把密码删掉，如果检测不到就 chpasswd 把密码设回去，很简单粗暴 qwq\n\n（用这个脚本的话记得先 visudo 给你的用户加上 NOPASSWD:ALL，不然的话没密码是不能 sudo 的哦",
   "date": "2022-11-03T05:55:14+00:00",
-  "views": "539",
+  "views": "540",
   "images": [
    {
     "href": "https://t.me/hykilp/1451",
@@ -18891,7 +18850,7 @@
   },
   "text": "「再写一个 feature 就睡」\n\n...然后就又写到凌晨五点把两个 milestone 写完了",
   "date": "2022-11-09T09:57:50+00:00",
-  "views": "59"
+  "views": "60"
  },
  {
   "id": "1484",
@@ -18902,7 +18861,7 @@
   },
   "text": "组员来问我给她留点事情做了，I be like 原来我还有一个组员 🌚",
   "date": "2022-11-09T17:21:03+00:00",
-  "views": "53",
+  "views": "54",
   "images": [
    {
     "href": "https://t.me/hykilp/1484",
@@ -18917,7 +18876,7 @@
   "id": "1485",
   "text": "今天天气好棒！去湖边没人的地方躺了好久，太阳晒在身上好舒服\n\n之后和聊聊书书一起去了铁道博物馆，虽然总是经过这里但是还是第一次进去看。室内比室外小了好多，有些设施还在制作中。不过看到了好多好不错的模型，玩到了好像是用来训练驾驶员的火车模拟器 qwq\n\n然后去旁边的机厅看了一下，看到金字塔全息投影被用在了绝对是最无聊的游戏上... 还有 floppy bird、别踩白块、crossy road 的机台... 为什么北美机厅那么喜欢把手机上流行的免费游戏做成街机机台，谁会花钱玩嘛（",
   "date": "2022-11-10T03:12:33+00:00",
-  "views": "45",
+  "views": "47",
   "images": [
    {
     "href": "https://t.me/hykilp/1485?single",
@@ -19001,7 +18960,7 @@
   "id": "1491",
   "text": "一年前在 K 家发生的悲剧又重演了... 又有炒勺掉进洗碗机里化掉了\n\n不过这次是硅胶不是塑料所以没有留下什么奇怪的味道，变形的炒勺也还能继续用 🤔",
   "date": "2022-11-10T05:34:52+00:00",
-  "views": "38",
+  "views": "40",
   "images": [
    {
     "href": "https://t.me/hykilp/1491?single",
