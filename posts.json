@@ -18648,7 +18648,7 @@
   "id": "1470",
   "text": "花了五个小时用 python 写了一个简易 MIPS ASM 编译器！\n\n起名叫做 EASM (Extended ASM)，因为是可以逐行翻译的汇编扩展。现在支持的指令有: stack_save(data...), stack_restore(reg...), pop_args(reg...), call(fn, args...), swap(r1, r2), if(cond), else(), endif(), while(cond), done(), return(ra), arithmetic(exp)\n\n因为是逐行翻译，编译出来的汇编代码也是缩进整齐还带完整注释的哦，所以即使用了编译器省下超级多代码也不影响交作业 qwq\n\n好耶 写完编译器终于可以开始写期末项目了",
   "date": "2022-11-07T05:06:31+00:00",
-  "views": "90",
+  "views": "91",
   "images": [
    {
     "href": "https://t.me/hykilp/1470?single",
@@ -18722,7 +18722,7 @@
   },
   "text": "MIPS 8-bit 字体渲染！",
   "date": "2022-11-08T01:44:42+00:00",
-  "views": "70",
+  "views": "71",
   "images": [
    {
     "href": "https://t.me/hykilp/1475?single",
@@ -18746,7 +18746,7 @@
   "id": "1477",
   "text": "一条指令找到系统里装的所有 Java JDK:\n\nsudo find / -executable -name java -type f -exec printf \"\\033[33mFound {}\\033[0m\\n\" \\; -exec {} -version \\; -exec echo \"\" \\;\n\n...然后发现我电脑上居然有 174 个 JDK，有很多是 docker 的，不过怎么连 VSCode Java 插件都会在它的本地目录装一个 JDK 下来\n(╯‵□′)╯︵┻━┻",
   "date": "2022-11-08T21:32:03+00:00",
-  "views": "67",
+  "views": "68",
   "images": [
    {
     "href": "https://t.me/hykilp/1477?single",
@@ -18830,7 +18830,7 @@
   "id": "1482",
   "text": "我：明天 12 点叫醒我\n谷歌：已将闹钟设在明天凌晨 12 点\n🙃",
   "date": "2022-11-09T03:21:37+00:00",
-  "views": "66",
+  "views": "67",
   "images": [
    {
     "href": "https://t.me/hykilp/1482",
@@ -18850,7 +18850,7 @@
   },
   "text": "「再写一个 feature 就睡」\n\n...然后就又写到凌晨五点把两个 milestone 写完了",
   "date": "2022-11-09T09:57:50+00:00",
-  "views": "60"
+  "views": "62"
  },
  {
   "id": "1484",
@@ -18861,7 +18861,7 @@
   },
   "text": "组员来问我给她留点事情做了，I be like 原来我还有一个组员 🌚",
   "date": "2022-11-09T17:21:03+00:00",
-  "views": "54",
+  "views": "57",
   "images": [
    {
     "href": "https://t.me/hykilp/1484",
@@ -18876,7 +18876,7 @@
   "id": "1485",
   "text": "今天天气好棒！去湖边没人的地方躺了好久，太阳晒在身上好舒服\n\n之后和聊聊书书一起去了铁道博物馆，虽然总是经过这里但是还是第一次进去看。室内比室外小了好多，有些设施还在制作中。不过看到了好多好不错的模型，玩到了好像是用来训练驾驶员的火车模拟器 qwq\n\n然后去旁边的机厅看了一下，看到金字塔全息投影被用在了绝对是最无聊的游戏上... 还有 floppy bird、别踩白块、crossy road 的机台... 为什么北美机厅那么喜欢把手机上流行的免费游戏做成街机机台，谁会花钱玩嘛（",
   "date": "2022-11-10T03:12:33+00:00",
-  "views": "47",
+  "views": "51",
   "images": [
    {
     "href": "https://t.me/hykilp/1485?single",
@@ -18960,7 +18960,7 @@
   "id": "1491",
   "text": "一年前在 K 家发生的悲剧又重演了... 又有炒勺掉进洗碗机里化掉了\n\n不过这次是硅胶不是塑料所以没有留下什么奇怪的味道，变形的炒勺也还能继续用 🤔",
   "date": "2022-11-10T05:34:52+00:00",
-  "views": "40",
+  "views": "44",
   "images": [
    {
     "href": "https://t.me/hykilp/1491?single",
