@@ -14115,6 +14115,47 @@
   }
  },
  {
+  "id": "1147",
+  "reply": {
+   "url": "https://t.me/hykilp/1113",
+   "text": "昨天清理了一下键盘，洗了键帽没干就扣上去了，然后今天 k q 5 8 9 都坏了...",
+   "thumb": "https://profile-api.hydev.org/assets/1147-reply-thumb.jpg"
+  },
+  "text": "把坏掉的焊下来了！\n\n感觉好像在给电路板拔牙",
+  "date": "2022-09-02T21:06:18+00:00",
+  "views": "61",
+  "images": [
+   {
+    "href": "https://t.me/hykilp/1146?single",
+    "url": "https://profile-api.hydev.org/assets/1146.jpg",
+    "style": {
+     "left": 0,
+     "top": 0,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 2
+    }
+   },
+   {
+    "href": "https://t.me/hykilp/1147?single",
+    "url": "https://profile-api.hydev.org/assets/1147.jpg",
+    "style": {
+     "left": 0,
+     "top": 303,
+     "width": 453,
+     "height": 301,
+     "margin-right": 0,
+     "margin-bottom": 0
+    }
+   }
+  ],
+  "img_group_style": {
+   "width": 453,
+   "height": 604
+  }
+ },
+ {
   "id": "1148",
   "text": "把新的键轴焊上去就修好啦！复活了ww\n\n（虽然焊得好难看... 好久没有焊过东西了全都忘了xx",
   "date": "2022-09-02T21:35:39+00:00",
@@ -18513,7 +18554,7 @@
   "id": "1456",
   "text": "看到 z-library 表网 z-lib.org 下线了，镜像域名也几乎全都被美国邮政检验局回收... b-ok.cc, es.b-ok.lat, booksc.org, booksc.eu 都中招了\n\n不过发现里网还能访问，大家可以安装 tor 浏览器访问下面的那串链接继续用 z-lib 啦\n\nzlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion",
   "date": "2022-11-04T02:46:06+00:00",
-  "views": "4.1K",
+  "views": "4.2K",
   "images": [
    {
     "href": "https://t.me/hykilp/1456?single",
@@ -18564,7 +18605,7 @@
   "id": "1459",
   "text": "放假了！\n\n...又好像没有放假。虽然放假一周，计组课留了七个小时的录像要看，Java 课期末项目要写完，计组期末项目虽然晚一点 due 但是也要开始写，统计也有开学 due 的大作业，然后还有好多阅读要补 🥲",
   "date": "2022-11-05T04:35:31+00:00",
-  "views": "139",
+  "views": "140",
   "images": [
    {
     "href": "https://t.me/hykilp/1459",
@@ -18579,7 +18620,7 @@
   "id": "1460",
   "text": "CSSU 的算法挑战把我对算法的所有信心都击碎了...\n\n我只试了各种聚类算法选一个分数最高的，把有随机性的部分执行很多次 argmax 一下，再对每个点重找一遍就交上去了，也没有比最开始试的 k-means 高多少分\n\n旁边的人在讨论的线性/动态规划、模拟退火我都没听说过，现学也学不懂...\n\n果然对于学算法来说我还是太笨了 🥲",
   "date": "2022-11-05T22:05:59+00:00",
-  "views": "116",
+  "views": "117",
   "images": [
    {
     "href": "https://t.me/hykilp/1460",
@@ -18594,7 +18635,7 @@
   "id": "1464",
   "text": "#戴上耳机 Boys Will Be Bugs - Cavetown\n\n\"And if you wanna cry\n Make sure that they never see it\n Or even better yet\n Block it out and never feel it\"\n\n\"Don't message me cause I won't reply\n I wanna make you cry\n Ain't that how it's supposed to be\n Though it isn't me\"\n\n也许每个人心里都有一个四十岁的小男孩...\n\n长大的过程里总是需要把自己真实的感情藏得越来越深... 有时候想要抱抱，想要在别人的怀里大哭一场，但是表达出来的完全不是这样。明明每个人都有脆弱的一面，表现出来又有什么不好呢？\n\n网易云\nYouTube",
   "date": "2022-11-06T05:04:50+00:00",
-  "views": "98"
+  "views": "99"
  },
  {
   "id": "1465",
@@ -18876,7 +18917,7 @@
   "id": "1485",
   "text": "今天天气好棒！去湖边没人的地方躺了好久，太阳晒在身上好舒服\n\n之后和聊聊书书一起去了铁道博物馆，虽然总是经过这里但是还是第一次进去看。室内比室外小了好多，有些设施还在制作中。不过看到了好多好不错的模型，玩到了好像是用来训练驾驶员的火车模拟器 qwq\n\n然后去旁边的机厅看了一下，看到金字塔全息投影被用在了绝对是最无聊的游戏上... 还有 floppy bird、别踩白块、crossy road 的机台... 为什么北美机厅那么喜欢把手机上流行的免费游戏做成街机机台，谁会花钱玩嘛（",
   "date": "2022-11-10T03:12:33+00:00",
-  "views": "43",
+  "views": "45",
   "images": [
    {
     "href": "https://t.me/hykilp/1485?single",
@@ -18960,7 +19001,7 @@
   "id": "1491",
   "text": "一年前在 K 家发生的悲剧又重演了... 又有炒勺掉进洗碗机里化掉了\n\n不过这次是硅胶不是塑料所以没有留下什么奇怪的味道，变形的炒勺也还能继续用 🤔",
   "date": "2022-11-10T05:34:52+00:00",
-  "views": "34",
+  "views": "38",
   "images": [
    {
     "href": "https://t.me/hykilp/1491?single",
