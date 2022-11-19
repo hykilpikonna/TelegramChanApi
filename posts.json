@@ -18746,7 +18746,7 @@
   "id": "1477",
   "text": "一条指令找到系统里装的所有 Java JDK:\n\nsudo find / -executable -name java -type f -exec printf \"\\033[33mFound {}\\033[0m\\n\" \\; -exec {} -version \\; -exec echo \"\" \\;\n\n...然后发现我电脑上居然有 174 个 JDK，有很多是 docker 的，不过怎么连 VSCode Java 插件都会在它的本地目录装一个 JDK 下来\n(╯‵□′)╯︵┻━┻",
   "date": "2022-11-08T21:32:03+00:00",
-  "views": "105",
+  "views": "106",
   "images": [
    {
     "href": "https://t.me/hykilp/1477?single",
@@ -19323,7 +19323,7 @@
   "id": "1515",
   "text": "收到了鱼塔的明信片！好感动，感谢鱼塔 qwq\n\n照片上的 UBC 校园真的好好看，好想找个假期去 BC 找鱼塔玩",
   "date": "2022-11-17T05:11:24+00:00",
-  "views": "77",
+  "views": "78",
   "images": [
    {
     "href": "https://t.me/hykilp/1515?single",
@@ -19371,7 +19371,7 @@
   "id": "1518",
   "text": "暑假实习的收入支票终于收到啦，过了差不多三个月\n\n这边收入税好高呀，原本是 $4500 减去税就只有 $3600 了（虽然也是很多很多钱了，第一次收到这么多钱，够花三个月了 qwq",
   "date": "2022-11-17T19:07:20+00:00",
-  "views": "76",
+  "views": "77",
   "images": [
    {
     "href": "https://t.me/hykilp/1518",
@@ -19386,7 +19386,7 @@
   "id": "1519",
   "text": "发现用吐司面包片能做出好多方便又好吃的食物——果酱面包、鸡蛋面包、肉松面包、三明治 qwq\n\n果然应该多买点面包片（x",
   "date": "2022-11-18T16:18:06+00:00",
-  "views": "60",
+  "views": "62",
   "images": [
    {
     "href": "https://t.me/hykilp/1519",
@@ -19401,7 +19401,7 @@
   "id": "1520",
   "text": "发生了太多... 先把 telegram 卸掉了，对不起",
   "date": "2022-11-18T22:10:17+00:00",
-  "views": "54",
+  "views": "56",
   "images": [
    {
     "href": "https://t.me/hykilp/1520",
