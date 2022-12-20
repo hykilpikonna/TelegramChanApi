@@ -2,6 +2,12 @@
 
 This repo uses GitHub Pages and GitHub Actions to create an json API for a Telegram channel.
 
+## ⚠️ 302: MOVED PERMANENTLY ⚠️
+
+This script is no longer maintained, and the reworked version is moved to: [one-among-us/TelegramBackup](https://github.com/one-among-us/TelegramBackup). You can also check out an example backup repo using the reworked version here: [blog-data](https://github.com/hykilpikonna/blog-data)
+
+The reworked version supports many more features such as videos, animated stickers, gifs, custom emojis, polls, location/venue, and more. Please use that one instead.
+
 ## Usage
 
 1. Fork this repo
